@@ -1,0 +1,11 @@
+Nombre,Tipo,Cantidad de libros,Cantidad de artículos,Cantidad de usuarios,Cantidad de proyectos,Cantidad de repositorios,Total
+SQL,queryLanguage,182,37,7179119,219617,1222.0,7400177.0
+MySQL,queryLanguage,168,16,2608362,47466,0.0,2656012.0
+PostgreSQL,queryLanguage,40,3,340751,13084,0.0,353878.0
+Regular Expressions,queryLanguage,0,0,23343,0,58614.0,81957.0
+Sqlalchemy,queryLanguage,4,0,65022,0,0.0,65026.0
+jq,queryLanguage,0,0,26342,0,60.0,26402.0
+GraphQL,queryLanguage,11,7,18676,0,1.0,18695.0
+CodeQL,queryLanguage,0,0,8304,0,3559.0,11863.0
+sizzle,queryLanguage,2,0,9096,0,0.0,9098.0
+SQLite,queryLanguage,11,0,5610,561,0.0,6182.0

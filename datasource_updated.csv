@@ -1,0 +1,4843 @@
+Nombre,Tipo,Cantidad de libros,Cantidad de artículos,Cantidad de usuarios,Cantidad de proyectos,Cantidad de repositorios,Total
+JavaScript,pl,351,48,5962666,63993,16046489.0,22073547.0
+HTML,textMarkup,116,7,5570873,69531,12648584.0,18289111.0
+Java,pl,401,37,5579429,85206,11529980.0,17195053.0
+Python,pl,342,52,2949551,46976,9300725.0,12297646.0
+SQL,queryLanguage,182,37,7179119,219617,1222.0,7400177.0
+CSS,stylesheetLanguage,102,2,2881846,45617,4446834.0,7374401.0
+C++,pl,128,6,4128238,61098,2161625.0,6351095.0
+C,pl,78,19,3793768,59919,2160271.0,6014055.0
+PHP,pl,274,26,2356101,30349,3479326.0,5866076.0
+TypeScript,pl,56,8,216959,1542,3281749.0,3500314.0
+Linux,os,2,0,3229009,32007,0.0,3261018.0
+Pure Data,pl,0,0,706,0,3084650.0,3085356.0
+Ruby,pl,65,13,393813,11438,2659551.0,3064880.0
+MATLAB,pl,177,35,2661579,32228,311901.0,3005920.0
+MySQL,queryLanguage,168,16,2608362,47466,0.0,2656012.0
+C#,pl,3,0,217261,19747,2161625.0,2398636.0
+XML,dataNotation,151,37,1917452,42277,3258.0,1963175.0
+R,pl,40,9,1075613,14173,689533.0,1779368.0
+Go,pl,5,26,684460,6403,1083789.0,1774683.0
+JQuery,library,2,0,1673580,24780,0.0,1698362.0
+Bash,pl,33,1,61747,4774,1579442.0,1645997.0
+TI Program,assembly,0,0,0,0,1586478.0,1586478.0
+Swift,pl,125,19,362590,3754,1044892.0,1411380.0
+WordPress,application,3,0,1350482,14952,0.0,1365437.0
+Vue,framework,0,0,298982,0,875562.0,1174544.0
+Inform,pl,2,5,586,0,1046854.0,1047447.0
+Kotlin,pl,99,16,130094,5276,901474.0,1036959.0
+Android,os,2,0,975958,9263,0.0,985223.0
+SPSS,pl,14,5,965674,9587,0.0,975280.0
+Visual Basic .NET,pl,0,0,5691,3447,935363.0,944501.0
+Git,application,0,0,834967,7032,0.0,841999.0
+HTTP,protocol,12,2,33780,771996,0.0,805790.0
+Dart,pl,30,6,38325,208,737948.0,776517.0
+SRecode Template,textMarkup,0,0,200,0,705466.0,705666.0
+Perl,pl,276,9,491984,13482,169830.0,675581.0
+Rust,pl,65,36,302193,141,356891.0,659326.0
+Grammatical Framework,grammarLanguage,0,0,265,0,624169.0,624434.0
+Objective-C,pl,15,0,12380,4276,535667.0,552338.0
+iOS,os,9,0,535588,5010,0.0,540607.0
+Objective C++,pl,0,0,200,0,535669.0,535869.0
+Arduino Programming Language,pl,265,28,527398,598,0.0,528289.0
+SubRip Text,application,0,0,200,0,521758.0,521958.0
+TensorFlow,library,1,0,435167,721,0.0,435889.0
+Closure Templates,template,0,0,1332,0,424389.0,425721.0
+Type Language,pl,0,0,200,0,404774.0,404974.0
+Standard ML,pl,0,0,1726,0,392047.0,393773.0
+PowerShell,pl,107,3,208708,19576,161144.0,389538.0
+Node.js,pl,79,18,374143,6864,0.0,381104.0
+SAS,pl,96,10,361103,4682,8407.0,374298.0
+JSON,dataNotation,17,10,355741,9228,133.0,365129.0
+Scala,pl,130,26,139471,4525,219084.0,363236.0
+PostgreSQL,queryLanguage,40,3,340751,13084,0.0,353878.0
+Dockerfile,pl,0,0,201,0,339978.0,340179.0
+SCSS,stylesheetLanguage,2,0,201,0,335325.0,335528.0
+Wavefront Object,application,0,0,2980,0,331144.0,334124.0
+MongoDB,application,2,0,318335,3787,0.0,322124.0
+Lua,pl,35,13,58860,1106,243541.0,303555.0
+AWS,cloud,2,0,263168,2512,0.0,265682.0
+Tex,pl,3,1,4276,3,248842.0,253125.0
+Makefile,pl,0,0,1861,0,247622.0,249483.0
+Module Management System,pl,0,0,0,0,222790.0,222790.0
+Kubernetes,application,0,0,219846,0,0.0,219846.0
+Wavefront Material,application,0,0,200,0,216089.0,216289.0
+Ruby on Rails,framework,1,0,197225,6343,0.0,203569.0
+XAML,xmlFormat,23,1,202885,0,0.0,202909.0
+Fortran,pl,321,37,165151,1931,29127.0,196567.0
+COBOL,pl,301,20,187188,2616,3411.0,193536.0
+HCL,dataNotation,2,1,5740,0,180390.0,186133.0
+Redis,application,0,0,182783,591,0.0,183374.0
+Inno Setup,pl,0,0,490,0,178157.0,178647.0
+D3.js,library,0,0,172549,0,0.0,172549.0
+Mathematica,pl,72,21,148741,1553,22012.0,172399.0
+Drupal,application,1,0,168605,1642,0.0,170248.0
+React Native,library,1,0,170206,0,0.0,170207.0
+Haskell,pl,70,34,37628,495,126924.0,165151.0
+Microsoft Azure,cloud,1,0,154044,1448,0.0,155493.0
+Vim,editor,0,0,152267,0,0.0,152267.0
+Cap'n Proto,idl,0,0,11564,0,134567.0,146131.0
+Elixir,pl,31,3,55882,214,89242.0,145372.0
+Clojure,pl,60,7,59246,469,82125.0,141907.0
+Jupyter Notebook,jsonFormat,0,0,200,0,137996.0,138196.0
+Assembly language,assembly,0,0,26543,1329,109158.0,137030.0
+Julia,pl,22,36,81911,85,53507.0,135561.0
+ARM,assembly,52,32,123423,7695,0.0,131202.0
+Scikit-learn,library,0,0,121955,0,0.0,121955.0
+Solidity,contractLanguage,22,13,31940,937,87183.0,120095.0
+Keras,library,0,0,115390,0,0.0,115390.0
+PyTorch,library,0,0,107673,0,0.0,107673.0
+Deno,compiler,2,0,106120,0,0.0,106122.0
+EJS,template,0,0,6262,0,92857.0,99119.0
+CoffeeScript,pl,17,0,23320,216,64590.0,88143.0
+Groovy,pl,22,7,6056,0,76001.0,82086.0
+Regular Expressions,queryLanguage,0,0,23343,0,58614.0,81957.0
+Unity3D Asset,application,0,0,200,0,81061.0,81261.0
+Processing,pl,42,31,2366,0,78037.0,80476.0
+Batchfile,pl,0,0,4005,0,72380.0,76385.0
+Jekyll,application,0,0,74748,0,0.0,74748.0
+Prolog,pl,100,23,51482,446,22512.0,74563.0
+Svelte,pl,0,0,70695,0,0.0,70695.0
+Hack,pl,27,3,1436,19,68473.0,69958.0
+PROMETHEUS,pl,0,0,69466,0,0.0,69466.0
+NATO phonetic alphabet,notation,0,0,66990,0,0.0,66990.0
+Literate Haskell,pl,0,0,200,0,64984.0,65184.0
+Sqlalchemy,queryLanguage,4,0,65022,0,0.0,65026.0
+FFmpeg,application,0,0,64706,0,0.0,64706.0
+Emacs,editor,0,0,64338,0,0.0,64338.0
+Gettext Catalog,textMarkup,0,0,755,0,62782.0,63537.0
+x86 Assembly,assembly,0,0,2350,0,61156.0,63506.0
+Lisp,pl,75,25,61481,303,0.0,61884.0
+ShaderLab,pl,0,0,200,0,59455.0,59655.0
+ASP,template,72,7,1865,9630,47971.0,59545.0
+Magit,application,0,0,59296,0,0.0,59296.0
+mermaid,textMarkup,0,0,58958,0,0.0,58958.0
+CUDA,pl,35,29,38623,769,18135.0,57591.0
+Pascal,pl,145,21,7708,102,49346.0,57322.0
+Erlang,pl,29,37,27148,308,28645.0,56167.0
+Homebrew,packageManager,0,0,56094,0,0.0,56094.0
+gogs-editor,editor,0,0,55191,0,0.0,55191.0
+Maple,pl,28,15,53310,511,0.0,53864.0
+Verilog,hardwareDescriptionLanguage,34,18,5176,246,48035.0,53509.0
+Jinja,template,0,0,13821,0,37267.0,51088.0
+REST,protocol,5,8,24190,26215,0.0,50418.0
+ISBN,schema,3,18,49430,53,0.0,49504.0
+tldr,application,0,0,48769,0,0.0,48769.0
+x86-64,isa,0,0,41291,413,0.0,41704.0
+Blade,template,1,0,201,0,41201.0,41403.0
+VHDL,hardwareDescriptionLanguage,50,39,6245,0,34211.0,40545.0
+Ace Editor,editor,0,0,40169,0,0.0,40169.0
+GDScript,pl,0,0,201,0,39447.0,39648.0
+1C Enterprise Script,pl,0,0,200,0,38669.0,38869.0
+Monaco Editor,editor,0,0,38687,0,0.0,38687.0
+Pug,template,2,0,26938,0,11560.0,38500.0
+Spin,pl,0,0,200,0,38264.0,38464.0
+V,pl,0,0,36606,0,1382.0,37988.0
+tornado,template,4,0,37044,0,0.0,37048.0
+ROFF,textMarkup,0,0,220,0,36672.0,36892.0
+Matplotlib,library,6,0,36109,0,0.0,36115.0
+Yes It Is,framework,0,0,35526,0,0.0,35526.0
+emberjs-framework,framework,0,0,35078,0,0.0,35078.0
+Crystal,pl,0,0,27065,0,7522.0,34587.0
+MicroPython,pl,30,1,34179,0,0.0,34210.0
+SaltStack,pl,1,0,28719,0,4398.0,33118.0
+VBA,pl,270,5,3650,511,28503.0,32939.0
+QR code,barCodeFormat,0,0,32095,0,0.0,32095.0
+Smarty,template,4,0,586,0,31402.0,31992.0
+Elm,pl,5,2,11377,127,19905.0,31416.0
+DNS Zone,application,0,0,1690,0,29634.0,31324.0
+PostCSS,textMarkup,0,0,31123,0,0.0,31123.0
+Edje Data Collection,jsonFormat,0,0,200,0,30865.0,31065.0
+REBOL,pl,3,0,326,0,30469.0,30798.0
+OCaml,pl,11,14,3341,0,27376.0,30742.0
+v8,vm,0,0,30730,0,0.0,30730.0
+Literate CoffeeScript,pl,0,0,22535,0,7938.0,30473.0
+mochajs,library,0,0,30323,0,0.0,30323.0
+highlight.js,library,0,0,30285,0,0.0,30285.0
+Vcpkg,packageManager,0,0,29850,0,0.0,29850.0
+Bazel,application,0,0,29776,0,0.0,29776.0
+API Blueprint,pl,0,0,15183,0,14496.0,29679.0
+DOT,textMarkup,0,4,1780,0,27831.0,29615.0
+npm,packageManager,0,0,29587,0,0.0,29587.0
+Morse code,notation,0,0,29235,0,0.0,29235.0
+Simple Binary Encoding,pl,0,0,29189,0,0.0,29189.0
+Handlebars,template,0,0,251,0,28186.0,28437.0
+FLUX,pl,7,11,28134,0,187.0,28339.0
+Zig,pl,0,0,23492,0,3909.0,27401.0
+Flow,pl,14,25,27307,0,0.0,27346.0
+Nim,pl,3,0,19118,0,8018.0,27139.0
+Roslyn compiler,compiler,0,0,27009,0,0.0,27009.0
+HHVM,vm,1,0,26990,0,0.0,26991.0
+Puppet,pl,11,2,3200,0,23445.0,26658.0
+FlatBuffers,idl,0,0,26585,0,0.0,26585.0
+ActionScript,pl,108,2,1630,88,24615.0,26443.0
+jq,queryLanguage,0,0,26342,0,60.0,26402.0
+Protocol Buffers,idl,0,0,2416,94,23747.0,26257.0
+Taichi,pl,0,0,26221,0,0.0,26221.0
+Common Lisp,pl,6,0,1891,24,24262.0,26183.0
+PL/SQL,pl,5,0,2355,2972,20365.0,25697.0
+Haxe,pl,5,0,8831,1,16827.0,25664.0
+XSLT,xmlFormat,24,0,200,0,25274.0,25498.0
+Gradle,application,0,0,25492,0,4.0,25496.0
+PL/pgSQL,pl,0,0,490,0,24919.0,25409.0
+Liquid,template,2,15,13569,325,11459.0,25370.0
+Racket,pl,4,10,7353,48,17790.0,25205.0
+chatterbot,library,1,0,24659,0,0.0,24660.0
+TLS,protocol,1,2,24595,0,0.0,24598.0
+USB,standard,0,0,24430,0,0.0,24430.0
+fish,pl,1,6,24362,1,0.0,24370.0
+Nushell,pl,0,0,24222,0,0.0,24222.0
+SciPy,library,8,0,23940,0,0.0,23948.0
+Manim,framework,0,0,23655,0,0.0,23655.0
+Apex,pl,19,0,201,0,22719.0,22939.0
+micro-editor,editor,0,0,22815,0,0.0,22815.0
+Embedded Crystal,template,0,0,22212,0,287.0,22499.0
+ColdFusion,pl,36,0,1646,0,20756.0,22438.0
+dgraph,application,0,0,22287,0,0.0,22287.0
+jasmine,library,0,0,22184,0,0.0,22184.0
+ASP.NET,pl,0,0,20,0,21976.0,21996.0
+Scheme,pl,24,23,3796,1174,16742.0,21759.0
+onnx,binaryDataFormat,0,0,21274,0,0.0,21274.0
+HDMI,standard,0,0,21185,0,0.0,21185.0
+DOI,schema,0,0,21001,0,0.0,21001.0
+RobotFramework,pl,0,0,13218,0,7602.0,20820.0
+ASCII,characterEncoding,0,0,20715,0,0.0,20715.0
+SymPy,library,0,0,20427,0,0.0,20427.0
+Microsoft Excel,application,0,0,19906,0,0.0,19906.0
+TOML,dataNotation,0,0,19852,0,8.0,19860.0
+UTC,timeFormat,0,0,19765,0,0.0,19765.0
+Scoop,packageManager,0,0,19574,0,0.0,19574.0
+D,pl,2,4,6311,0,13224.0,19541.0
+Natural Language Toolkit,library,4,0,19291,0,0.0,19295.0
+Ada,pl,64,50,12116,2184,4785.0,19199.0
+Visual Basic,pl,0,0,15898,3294,0.0,19192.0
+PgBouncer,application,0,0,19046,0,0.0,19046.0
+KaTeX,textMarkup,0,0,18724,0,0.0,18724.0
+GraphQL,queryLanguage,11,7,18676,0,1.0,18695.0
+SOAP,xmlFormat,11,8,10535,7493,0.0,18047.0
+URL,schema,0,0,17850,0,0.0,17850.0
+Mindsdb,application,0,0,17602,0,0.0,17602.0
+Tcl,pl,26,2,3106,0,13969.0,17103.0
+UPC,pl,1,0,411,0,16668.0,17080.0
+Scratch,visual,51,45,16942,0,0.0,17038.0
+cloc,application,0,0,16813,0,0.0,16813.0
+TCP,protocol,6,2,16700,0,0.0,16708.0
+MDX,textMarkup,1,0,16679,0,0.0,16680.0
+Dojo,pl,0,0,16672,0,0.0,16672.0
+Iterm2,application,0,0,16642,0,0.0,16642.0
+AutoHotkey,pl,7,0,1761,0,14623.0,16391.0
+Chapel,pl,2,19,16150,1,212.0,16384.0
+PureScript,pl,0,0,10706,0,5443.0,16149.0
+LabVIEW G,pl,0,0,8125,2012,5849.0,15986.0
+AssemblyScript,pl,0,0,15970,0,0.0,15970.0
+QML,pl,0,0,1131,0,14755.0,15886.0
+DNS,protocol,6,2,15790,0,0.0,15798.0
+GIF,binaryDataFormat,0,0,15090,0,0.0,15090.0
+mal,interpreter,0,0,14998,0,0.0,14998.0
+Smalltalk,pl,32,16,5400,0,9336.0,14784.0
+DisplayPort,standard,0,0,14770,0,0.0,14770.0
+Apache Hbase,application,2,0,14552,65,0.0,14619.0
+YAML,dataNotation,0,1,13981,61,525.0,14568.0
+SI,notation,0,2,14430,0,0.0,14432.0
+ClojureScript,pl,9,0,14223,0,0.0,14232.0
+Yacc,grammarLanguage,4,1,3087,17,11041.0,14150.0
+wasmer,vm,0,0,14140,0,0.0,14140.0
+Prism,library,0,0,14079,0,0.0,14079.0
+FTP,protocol,0,0,13916,0,0.0,13916.0
+capybara,library,0,0,13847,0,0.0,13847.0
+Marko,textMarkup,0,0,13537,0,101.0,13638.0
+COMPONENT PASCAL,pl,0,0,200,0,13387.0,13587.0
+Markdown,textMarkup,5,2,12503,0,1023.0,13533.0
+UTF-8,characterEncoding,0,0,13435,0,0.0,13435.0
+Unicode,characterEncoding,2,0,13380,0,0.0,13382.0
+SMTP,protocol,1,1,13330,0,0.0,13332.0
+gridstudio-editor,editor,0,0,13295,0,0.0,13295.0
+Less,stylesheetLanguage,7,3,1151,0,12105.0,13266.0
+Reason,pl,1,3,11216,0,1924.0,13144.0
+Nginx,configFormat,6,0,4245,2884,5905.0,13040.0
+Ninja,template,2,4,12726,0,0.0,12732.0
+Graph Modeling Language,application,0,0,175,0,12488.0,12663.0
+F Prime,library,0,0,12404,0,0.0,12404.0
+GLSL,pl,2,0,450,0,11778.0,12230.0
+Sass,stylesheetLanguage,7,1,3241,0,8972.0,12221.0
+Unix,os,0,0,12105,0,0.0,12105.0
+Base64,textEncodingFormat,0,1,12030,0,0.0,12031.0
+CodeQL,queryLanguage,0,0,8304,0,3559.0,11863.0
+OpenSCAD,pl,2,0,720,0,10989.0,11711.0
+SystemVerilog,pl,9,3,1345,0,9972.0,11329.0
+G-code,pl,1,0,6865,0,4457.0,11323.0
+Smali,assembly,0,1,8729,0,2479.0,11209.0
+Stata,pl,21,5,2816,0,8344.0,11186.0
+UML,xmlFormat,112,38,11035,0,0.0,11185.0
+YARA,pl,0,0,10113,0,812.0,10925.0
+Visual Studio,editor,0,0,10800,0,0.0,10800.0
+RAML,yamlFormat,1,0,6541,0,4190.0,10732.0
+PostScript,textMarkup,13,1,2585,0,8053.0,10652.0
+Numba,compiler,0,0,10558,0,0.0,10558.0
+Kakoune,editor,0,0,10514,0,0.0,10514.0
+PDF,binaryDataFormat,0,0,10480,0,0.0,10480.0
+WebAssembly,bytecode,13,25,8291,5,1641.0,9975.0
+CouchDB,application,3,0,9872,13,0.0,9888.0
+mustache,template,0,0,3677,0,6085.0,9762.0
+dat-protocol,protocol,0,0,9719,0,0.0,9719.0
+VBScript,pl,40,0,3347,142,6076.0,9605.0
+Eclipse,editor,0,0,9480,0,0.0,9480.0
+RTF,textMarkup,0,0,20,0,9429.0,9449.0
+Microsoft Notepad,editor,0,0,9425,0,0.0,9425.0
+docopt,pl,0,0,9323,0,0.0,9323.0
+xsv-app,application,0,0,9277,0,0.0,9277.0
+Vimwiki,wikiMarkup,0,0,9204,0,0.0,9204.0
+PowerPC,isa,10,2,9126,59,0.0,9197.0
+sizzle,queryLanguage,2,0,9096,0,0.0,9098.0
+RetDec,decompiler,0,0,9061,0,0.0,9061.0
+Unity,library,0,0,9036,0,0.0,9036.0
+Desmos,pl,0,0,8918,0,0.0,8918.0
+UDP,protocol,1,5,8860,35,0.0,8901.0
+Coq,pl,3,27,3613,0,5206.0,8849.0
+X BitMap,application,0,0,565,0,8276.0,8841.0
+MD5,hashFunction,0,0,8785,0,0.0,8785.0
+4G,standard,0,0,8710,0,0.0,8710.0
+edgedb,database,0,0,8666,0,0.0,8666.0
+GAME,pl,99,0,8550,0,0.0,8649.0
+Visual Studio Code,editor,0,0,8525,0,0.0,8525.0
+Semantic Versioning,schema,0,0,8383,0,0.0,8383.0
+AUTOCAD,application,0,0,8365,0,0.0,8365.0
+noms-db,database,0,0,8322,0,0.0,8322.0
+SHA-2,hashFunction,0,0,8275,0,0.0,8275.0
+Conan,packageManager,0,0,8259,0,0.0,8259.0
+SourcePawn,pl,0,0,599,0,7547.0,8146.0
+Brainfuck,esolang,0,0,6460,0,1631.0,8091.0
+Papyrus,pl,0,0,4560,0,3518.0,8078.0
+Idris,pl,1,8,6168,1,1895.0,8073.0
+Ballerina,pl,2,1,6576,0,1483.0,8062.0
+Gherkin,pl,0,0,201,0,7787.0,7988.0
+SQLPL,pl,0,0,370,0,7609.0,7979.0
+Pony,pl,0,0,7417,0,549.0,7966.0
+BASIC,pl,57,13,7025,0,829.0,7924.0
+Halide,pl,0,12,7894,0,0.0,7906.0
+htmx,template,0,0,7883,0,0.0,7883.0
+FAT,filesystem,0,0,7860,0,0.0,7860.0
+Eve,pl,0,0,7830,0,0.0,7830.0
+LaTeX,textMarkup,8,5,7721,0,0.0,7734.0
+Java Properties,dataNotation,0,0,1245,0,6363.0,7608.0
+binaryen,compiler,0,0,7442,0,0.0,7442.0
+X86,isa,22,5,7400,0,0.0,7427.0
+SHA-1,hashFunction,0,0,7410,0,0.0,7410.0
+Digital Visual Interface,standard,0,0,7385,0,0.0,7385.0
+Delphi,pl,88,3,7084,181,0.0,7356.0
+awk,pl,26,8,4680,7,2552.0,7273.0
+ABAP,pl,55,2,2416,283,4488.0,7244.0
+Network Time Protocol,protocol,0,0,7225,0,0.0,7225.0
+MediaWiki,wikiMarkup,2,0,7133,69,10.0,7214.0
+Max,jsonFormat,2,0,1246,0,5939.0,7187.0
+LLVM IR,ir,0,0,5812,23,1351.0,7186.0
+Slim,template,1,2,6818,0,305.0,7126.0
+RDFa,xmlFormat,0,0,7116,0,0.0,7116.0
+Wren,pl,0,0,7070,0,8.0,7078.0
+Red,pl,0,0,6608,0,453.0,7061.0
+Lightweight Directory Access Protocol,protocol,0,0,7030,0,0.0,7030.0
+Bucklescript,pl,0,0,7018,0,0.0,7018.0
+Telnet,protocol,0,0,6990,0,0.0,6990.0
+chibicc,compiler,0,0,6912,0,0.0,6912.0
+Bicep,jsonFormat,0,0,4290,0,2562.0,6852.0
+PureBasic,pl,2,0,426,0,6366.0,6794.0
+IcedCoffeeScript,pl,0,0,6734,0,0.0,6734.0
+HAML,template,2,0,6324,0,323.0,6649.0
+BMP file format,binaryDataFormat,0,0,6600,0,0.0,6600.0
+ECMAScript,pl,9,3,6570,0,0.0,6582.0
+Logos,pl,0,0,200,0,6281.0,6481.0
+Nextflow,pl,0,1,3332,0,3132.0,6465.0
+SVG,textMarkup,21,4,6405,0,27.0,6457.0
+Twig,template,0,0,611,0,5791.0,6402.0
+AMPL,pl,8,2,766,3,5570.0,6349.0
+Tagged Image File Format,binaryDataFormat,0,0,6280,0,0.0,6280.0
+commonmark,textMarkup,0,0,6270,0,0.0,6270.0
+Zuo,pl,0,0,6265,0,0.0,6265.0
+bosque,pl,1,0,6237,0,0.0,6238.0
+contracts.coffee,pl,0,0,6219,0,0.0,6219.0
+ICD-10-CM diagnosis,schema,0,0,6205,0,0.0,6205.0
+Enso,pl,0,0,6195,0,0.0,6195.0
+Imba,pl,0,0,6186,0,0.0,6186.0
+SQLite,queryLanguage,11,0,5610,561,0.0,6182.0
+penrose,pl,0,1,6177,0,0.0,6178.0
+Luna,pl,0,1,6169,0,0.0,6170.0
+SQF,pl,0,0,200,0,5963.0,6163.0
+ToffeeScript,pl,0,0,6130,0,0.0,6130.0
+BlackCoffee,pl,0,0,6106,0,0.0,6106.0
+Solaris,os,0,0,6095,0,0.0,6095.0
+heap.coffee,pl,0,0,6092,0,0.0,6092.0
+FreeMarker,template,0,0,375,0,5703.0,6078.0
+SYMBOL,pl,0,19,6050,0,0.0,6069.0
+NetLogo,pl,4,10,2193,0,3859.0,6066.0
+MarkovJunior,pl,0,0,6062,0,0.0,6062.0
+Caffeine,pl,0,0,6023,0,0.0,6023.0
+vyper,pl,0,0,5899,0,117.0,6016.0
+Hy,pl,0,0,5559,0,398.0,5957.0
+JSON5,dataNotation,0,0,5939,0,0.0,5939.0
+tbox-lib,library,0,0,5925,0,0.0,5925.0
+LuaJIT,compiler,0,0,5901,0,0.0,5901.0
+skulpt,pl,0,0,5797,0,0.0,5797.0
+PEG.js,grammarLanguage,0,0,5723,0,72.0,5795.0
+AutoIt,pl,5,0,1011,0,4732.0,5748.0
+hasklig,font,0,0,5747,0,0.0,5747.0
+codecept,library,0,0,5731,0,0.0,5731.0
+Jison,pl,0,0,5688,0,0.0,5688.0
+Scala.js,pl,0,3,5674,0,0.0,5677.0
+RMarkdown,textMarkup,2,0,5472,0,198.0,5672.0
+Message Queuing Telemetry Transport,protocol,0,0,5661,0,0.0,5661.0
+datascript,queryLanguage,0,0,5634,0,0.0,5634.0
+LookML,pl,0,0,201,0,5427.0,5628.0
+Power BI,application,0,0,5601,0,0.0,5601.0
+Elvish,pl,0,0,5595,0,0.0,5595.0
+Tableau Software,application,0,0,5586,0,0.0,5586.0
+NSIS,pl,0,0,756,0,4747.0,5503.0
+Euclidean geometry,notation,0,0,5440,0,0.0,5440.0
+Stylus,stylesheetLanguage,0,0,391,0,5041.0,5432.0
+Streem,pl,0,0,5376,0,0.0,5376.0
+m3db,database,0,0,5360,0,0.0,5360.0
+Blender,application,0,0,5360,0,0.0,5360.0
+Security Assertion Markup Language,xmlFormat,0,0,5310,0,0.0,5310.0
+OpenGL,library,10,0,5291,0,0.0,5301.0
+Scilab,pl,15,10,1290,0,3986.0,5301.0
+astro,pl,0,0,750,0,4515.0,5265.0
+Sweet.js,pl,0,0,5219,0,0.0,5219.0
+unison,pl,0,0,5176,0,0.0,5176.0
+HTTP/2,protocol,0,0,5175,0,0.0,5175.0
+MIPS architecture,isa,0,0,5145,12,0.0,5157.0
+starlark,pl,0,0,1708,0,3423.0,5131.0
+CSS Doodle,pl,0,0,5063,0,0.0,5063.0
+GAP,pl,3,0,1289,0,3760.0,5052.0
+carp,pl,0,2,5046,0,0.0,5048.0
+walt,pl,0,0,5029,0,0.0,5029.0
+AXIOM,pl,0,6,4990,0,0.0,4996.0
+DIAGRAM,pl,4,25,4925,0,0.0,4954.0
+Dhall,dataNotation,0,0,4065,0,817.0,4882.0
+Zephir,pl,0,0,4740,0,91.0,4831.0
+ohm,grammarLanguage,0,0,4812,0,0.0,4812.0
+Triton,pl,0,0,4794,0,0.0,4794.0
+Forth,pl,7,16,3230,0,1537.0,4790.0
+Lean,pl,4,10,2898,0,1807.0,4719.0
+Binary notation,notation,1,2,4715,0,0.0,4718.0
+gleam,pl,0,0,4581,0,104.0,4685.0
+Stripe company,webApi,0,0,4670,0,0.0,4670.0
+Applescript,pl,15,1,1221,6,3425.0,4668.0
+gravity,pl,1,6,4656,0,0.0,4663.0
+Vala,pl,3,0,1171,0,3465.0,4639.0
+YANG,application,0,0,4614,0,0.0,4614.0
+JVM,vm,0,0,4610,0,0.0,4610.0
+SuperCollider,pl,5,0,801,0,3782.0,4588.0
+Frege,pl,0,0,4361,0,223.0,4584.0
+Zip file format,binaryDataFormat,0,0,4550,0,0.0,4550.0
+FM broadcasting,standard,0,0,4550,0,0.0,4550.0
+New Technology File System,filesystem,0,0,4520,0,0.0,4520.0
+ANTLR,grammarLanguage,1,1,3048,30,1415.0,4495.0
+FLEX,grammarLanguage,78,4,4402,0,0.0,4484.0
+PRQL,queryLanguage,0,0,4476,0,0.0,4476.0
+ink,esolang,0,0,4453,0,0.0,4453.0
+FreeBSD,os,0,0,4445,0,0.0,4445.0
+MoonScript,pl,0,0,3585,0,818.0,4403.0
+MIME,textDataFormat,1,1,4380,1,0.0,4383.0
+Django,library,0,0,4375,0,0.0,4375.0
+F#,pl,0,0,4316,0,0.0,4316.0
+netbeans-editor,editor,0,0,4309,0,0.0,4309.0
+J,pl,1,0,3779,0,468.0,4248.0
+Reverse Polish notation,notation,0,0,4200,0,0.0,4200.0
+Qt,framework,5,0,4171,0,0.0,4176.0
+Nearley,grammarLanguage,0,0,4099,0,53.0,4152.0
+APL,pl,13,28,3670,0,416.0,4127.0
+RDF,dataNotation,6,17,4096,0,0.0,4119.0
+Melody,pl,0,0,4099,0,0.0,4099.0
+OpenCL,pl,25,46,3731,266,0.0,4068.0
+BPMN,visual,2,16,4050,0,0.0,4068.0
+PAWN,pl,2,0,785,0,3270.0,4057.0
+SHA-3,hashFunction,0,0,4055,0,0.0,4055.0
+Lex,grammarLanguage,2,0,1110,0,2902.0,4014.0
+QMake,pl,0,0,375,0,3624.0,3999.0
+YASnippet,textMarkup,0,0,3593,0,403.0,3996.0
+Ren'Py,pl,0,0,870,0,3124.0,3994.0
+odin,pl,0,2,3571,0,417.0,3990.0
+chisel,hardwareDescriptionLanguage,0,0,3972,0,0.0,3972.0
+Dynamo,visual,0,0,3924,0,0.0,3924.0
+verona,pl,0,0,3825,0,0.0,3825.0
+DIGITAL Command Language,pl,0,0,215,0,3602.0,3817.0
+Coconut,pl,0,0,3809,0,0.0,3809.0
+MUMPS,pl,10,3,1345,0,2448.0,3806.0
+Vim script,pl,0,0,240,0,3544.0,3784.0
+mgmt,pl,2,0,3781,0,0.0,3783.0
+ExFAT,filesystem,0,0,3760,0,0.0,3760.0
+JSON-LD,dataValidationLanguage,0,0,3731,0,0.0,3731.0
+JSP,template,28,1,2965,0,729.0,3723.0
+Cue,dataNotation,0,0,3714,0,0.0,3714.0
+Sublime Text,editor,0,0,3691,0,0.0,3691.0
+lmdb,library,0,0,3686,0,0.0,3686.0
+F*,pl,0,1,3398,0,250.0,3649.0
+IDL,pl,9,10,1281,0,2337.0,3637.0
+ColaScript,pl,0,0,3629,0,0.0,3629.0
+Laravel,framework,0,0,3625,0,0.0,3625.0
+xlwings-editor,library,0,0,3614,0,0.0,3614.0
+BitBake,pl,0,0,326,0,3285.0,3611.0
+Terra,pl,0,4,3195,0,410.0,3609.0
+CodeMirror,editor,0,0,3537,0,0.0,3537.0
+RFC,notation,1,1,3520,0,0.0,3522.0
+LOGLAN,pl,2,0,3515,0,0.0,3517.0
+IMAP,protocol,1,0,3505,0,0.0,3506.0
+kaitai,idl,0,0,3504,0,0.0,3504.0
+chaiscript,pl,0,0,3485,0,0.0,3485.0
+svgbob,textMarkup,0,0,3478,0,0.0,3478.0
+JSON Schema,dataValidationLanguage,0,0,3369,0,0.0,3369.0
+manhood,pl,1,0,3350,0,0.0,3351.0
+rant,pl,0,0,3350,0,0.0,3350.0
+Google Cloud Platform,cloud,0,0,3346,0,0.0,3346.0
+Real-time Transport Protocol,protocol,0,0,3325,0,0.0,3325.0
+Apache Maven,application,0,0,3316,0,0.0,3316.0
+janet,pl,0,0,3224,0,88.0,3312.0
+Hindu-Arabic numeral system,numeralSystem,0,0,3300,0,0.0,3300.0
+checked-c,pl,0,0,3292,0,0.0,3292.0
+Pawn,pl,0,0,15,0,3270.0,3285.0
+Emojicode,pl,2,0,3247,0,0.0,3249.0
+XQuery,pl,2,15,1351,125,1753.0,3246.0
+AGC,assembly,3,0,3025,0,210.0,3238.0
+A-0 system,compiler,0,0,3220,0,0.0,3220.0
+Squirrel,pl,0,0,1688,0,1513.0,3201.0
+Gnuplot,pl,3,0,901,0,2276.0,3180.0
+mavo,template,0,0,3155,0,0.0,3155.0
+Extensible Linking Format,binaryExecutable,0,0,3145,0,0.0,3145.0
+M4,pl,2,0,715,0,2405.0,3122.0
+grep,pl,0,0,3115,0,0.0,3115.0
+Cranelift,ir,0,0,3109,0,0.0,3109.0
+Snowman,decompiler,0,0,3108,0,0.0,3108.0
+flowchart.fun,textMarkup,0,0,3084,0,0.0,3084.0
+Turtle,dataNotation,0,8,2930,0,137.0,3075.0
+packagist-pm,packageManager,0,0,3055,0,0.0,3055.0
+Notepad++,editor,0,0,3040,0,0.0,3040.0
+gluon,pl,0,0,2999,0,0.0,2999.0
+xBase,pl,8,0,425,0,2564.0,2997.0
+oil,pl,0,0,2968,0,0.0,2968.0
+vi,editor,0,0,2965,0,0.0,2965.0
+Ini,dataNotation,0,0,2950,0,13.0,2963.0
+Logo,pl,40,20,2895,0,0.0,2955.0
+Jargon,pl,0,0,2955,0,0.0,2955.0
+Emacs Lisp,pl,0,0,1645,0,1305.0,2950.0
+DOODLE,pl,0,0,2945,0,0.0,2945.0
+WebGL,library,6,0,2881,0,0.0,2887.0
+P,pl,0,0,2884,0,0.0,2884.0
+Luna,pl,0,0,2882,0,0.0,2882.0
+Agda,pl,7,14,731,0,2120.0,2872.0
+C--,pl,0,0,2861,0,0.0,2861.0
+EDN,dataNotation,3,0,2840,0,0.0,2843.0
+Office Open XML,xmlFormat,0,0,2820,0,0.0,2820.0
+invokator,pl,0,0,2816,0,0.0,2816.0
+Open Shading Language,pl,0,0,2806,0,0.0,2806.0
+Gzip,binaryDataFormat,0,0,2796,0,0.0,2796.0
+ML,pl,33,30,2725,6,0.0,2794.0
+LilyPond,pl,0,0,731,0,2059.0,2790.0
+Stencil,template,0,0,2785,0,0.0,2785.0
+Vigil,esolang,0,0,2767,0,0.0,2767.0
+COMTRAN,pl,0,0,2755,0,0.0,2755.0
+mathics,pl,0,0,2746,0,0.0,2746.0
+HLSL,pl,8,0,640,0,2093.0,2741.0
+Basis Codec,binaryDataFormat,0,0,2728,0,0.0,2728.0
+Hyperscript,template,0,0,2726,0,0.0,2726.0
+MariaDB,queryLanguage,5,0,2710,0,0.0,2715.0
+Flutter,framework,0,0,2690,0,0.0,2690.0
+Metal,library,0,0,2595,0,79.0,2674.0
+Pig Latin,queryLanguage,0,0,1326,0,1347.0,2673.0
+OWL,xmlFormat,8,20,2435,0,199.0,2662.0
+Impala,queryLanguage,1,0,2616,0,0.0,2617.0
+Hjson,dataNotation,0,0,2593,0,0.0,2593.0
+Please Build,pl,0,0,2587,0,0.0,2587.0
+WebP,binaryDataFormat,0,0,2550,0,0.0,2550.0
+TIScript,pl,0,0,2550,0,0.0,2550.0
+mlir,ir,0,0,2460,0,84.0,2544.0
+Raku,pl,5,0,16,0,2521.0,2542.0
+Markwhen,textMarkup,0,0,2535,0,0.0,2535.0
+Dafny,pl,1,11,2359,0,157.0,2528.0
+Io,pl,2,2,461,0,2062.0,2527.0
+XHTML,dataNotation,0,0,2525,0,0.0,2525.0
+Koka,pl,0,0,2525,0,0.0,2525.0
+Eiffel,pl,10,12,1583,0,913.0,2518.0
+Gopher,protocol,0,0,2495,0,0.0,2495.0
+chevrotain,library,0,0,2487,0,0.0,2487.0
+beef-lang,pl,0,0,2344,0,137.0,2481.0
+Subversion,application,0,0,2476,0,0.0,2476.0
+Video Graphics Array,standard,0,0,2475,0,0.0,2475.0
+Apache Cassandra,database,0,0,2474,0,0.0,2474.0
+jsil-compiler,compiler,0,0,2461,0,0.0,2461.0
+BNF,grammarLanguage,0,0,2460,0,0.0,2460.0
+Shapefile,binaryDataFormat,0,0,2455,0,0.0,2455.0
+Factor,pl,0,2,2251,0,201.0,2454.0
+Post Office Protocol,protocol,0,0,2425,0,0.0,2425.0
+GNU Octave,pl,1,0,2406,0,0.0,2407.0
+Project Jupyter,editor,0,0,2406,0,0.0,2406.0
+XPath,queryLanguage,4,5,2395,0,0.0,2404.0
+WDL,pl,0,0,1511,0,888.0,2399.0
+InfiniBand,standard,0,0,2390,0,0.0,2390.0
+WSDL,xmlFormat,2,3,2375,0,0.0,2380.0
+Bun,vm,0,0,2378,0,0.0,2378.0
+TreeSheets,visual,0,0,2372,0,0.0,2372.0
+HeLang,pl,0,0,2366,0,0.0,2366.0
+Ladder Logic,pl,0,0,2360,0,0.0,2360.0
+nesC,pl,0,0,673,0,1669.0,2342.0
+Ron,dataNotation,0,0,2340,0,0.0,2340.0
+Rholang,contractLanguage,0,0,2325,13,0.0,2338.0
+Autodesk Revit,application,0,0,2330,0,0.0,2330.0
+DM,pl,1,0,201,0,2108.0,2310.0
+MPS,grammarLanguage,1,0,2306,0,0.0,2307.0
+Futhark,pl,0,0,2212,0,92.0,2304.0
+Tiny C Compiler,compiler,0,0,2301,0,0.0,2301.0
+LiveScript,pl,0,0,395,0,1905.0,2300.0
+CLIPS,pl,0,3,651,0,1638.0,2292.0
+Pygments,library,0,0,2288,0,0.0,2288.0
+MAXScript,pl,3,0,201,0,2084.0,2288.0
+FASTA,textDataFormat,0,0,2285,0,0.0,2285.0
+Cython,pl,10,1,1571,0,698.0,2280.0
+Advanced Message Queuing Protocol,protocol,0,0,2250,0,0.0,2250.0
+souper,optimizingCompiler,0,0,2233,0,0.0,2233.0
+Secure Scuttlebutt,protocol,0,0,2232,0,0.0,2232.0
+dexvis,application,0,0,2225,0,0.0,2225.0
+Fennel,pl,0,0,1989,0,207.0,2196.0
+sed,pl,6,0,1865,0,322.0,2193.0
+Korn shell,pl,0,0,2190,0,0.0,2190.0
+SPARQL,queryLanguage,4,18,2165,0,0.0,2187.0
+Jakt,pl,0,0,2182,0,0.0,2182.0
+Opa,pl,2,0,2104,0,76.0,2182.0
+SPARC,isa,5,0,2175,0,0.0,2180.0
+POV-Ray SDL,pl,0,0,2169,0,3.0,2172.0
+idyll,pl,0,0,2170,0,0.0,2170.0
+hurl,application,0,0,2159,0,0.0,2159.0
+NumPy,library,1,0,2156,0,0.0,2157.0
+Ext4,filesystem,0,0,2145,0,0.0,2145.0
+RISC-V,isa,0,0,2140,0,0.0,2140.0
+FASTQ,textDataFormat,0,0,2140,0,0.0,2140.0
+plot,template,0,0,2138,0,0.0,2138.0
+skip,pl,1,0,2127,0,0.0,2128.0
+BibTeX,application,0,0,2106,0,0.0,2106.0
+asterius-compiler,compiler,0,0,2101,0,0.0,2101.0
+HL7,pl,1,0,2086,0,0.0,2087.0
+Smiles,textDataFormat,0,0,2085,0,0.0,2085.0
+Thrift,idl,0,0,1626,0,447.0,2073.0
+ASN.1,idl,0,0,2060,0,0.0,2060.0
+RStudio,editor,0,0,2056,0,0.0,2056.0
+SPARK,pl,22,30,1990,0,0.0,2042.0
+tidyverse,library,0,0,2032,0,0.0,2032.0
+Open Database Connectivity,protocol,0,0,2030,0,0.0,2030.0
+SRL,queryLanguage,0,0,2027,0,0.0,2027.0
+Malbolge,esolang,0,0,2025,0,0.0,2025.0
+opam-pm,packageManager,0,0,2014,0,0.0,2014.0
+WHOIS,protocol,0,0,2010,0,0.0,2010.0
+Lamdu,pl,0,0,2004,0,0.0,2004.0
+lamdu-editor,editor,0,0,2004,0,0.0,2004.0
+erg,pl,0,0,1989,0,0.0,1989.0
+YoptaScript,pl,0,0,1986,0,0.0,1986.0
+Flix,pl,0,0,1983,0,0.0,1983.0
+Kaggle,application,0,0,1981,0,0.0,1981.0
+Rpm,packageManager,0,0,1976,0,0.0,1976.0
+Wasp,pl,0,0,1972,0,0.0,1972.0
+OpenNN,library,0,0,1968,0,0.0,1968.0
+Modelica,pl,2,14,736,0,1208.0,1960.0
+SGML,textMarkup,5,1,1940,0,0.0,1946.0
+QBasic,pl,28,0,1910,0,0.0,1938.0
+bpkg-pm,packageManager,0,0,1934,0,0.0,1934.0
+Perl 6,pl,2,0,961,0,966.0,1929.0
+OpenRC runscript,application,0,0,1928,0,0.0,1928.0
+crush,pl,3,0,1919,0,0.0,1922.0
+Reko,decompiler,0,0,1910,0,0.0,1910.0
+AviSynth,editor,0,0,1902,0,0.0,1902.0
+comby,grammarLanguage,0,0,1890,0,0.0,1890.0
+ECL,pl,1,0,1653,0,234.0,1888.0
+UCL,dataNotation,0,0,1861,0,0.0,1861.0
+.dwg,binaryDataFormat,0,0,1860,0,0.0,1860.0
+Roc,pl,0,0,1860,0,0.0,1860.0
+Click,pl,0,0,1817,0,39.0,1856.0
+leo-editor,editor,0,0,1851,0,0.0,1851.0
+Literate Agda,pl,0,0,0,0,1840.0,1840.0
+Xgboost,binaryDataFormat,0,0,1830,0,0.0,1830.0
+PDP-11,computingMachine,0,0,1825,0,0.0,1825.0
+tiledb,database,0,0,1824,0,0.0,1824.0
+BBCode,textMarkup,0,0,1810,0,0.0,1810.0
+Bro,pl,0,0,426,0,1383.0,1809.0
+haste,pl,0,0,1794,0,0.0,1794.0
+Ternary numeral system,notation,0,0,1785,0,0.0,1785.0
+Up-arrow notation,notation,0,0,1765,0,0.0,1765.0
+Gentoo Ebuild,pl,0,0,286,0,1476.0,1762.0
+Xtend,pl,3,0,321,0,1438.0,1762.0
+MQL5,pl,6,0,480,0,1273.0,1759.0
+Pandas,library,3,0,1406,341,0.0,1750.0
+PowerBuilder,pl,36,0,965,0,747.0,1748.0
+zz,pl,0,0,1739,0,0.0,1739.0
+TLA,pl,3,0,1055,0,680.0,1738.0
+Wolfram Mathematica,editor,0,0,1730,0,0.0,1730.0
+LOLCODE,esolang,0,0,1486,0,235.0,1721.0
+femtolisp,pl,0,0,1719,0,0.0,1719.0
+Xtext,grammarLanguage,3,0,1713,0,0.0,1716.0
+Swallow,pl,0,0,1708,0,0.0,1708.0
+Z notation,notation,0,0,1705,0,0.0,1705.0
+CSON,dataNotation,0,0,1682,0,16.0,1698.0
+GeoJSON,jsonFormat,0,0,1696,0,0.0,1696.0
+Logica,queryLanguage,1,0,1691,0,0.0,1692.0
+Mercurial,application,0,0,1685,0,0.0,1685.0
+astroml,library,0,0,1684,0,0.0,1684.0
+Algol,pl,31,17,1635,0,0.0,1683.0
+Mercury,pl,0,16,939,0,715.0,1670.0
+Dogescript,pl,0,0,1629,0,35.0,1664.0
+Mojo,pl,0,0,1663,0,0.0,1663.0
+kona,pl,0,0,1659,0,0.0,1659.0
+Lux,pl,0,0,1655,0,0.0,1655.0
+Whitespace,esolang,1,0,1650,0,0.0,1651.0
+Hedy,pl,0,0,1645,0,0.0,1645.0
+Qualcomm Hexagon,assembly,0,0,1626,10,0.0,1636.0
+Wolfram Language,pl,2,0,1626,0,0.0,1628.0
+UnrealScript,pl,7,0,285,0,1335.0,1627.0
+lobster,pl,0,0,1626,0,0.0,1626.0
+Superjson,dataNotation,0,0,1623,0,0.0,1623.0
+clash,pl,0,0,1621,0,0.0,1621.0
+Sage,pl,2,2,1116,0,499.0,1619.0
+Rescript,pl,0,0,1,0,1604.0,1605.0
+Gerber Image,application,0,0,1600,0,0.0,1600.0
+Punycode,characterEncoding,0,0,1585,0,0.0,1585.0
+Latte,template,3,0,1309,0,270.0,1582.0
+S-expressions,dataNotation,0,0,1575,0,0.0,1575.0
+Ante,pl,0,1,1569,0,0.0,1570.0
+chrysaLisp,pl,0,0,1567,0,0.0,1567.0
+JAI,pl,0,0,1562,0,0.0,1562.0
+AutoCAD DXF,application,0,0,1555,0,0.0,1555.0
+fetlang,esolang,0,0,1553,0,0.0,1553.0
+CMake,application,4,0,1546,0,0.0,1550.0
+Simulink,pl,19,13,1516,0,0.0,1548.0
+fay,pl,0,0,1543,0,0.0,1543.0
+Hierarchical Data Format,binaryDataFormat,0,0,1541,0,0.0,1541.0
+Q,pl,1,2,765,0,768.0,1536.0
+PL/I,pl,0,0,1535,0,0.0,1535.0
+Farcaster,protocol,0,0,1534,0,0.0,1534.0
+Java Bytecode,bytecode,0,0,1530,0,0.0,1530.0
+CWL,pl,0,0,1065,0,464.0,1529.0
+DataWeave,pl,0,0,200,0,1326.0,1526.0
+Transact-SQL,queryLanguage,8,0,1515,0,0.0,1523.0
+Berry,pl,0,0,1522,0,0.0,1522.0
+Ć,pl,0,0,1522,0,0.0,1522.0
+IA-32,isa,1,0,1515,0,0.0,1516.0
+DNS over HTTPS,protocol,0,0,1515,0,0.0,1515.0
+Angelscript,pl,0,0,366,0,1140.0,1506.0
+Asterisk,application,0,0,1506,0,0.0,1506.0
+MurmurHash,hashFunction,0,0,1505,0,0.0,1505.0
+SWI Prolog,pl,0,0,1504,0,0.0,1504.0
+Praat Script,pl,0,0,1502,0,0.0,1502.0
+Rascal,grammarLanguage,0,0,775,0,722.0,1497.0
+Ceylon,pl,0,0,1161,0,336.0,1497.0
+zenscript,pl,0,0,107,0,1390.0,1497.0
+Differential Datalog,pl,0,0,1496,0,0.0,1496.0
+Spyder,editor,0,0,1490,0,0.0,1490.0
+EBNF,grammarLanguage,0,0,1490,0,0.0,1490.0
+kasaya,application,0,0,1483,0,0.0,1483.0
+dex,pl,0,0,1482,0,0.0,1482.0
+MASM,pl,0,0,1480,0,0.0,1480.0
+miniML_error,plzoo,0,0,1467,0,0.0,1467.0
+DTrace,pl,2,0,926,0,534.0,1462.0
+mun-lang,pl,0,0,1461,0,0.0,1461.0
+Visual FoxPro,pl,0,0,1461,0,0.0,1461.0
+lem-editor,editor,0,0,1459,0,0.0,1459.0
+CSP,pl,7,21,1425,0,0.0,1453.0
+harlan,pl,0,0,1452,0,0.0,1452.0
+sile,textMarkup,0,0,1450,0,0.0,1450.0
+AsciiMath,textMarkup,0,0,1447,0,0.0,1447.0
+KML,xmlFormat,1,0,1440,0,0.0,1441.0
+spider,pl,0,0,1440,0,0.0,1440.0
+Objective-J,pl,0,0,376,0,1058.0,1434.0
+Jsonnet,dataNotation,0,0,2,0,1430.0,1432.0
+S,pl,3,0,1426,0,0.0,1429.0
+Gosu,pl,1,0,726,0,701.0,1428.0
+reflex-framework,framework,0,0,1424,0,0.0,1424.0
+tea,packageManager,0,0,1423,0,0.0,1423.0
+Microsoft BASIC,pl,0,0,1420,0,0.0,1420.0
+Isabelle,pl,0,4,576,0,839.0,1419.0
+Cryptol,pl,0,0,1419,0,0.0,1419.0
+Meson,pl,0,0,535,0,880.0,1415.0
+Typed Lua,pl,0,0,1415,0,0.0,1415.0
+hobbes,pl,0,0,1415,0,0.0,1415.0
+wisp,pl,0,1,1381,0,30.0,1412.0
+Mirah,pl,1,0,1341,0,68.0,1410.0
+Godot,library,0,0,1401,0,0.0,1401.0
+circle-lang,pl,0,0,1391,0,0.0,1391.0
+AspectJ,pl,17,37,661,0,671.0,1386.0
+Diff,unixApplication,0,0,1385,0,0.0,1385.0
+Zeek,pl,0,0,1,0,1383.0,1384.0
+B,pl,0,3,1380,0,0.0,1383.0
+cityhash-hash-function,hashFunction,0,0,1380,0,0.0,1380.0
+Google Sheets,application,0,0,1380,0,0.0,1380.0
+Bourne shell,pl,2,0,1370,0,0.0,1372.0
+Smartsheet,application,0,0,1370,0,0.0,1370.0
+Mu,pl,0,0,1367,0,0.0,1367.0
+Google File System,filesystem,0,0,1350,0,0.0,1350.0
+score,pl,0,0,1343,0,0.0,1343.0
+Stan,pl,2,0,561,0,774.0,1337.0
+FreeBASIC,pl,0,0,800,0,535.0,1335.0
+Z shell,pl,0,0,1326,0,0.0,1326.0
+XSD,dataValidationLanguage,0,0,1320,0,0.0,1320.0
+HFS Plus,filesystem,0,0,1310,0,0.0,1310.0
+IBM System z,computingMachine,0,0,1295,0,0.0,1295.0
+AL,pl,0,0,1295,0,0.0,1295.0
+FoxPRO,pl,53,0,1240,0,0.0,1293.0
+dub-pm,packageManager,0,0,1289,0,0.0,1289.0
+GAMS,pl,4,0,465,0,810.0,1279.0
+atomspace,application,0,0,1279,0,0.0,1279.0
+bee,pl,0,0,1275,0,0.0,1275.0
+Object Linking and Embedding,protocol,0,0,1270,0,0.0,1270.0
+NGS,pl,0,0,1270,0,0.0,1270.0
+fo,pl,0,0,1268,0,0.0,1268.0
+ALGOL 60,pl,5,0,1260,0,0.0,1265.0
+Swagger,framework,0,0,1256,0,0.0,1256.0
+TRS-80 Color Computer,computingMachine,0,0,1255,0,0.0,1255.0
+Pyret,pl,0,0,1241,0,0.0,1241.0
+Open Data Protcol,protocol,0,0,1241,0,0.0,1241.0
+pyret,pl,0,0,1241,0,0.0,1241.0
+P4,pl,0,0,666,0,574.0,1240.0
+curv,pl,0,0,1239,0,0.0,1239.0
+Hackett,pl,0,0,1237,0,0.0,1237.0
+Confluence,textMarkup,1,0,1233,0,0.0,1234.0
+TI MSP430,isa,7,0,1225,0,0.0,1232.0
+Slash,pl,0,0,658,0,572.0,1230.0
+GCC Machine Description,pl,0,0,200,0,1027.0,1227.0
+NCAR Command Language,pl,0,0,572,0,654.0,1226.0
+XBRL,xmlFormat,0,0,1225,0,0.0,1225.0
+Turbo Pascal,compiler,0,0,1220,0,0.0,1220.0
+UrWeb,pl,0,0,1131,0,83.0,1214.0
+Lily,pl,1,0,1198,0,0.0,1199.0
+DTD,grammarLanguage,2,0,1195,0,0.0,1197.0
+SATySFi,textMarkup,0,0,1195,0,0.0,1195.0
+GW-BASIC,pl,0,0,1190,0,0.0,1190.0
+RPG,pl,39,3,1145,0,0.0,1187.0
+Committee on Uniform Security Identification Procedures,schema,0,0,1185,0,0.0,1185.0
+GDB,application,4,0,1181,0,0.0,1185.0
+Fast Healthcare Interoperability Resources,standard,0,0,1180,0,0.0,1180.0
+ObjectScript,pl,0,0,122,0,1054.0,1176.0
+NuGet,packageManager,0,0,1171,0,0.0,1171.0
+Gerbil Scheme,pl,0,0,1169,0,0.0,1169.0
+Xojo,pl,0,0,596,0,570.0,1166.0
+Carbon,pl,0,0,1163,0,0.0,1163.0
+AsciiDots,esolang,0,0,1157,0,0.0,1157.0
+JMP,application,0,0,1154,0,0.0,1154.0
+Revolution,pl,0,0,1149,0,0.0,1149.0
+Alloy,pl,0,13,376,0,759.0,1148.0
+ferret,pl,0,0,1139,0,0.0,1139.0
+MATHLAB,pl,0,0,1130,0,0.0,1130.0
+Textile,textMarkup,0,0,1129,0,0.0,1129.0
+Simula,pl,5,14,1110,0,0.0,1129.0
+Pomsky,pl,0,0,1115,0,0.0,1115.0
+Filebench WML,pl,0,0,547,0,566.0,1113.0
+DRAKON,pl,0,0,1112,0,0.0,1112.0
+Dale,pl,0,0,1111,0,0.0,1111.0
+Ch,pl,0,0,536,0,571.0,1107.0
+Eagle,application,0,0,1105,0,0.0,1105.0
+kitten,pl,0,0,1103,0,0.0,1103.0
+Linotte,pl,0,0,1100,0,0.0,1100.0
+hamler,pl,0,0,1097,0,0.0,1097.0
+MMX instruction set,isa,2,0,1095,0,0.0,1097.0
+Turing,pl,34,12,525,0,524.0,1095.0
+Boo,pl,0,0,861,0,232.0,1093.0
+xodio,visual,0,0,1089,0,0.0,1089.0
+CIL,pl,4,4,1080,0,0.0,1088.0
+Megaparsec,library,0,0,1082,0,0.0,1082.0
+kitlang,pl,0,0,1082,0,0.0,1082.0
+Passerine,pl,0,0,1081,0,0.0,1081.0
+Tap code,notation,0,0,1080,0,0.0,1080.0
+Ghostscript,pl,0,0,1080,0,0.0,1080.0
+BlitzBasic,pl,0,0,475,0,595.0,1070.0
+Babylonian numerals,numeralSystem,0,0,1070,0,0.0,1070.0
+Golo,pl,0,0,1018,0,46.0,1064.0
+BCPL,pl,4,5,1050,0,0.0,1059.0
+Glicol,musicalNotation,0,0,1059,0,0.0,1059.0
+reStructuredText,textMarkup,0,0,1025,0,31.0,1056.0
+roy,pl,1,0,1054,0,0.0,1055.0
+Oz,pl,0,22,661,0,371.0,1054.0
+DBase,application,6,0,1046,0,0.0,1052.0
+hashlink,bytecode,0,0,1048,0,0.0,1048.0
+Bison,grammarLanguage,2,1,846,0,196.0,1045.0
+Caramel,pl,0,0,1044,0,0.0,1044.0
+eC,pl,2,0,900,0,139.0,1041.0
+Hyperscript,pl,0,0,1039,0,0.0,1039.0
+DokuWiki,wikiMarkup,0,0,1036,0,0.0,1036.0
+C3,pl,0,0,1035,0,0.0,1035.0
+Brightscript,pl,0,0,200,0,832.0,1032.0
+International Chemical Identifier,textDataFormat,0,0,1030,0,0.0,1030.0
+Memex,computingMachine,0,0,1025,0,0.0,1025.0
+Qalb,pl,0,0,1023,0,0.0,1023.0
+vdscript,pl,0,0,1021,0,0.0,1021.0
+firrtl,ir,0,0,1018,0,0.0,1018.0
+TSV,dataNotation,0,0,1015,0,0.0,1015.0
+Expect,pl,3,0,1011,0,0.0,1014.0
+bloom,pl,0,0,1011,0,0.0,1011.0
+APT Debian,packageManager,0,0,1010,0,0.0,1010.0
+djangoql,pl,0,0,1007,0,0.0,1007.0
+Lasso,pl,0,4,396,142,464.0,1006.0
+mochi,pl,0,0,1006,0,0.0,1006.0
+koara,textMarkup,0,0,1005,0,0.0,1005.0
+fe,pl,0,2,1002,0,0.0,1004.0
+progsbase,pl,1,0,1001,0,0.0,1002.0
+Slope,pl,0,0,1001,0,0.0,1001.0
+Oxyl,pl,0,0,1001,0,0.0,1001.0
+Punched tape,notation,0,0,1000,0,0.0,1000.0
+PCRE,queryLanguage,0,0,1000,0,0.0,1000.0
+ballerina-central-pm,packageManager,0,0,1000,0,0.0,1000.0
+Neko,pl,0,0,995,0,0.0,995.0
+HyperCard,pl,12,6,975,0,0.0,993.0
+Easybuild,application,0,0,990,0,0.0,990.0
+Observable,pl,1,0,983,0,0.0,984.0
+COLLADA,application,0,0,980,0,0.0,980.0
+SugarSS,textMarkup,0,0,977,0,0.0,977.0
+JFlex,grammarLanguage,0,0,974,0,2.0,976.0
+EML,textDataFormat,0,0,975,0,0.0,975.0
+LINQ,queryLanguage,35,0,940,0,0.0,975.0
+Ext3,filesystem,0,0,975,0,0.0,975.0
+Multics,pl,0,1,970,0,0.0,971.0
+Cg,pl,5,0,965,0,0.0,970.0
+Modula-2,pl,1,0,655,0,306.0,962.0
+Catala,pl,0,0,962,0,0.0,962.0
+JScript,pl,5,0,956,0,0.0,961.0
+TELOS,pl,0,0,960,0,0.0,960.0
+PEG,grammarLanguage,0,0,955,0,0.0,955.0
+Egison,pl,0,0,955,0,0.0,955.0
+Apache Lucene,queryLanguage,0,0,955,0,0.0,955.0
+OCL,pl,0,0,950,0,0.0,950.0
+ooc,pl,0,0,710,0,227.0,937.0
+VML,xmlFormat,0,0,935,0,0.0,935.0
+ActivityPub,protocol,0,0,935,0,0.0,935.0
+KiCad Legacy Layout,application,0,0,935,0,0.0,935.0
+Bucardo,application,0,0,933,0,0.0,933.0
+Mathcad,pl,7,0,926,0,0.0,933.0
+Umple,pl,0,0,931,0,0.0,931.0
+NewLisp,pl,0,0,453,0,476.0,929.0
+noulith,pl,0,0,929,0,0.0,929.0
+JSON Query Language,queryLanguage,0,0,924,0,0.0,924.0
+BIND,application,0,0,920,0,0.0,920.0
+Potion,pl,0,0,920,0,0.0,920.0
+spiral,pl,0,0,920,0,0.0,920.0
+Limbo,pl,3,1,386,0,529.0,919.0
+Semantic Patch Language,grammarLanguage,0,0,896,0,15.0,911.0
+SysML,pl,15,0,890,0,0.0,905.0
+Asm.js,ir,0,0,901,0,0.0,901.0
+Reia,pl,0,0,899,0,0.0,899.0
+Jython,pl,10,2,885,0,0.0,897.0
+noisecraft,pl,0,0,894,0,0.0,894.0
+raptorjit,pl,0,0,892,0,0.0,892.0
+Marp,textMarkup,0,0,888,0,0.0,888.0
+Microdata HTML,schema,0,0,880,0,0.0,880.0
+RenderScript,pl,2,0,181,0,696.0,879.0
+VRML,pl,5,0,870,0,0.0,875.0
+eff,pl,0,0,870,0,0.0,870.0
+EXPRESS,dataNotation,0,0,860,0,0.0,860.0
+Datalog,pl,3,36,820,0,0.0,859.0
+Yum,packageManager,0,0,855,0,0.0,855.0
+SAM file format,textDataFormat,0,0,855,0,0.0,855.0
+XML Metadata Interchange,xmlFormat,0,0,851,0,0.0,851.0
+EmberScript,pl,0,0,644,0,206.0,850.0
+Djot,textMarkup,0,0,850,0,0.0,850.0
+Linden Scripting Language,pl,0,0,200,0,638.0,838.0
+humanhash-hash-function,hashFunction,0,0,834,0,0.0,834.0
+Oberon,pl,0,21,810,0,0.0,831.0
+jayfor,pl,0,0,831,0,0.0,831.0
+Ark,pl,0,0,831,0,0.0,831.0
+Bioconductor,packageManager,0,0,831,0,0.0,831.0
+muon,pl,0,0,828,0,0.0,828.0
+Altair BASIC,pl,0,0,825,0,0.0,825.0
+RDF Schema,grammarLanguage,0,0,825,0,0.0,825.0
+Commodore BASIC,pl,0,0,820,0,0.0,820.0
+Pact,contractLanguage,3,0,817,0,0.0,820.0
+Felix,pl,0,0,819,0,0.0,819.0
+XS,pl,0,0,285,0,532.0,817.0
+neut,pl,0,0,816,0,0.0,816.0
+Vale,pl,0,0,805,0,0.0,805.0
+JCL,pl,7,0,795,0,0.0,802.0
+tsquery,queryLanguage,0,0,801,0,0.0,801.0
+NixOS,os,0,0,800,0,0.0,800.0
+MACRO,pl,0,0,800,0,0.0,800.0
+oden,pl,0,0,800,0,0.0,800.0
+sixten,pl,0,0,800,0,0.0,800.0
+ATS,pl,1,1,576,0,217.0,795.0
+Wyvern,pl,0,0,794,0,0.0,794.0
+Varnish Configuration Language,application,0,0,200,0,594.0,794.0
+Schema.org,dataValidationLanguage,0,0,791,0,0.0,791.0
+J#,pl,0,0,791,0,0.0,791.0
+05AB1E,esolang,0,0,790,0,0.0,790.0
+SMT,pl,0,7,201,0,582.0,790.0
+Plankalkul,pl,0,0,790,0,0.0,790.0
+JavaCC,grammarLanguage,0,0,784,5,0.0,789.0
+Dylan,pl,1,1,636,0,150.0,788.0
+TiddlyWiki,wikiMarkup,0,0,785,0,0.0,785.0
+OpenEdge ABL,pl,0,0,710,0,72.0,782.0
+Jank,pl,0,0,781,0,0.0,781.0
+RELAX NG,grammarLanguage,0,0,781,0,0.0,781.0
+MXF,binaryDataFormat,0,0,780,0,0.0,780.0
+Modula-3,pl,0,0,641,0,137.0,778.0
+Atmel AVR,pl,0,0,775,0,0.0,775.0
+JSLT,pl,0,0,772,0,0.0,772.0
+Clarion,pl,2,0,546,0,223.0,771.0
+attoparsec,library,0,0,770,0,0.0,770.0
+Berkeley DB,library,0,0,770,0,0.0,770.0
+Q#,pl,0,0,1,0,768.0,769.0
+visdown,textMarkup,0,0,767,0,0.0,767.0
+Airtable,application,0,0,766,0,0.0,766.0
+Deb file format,binaryDataFormat,0,0,765,0,0.0,765.0
+Object Pascal,pl,0,0,765,0,0.0,765.0
+Rexx,pl,19,4,435,40,263.0,761.0
+E,pl,0,0,406,0,354.0,760.0
+Tiny BASIC,pl,0,0,760,0,0.0,760.0
+pie-lang,pl,0,0,758,0,0.0,758.0
+Umka,pl,0,0,758,0,0.0,758.0
+lispyscript,pl,0,0,756,0,0.0,756.0
+Numbers,application,0,0,755,0,0.0,755.0
+C2,pl,0,0,755,0,0.0,755.0
+multicodec,standard,0,0,749,0,0.0,749.0
+SSI,template,0,0,740,0,0.0,740.0
+Google Apps Script,pl,0,0,735,0,0.0,735.0
+X PixMap,application,0,0,560,0,170.0,730.0
+BQN,pl,0,0,727,0,0.0,727.0
+Ext2,filesystem,1,0,725,0,0.0,726.0
+INTERCAL,esolang,0,0,720,0,0.0,720.0
+XC,pl,0,0,375,0,342.0,717.0
+CHIP-8,pl,0,0,715,0,0.0,715.0
+BlitzMax,pl,6,0,489,0,219.0,714.0
+PIC microcontroller,pl,0,0,710,0,0.0,710.0
+HiveQL,queryLanguage,0,0,201,0,502.0,703.0
+Clean,pl,9,5,481,0,206.0,701.0
+Microsoft Macro Assembler,assembly,0,0,701,0,0.0,701.0
+Query by Example,pl,0,0,700,0,0.0,700.0
+Fantom,pl,0,0,521,0,176.0,697.0
+Maxima,pl,2,4,691,0,0.0,697.0
+Vvvv,application,0,0,696,0,0.0,696.0
+Structured text,pl,0,0,695,0,0.0,695.0
+AsciiDoc,textMarkup,0,0,666,0,21.0,687.0
+BLAKE,hashFunction,0,0,685,0,0.0,685.0
+partiql,queryLanguage,0,0,684,0,0.0,684.0
+CartoCSS,pl,0,0,200,0,477.0,677.0
+ERB,template,0,0,400,0,276.0,676.0
+Arc,pl,0,8,431,0,236.0,675.0
+Org,textMarkup,0,0,656,0,18.0,674.0
+LyX,editor,0,0,671,0,0.0,671.0
+Free Pascal,pl,0,0,655,0,0.0,655.0
+Geography Markup Language,xmlFormat,0,0,655,0,0.0,655.0
+VCF,textDataFormat,0,0,655,0,0.0,655.0
+Nit,pl,0,0,625,0,29.0,654.0
+Coco,pl,0,0,650,0,0.0,650.0
+Argdown,textMarkup,0,0,645,0,0.0,645.0
+pikelet,pl,0,0,643,0,0.0,643.0
+k-framework,grammarLanguage,0,0,638,0,0.0,638.0
+forest-lang,pl,0,0,638,0,0.0,638.0
+Ring,pl,2,6,431,0,195.0,634.0
+ABC,pl,0,4,625,0,0.0,629.0
+ALGOL 68,pl,3,0,625,0,0.0,628.0
+Flow9,pl,0,0,627,0,0.0,627.0
+Sketchpad,pl,0,0,625,0,0.0,625.0
+Befunge,esolang,0,0,620,0,1.0,621.0
+Mask,template,0,0,315,0,306.0,621.0
+Bluespec,pl,0,0,345,0,275.0,620.0
+[x]it!,dataNotation,0,0,619,0,0.0,619.0
+Metalang99,pl,0,0,616,0,0.0,616.0
+Strips,pl,0,0,615,0,0.0,615.0
+VSXu,visual,0,0,614,0,0.0,614.0
+Redcode,pl,0,0,575,0,36.0,611.0
+lemon,pl,0,0,608,0,0.0,608.0
+BPEL,xmlFormat,8,0,600,0,0.0,608.0
+Netwide Assembler,assembly,0,0,606,0,0.0,606.0
+Lucidchart,application,0,0,606,0,0.0,606.0
+GNU nano,editor,0,0,606,0,0.0,606.0
+Hush,pl,0,0,605,0,0.0,605.0
+co-dfns,pl,0,0,602,0,0.0,602.0
+CWEB,textMarkup,0,0,176,0,425.0,601.0
+MiniZinc,pl,1,0,596,0,0.0,597.0
+XML Binding Language,xmlFormat,0,0,595,0,0.0,595.0
+Pick operating system,os,0,0,595,0,0.0,595.0
+XProc,pl,1,0,500,0,93.0,594.0
+Tag Line Commands,pl,0,0,13,579,0.0,592.0
+Pike,pl,1,0,446,0,145.0,592.0
+RubyGems,packageManager,0,0,591,0,0.0,591.0
+MultiDimensional eXpressions,queryLanguage,0,0,590,0,0.0,590.0
+Squeak,pl,3,8,576,0,0.0,587.0
+Fancy,pl,2,0,557,0,27.0,586.0
+K,pl,0,1,585,0,0.0,586.0
+XeTeX,textMarkup,0,0,586,0,0.0,586.0
+Nemerle,pl,0,0,406,0,177.0,583.0
+httplang,pl,0,0,583,0,0.0,583.0
+Ioke,pl,1,0,565,0,17.0,583.0
+ArkScript,pl,0,0,580,0,0.0,580.0
+hazel,pl,0,0,578,0,0.0,578.0
+Csound,pl,5,2,521,0,50.0,578.0
+Curl,pl,2,0,571,0,0.0,573.0
+myia,pl,0,0,570,0,0.0,570.0
+ASDF,pl,0,0,569,0,0.0,569.0
+Uno,pl,0,0,337,0,232.0,569.0
+Geany,editor,0,0,566,0,0.0,566.0
+Forsyth-Edwards Notation,notation,0,0,565,0,0.0,565.0
+abs,pl,0,0,562,0,0.0,562.0
+IGOR Pro,pl,0,0,415,0,146.0,561.0
+GNU Assembler,compiler,0,0,555,0,0.0,555.0
+Parrot,vm,0,0,550,0,0.0,550.0
+Analytical engine,computingMachine,0,0,550,0,0.0,550.0
+multiaddr,schema,0,0,550,0,0.0,550.0
+Mangle,pl,0,0,550,0,0.0,550.0
+CFML,pl,3,0,546,0,0.0,549.0
+Monkey,pl,3,0,292,0,254.0,549.0
+Cirru,pl,0,0,201,0,346.0,547.0
+SQL-92,pl,0,0,545,0,0.0,545.0
+psyche-c,compiler,0,0,544,0,0.0,544.0
+Troff,textMarkup,1,0,541,0,0.0,542.0
+Property list,textMarkup,0,0,540,0,0.0,540.0
+Zope,application,0,0,540,0,0.0,540.0
+Clipper,pl,21,1,516,0,0.0,538.0
+Sibilant,pl,0,0,538,0,0.0,538.0
+Procfile,pl,0,0,1,0,536.0,537.0
+Microsoft Small Basic,pl,0,0,536,0,0.0,536.0
+Gwion,pl,0,0,535,0,0.0,535.0
+Function block diagram,pl,0,0,535,0,0.0,535.0
+OpenEXR,binaryDataFormat,0,0,535,0,0.0,535.0
+micro-mitten,pl,0,0,532,0,0.0,532.0
+KRL,pl,1,0,90,0,440.0,531.0
+JSON lambda,queryLanguage,0,0,527,0,0.0,527.0
+SMIL,pl,0,0,525,0,0.0,525.0
+Volt,pl,0,0,365,0,158.0,523.0
+Shakespeare,esolang,1,0,521,0,0.0,522.0
+fleck,pl,0,0,521,0,0.0,521.0
+Creole,textMarkup,0,0,515,0,0.0,515.0
+Almquist shell,pl,0,0,515,0,0.0,515.0
+TI-BASIC,pl,0,0,515,0,0.0,515.0
+ink-lang,pl,0,0,512,0,0.0,512.0
+Kodu Game Lab,pl,0,0,511,0,0.0,511.0
+Earl Grey,pl,0,0,508,0,0.0,508.0
+clay,pl,0,0,508,0,0.0,508.0
+orca-pl,esolang,0,0,507,0,0.0,507.0
+Nu,pl,0,0,290,0,215.0,505.0
+ARC processor,isa,0,0,505,0,0.0,505.0
+Hierarchical File System,filesystem,0,0,505,0,0.0,505.0
+CBOR,binaryDataFormat,0,0,501,0,0.0,501.0
+Self,pl,1,2,461,0,36.0,500.0
+topshell,pl,0,0,499,0,0.0,499.0
+JADE,pl,4,0,490,0,0.0,494.0
+json-graph-format,jsonFormat,0,0,494,0,0.0,494.0
+Textadept,editor,0,0,492,0,0.0,492.0
+International System of Quantities,schema,0,0,490,0,0.0,490.0
+QuickBASIC,pl,13,0,475,0,0.0,488.0
+Cone,pl,1,0,486,0,0.0,487.0
+LinearML,pl,0,0,487,0,0.0,487.0
+Gambas,pl,0,0,485,0,0.0,485.0
+Karel,pl,10,0,475,0,0.0,485.0
+Blockly,library,0,0,485,0,0.0,485.0
+Velocity,template,2,2,481,0,0.0,485.0
+Nios II,isa,0,0,485,0,0.0,485.0
+HAGGIS,pl,0,0,480,0,0.0,480.0
+Game Maker Language,pl,0,0,200,0,278.0,478.0
+Boomerang Decompiler,decompiler,0,0,477,0,0.0,477.0
+MBASIC,pl,2,0,475,0,0.0,477.0
+Augmented Backus-Naur Form,grammarLanguage,0,0,475,0,1.0,476.0
+N-Triples,dataNotation,0,0,475,0,0.0,475.0
+april,pl,0,0,473,0,0.0,473.0
+QB64,pl,0,0,470,0,0.0,470.0
+3DS,binaryDataFormat,0,0,470,0,0.0,470.0
+Sieve mail filtering language,application,0,0,460,0,10.0,470.0
+Motif,pl,19,0,450,0,0.0,469.0
+plam,pl,0,0,466,0,0.0,466.0
+Cypher Query Language,queryLanguage,0,0,466,0,0.0,466.0
+Quicken Interchange Format,textDataFormat,0,0,465,0,0.0,465.0
+quicklisp-pm,packageManager,0,0,463,0,0.0,463.0
+HyPhy,pl,0,0,350,0,113.0,463.0
+WebIDL,idl,0,0,445,0,17.0,462.0
+X10,pl,1,39,376,0,45.0,461.0
+Lil,pl,0,0,461,0,0.0,461.0
+Interchange File Format,binaryDataFormat,0,0,460,0,0.0,460.0
+Bython,pl,0,0,457,0,0.0,457.0
+LFE,pl,0,0,405,0,51.0,456.0
+TextMate,editor,0,0,456,0,0.0,456.0
+CIL,pl,3,4,446,0,1.0,454.0
+AutoLISP,pl,20,1,430,0,0.0,451.0
+jsparagus,grammarLanguage,0,0,450,0,0.0,450.0
+Tao,pl,2,0,448,0,0.0,450.0
+spry,pl,0,0,449,0,0.0,449.0
+Classroom Object Oriented Language,pl,0,0,345,0,102.0,447.0
+Go!,pl,0,2,445,0,0.0,447.0
+Kal,pl,0,0,447,0,0.0,447.0
+HuJSON,dataNotation,0,0,447,0,0.0,447.0
+Caml,pl,4,2,441,0,0.0,447.0
+titan,pl,0,0,446,0,0.0,446.0
+bamboo,pl,0,1,443,0,0.0,444.0
+Wu,pl,0,0,441,0,0.0,441.0
+Thymeleaf,template,0,0,440,0,0.0,440.0
+Jolie,pl,0,0,311,0,129.0,440.0
+LC-3,pl,0,0,440,0,0.0,440.0
+basic calculator,pl,0,0,440,0,0.0,440.0
+mirth,pl,0,0,439,0,0.0,439.0
+Ragel,pl,0,0,373,0,66.0,439.0
+PEARL,pl,0,0,435,0,0.0,435.0
+Austral,pl,0,0,434,0,0.0,434.0
+stoneknifeforth,pl,0,0,433,0,0.0,433.0
+Cobra,pl,1,0,431,0,0.0,432.0
+TAP,protocol,2,0,429,0,0.0,431.0
+Connection Machine,pl,0,0,430,0,0.0,430.0
+Extended file system,filesystem,0,0,430,0,0.0,430.0
+PicoLisp,pl,0,0,316,0,114.0,430.0
+minikanren,pl,0,0,430,0,0.0,430.0
+Jeeves,pl,0,0,427,0,0.0,427.0
+FLOW-MATIC,pl,0,0,425,0,0.0,425.0
+JSON with Comments,dataNotation,0,0,425,0,0.0,425.0
+infusion-framework,framework,0,0,423,0,0.0,423.0
+buzz,pl,0,0,423,0,0.0,423.0
+Kit,template,0,0,201,0,218.0,419.0
+ulisp,pl,0,0,419,0,0.0,419.0
+STON,application,0,0,416,0,0.0,416.0
+Common Object File Format,binaryExecutable,0,0,415,0,0.0,415.0
+muPad,pl,10,0,366,0,39.0,415.0
+NetLinx,pl,0,0,290,0,122.0,412.0
+Hodor,esolang,0,0,412,0,0.0,412.0
+MessagePack,binaryDataFormat,0,0,411,0,0.0,411.0
+Newick format,textDataFormat,0,0,410,0,0.0,410.0
+ALGOL 58,pl,0,0,410,0,0.0,410.0
+SFC,pl,0,0,410,0,0.0,410.0
+Tree Notation,dataNotation,0,0,409,0,0.0,409.0
+Grammar,grammarLanguage,0,0,409,0,0.0,409.0
+PogoScript,pl,0,0,356,0,51.0,407.0
+Snap!,pl,0,0,405,0,0.0,405.0
+JSONiq,queryLanguage,0,0,251,0,153.0,404.0
+storyscript,pl,0,0,404,0,0.0,404.0
+DAX,queryLanguage,3,0,401,0,0.0,404.0
+t2b,pl,0,0,403,0,0.0,403.0
+Links,pl,0,5,395,0,0.0,400.0
+Pep8,assembly,0,0,233,0,165.0,398.0
+GraphIt,pl,0,0,397,0,0.0,397.0
+Atmel AVR instruction set,isa,7,0,390,0,0.0,397.0
+pipelines,pl,0,0,396,0,0.0,396.0
+Pandoc,application,0,0,396,0,0.0,396.0
+scribble,pl,0,0,395,0,0.0,395.0
+multibase,standard,0,0,393,0,0.0,393.0
+Pharo,pl,2,7,381,0,0.0,390.0
+XL,pl,3,0,387,0,0.0,390.0
+Matrix protocol,protocol,0,0,390,0,0.0,390.0
+Notation3,dataNotation,0,0,390,0,0.0,390.0
+S-PLUS,pl,0,0,390,0,0.0,390.0
+Mako,template,0,0,201,0,188.0,389.0
+GorillaScript,pl,0,0,388,0,0.0,388.0
+hakaru,pl,0,0,388,0,0.0,388.0
+Glyph Bitmap Distribution Format,application,0,0,385,0,0.0,385.0
+baysick,esolang,0,0,384,0,0.0,384.0
+Balanced ternary,notation,0,0,380,0,0.0,380.0
+C/AL,pl,0,0,380,0,0.0,380.0
+F-Script,pl,0,0,379,0,0.0,379.0
+SYNAPSE,pl,3,0,375,0,0.0,378.0
+groff,textMarkup,0,0,378,0,0.0,378.0
+datafun,pl,0,0,377,0,0.0,377.0
+Guile,pl,0,0,376,0,0.0,376.0
+son,textMarkup,0,0,376,0,0.0,376.0
+Pod,textMarkup,0,0,375,0,0.0,375.0
+Whiley,pl,0,0,373,0,2.0,375.0
+fructure-editor,pl,0,0,374,0,0.0,374.0
+Smile data interchange format,binaryDataFormat,0,0,373,0,0.0,373.0
+Fossil,application,0,0,371,0,0.0,371.0
+FAUST,pl,0,0,171,0,199.0,370.0
+GNU Guix,distribution,0,0,370,0,0.0,370.0
+SDF,grammarLanguage,0,0,370,0,0.0,370.0
+MusicXML,pl,0,0,370,0,0.0,370.0
+SipHash,hashFunction,0,0,370,0,0.0,370.0
+Haxe Library Manager,packageManager,0,0,367,0,0.0,367.0
+ko,pl,0,0,366,0,0.0,366.0
+Occam,pl,17,24,325,0,0.0,366.0
+Script.NET,pl,0,0,366,0,0.0,366.0
+Visual Paradigm,application,0,0,365,0,0.0,365.0
+X BitMap,textDataFormat,0,0,365,0,0.0,365.0
+Gremlin,queryLanguage,0,0,365,0,0.0,365.0
+Semantic Web Rule Language,xmlFormat,0,0,365,0,0.0,365.0
+4th Dimension,pl,0,0,0,0,365.0,365.0
+Turbo Assembler,pl,0,0,365,0,0.0,365.0
+Edge Side Includes,pl,0,0,365,0,0.0,365.0
+JOVIAL,pl,0,3,360,0,0.0,363.0
+Functional PHP Preprocessor,pl,0,0,363,0,0.0,363.0
+Stackless Python,interpreter,0,0,360,0,0.0,360.0
+Mond,pl,0,0,360,0,0.0,360.0
+crmsh,pl,0,0,360,0,0.0,360.0
+Conway chained arrow notation,notation,0,0,360,0,0.0,360.0
+Linda,pl,0,0,360,0,0.0,360.0
+PL/M,pl,0,0,360,0,0.0,360.0
+SDTM,standard,0,0,360,0,0.0,360.0
+juvix,pl,0,0,357,0,0.0,357.0
+SNOBOL,pl,11,4,341,0,0.0,356.0
+Lucid,template,0,0,356,0,0.0,356.0
+ROOT,library,0,0,356,0,0.0,356.0
+Z-machine,pl,0,0,355,0,0.0,355.0
+XUML,pl,0,0,355,0,0.0,355.0
+Kuroko,pl,0,0,353,0,0.0,353.0
+Parenscript,pl,0,0,351,0,0.0,351.0
+Virgil,pl,0,0,351,0,0.0,351.0
+Pan,pl,0,0,306,0,41.0,347.0
+Rc,pl,0,2,345,0,0.0,347.0
+vega-editor-app,application,0,0,346,0,0.0,346.0
+WML,xmlFormat,5,0,340,0,0.0,345.0
+Rouge,pl,0,0,264,0,78.0,342.0
+Jison Lex,pl,0,0,341,0,0.0,341.0
+Simplicity,pl,0,0,340,0,0.0,340.0
+Automatically Programmed Tool,pl,0,0,340,0,0.0,340.0
+Family BASIC,pl,0,0,340,0,0.0,340.0
+Windows Registry Entries,application,0,0,200,0,139.0,339.0
+never,pl,1,0,338,0,0.0,339.0
+Livr,dataValidationLanguage,0,0,339,0,0.0,339.0
+XPages,application,0,0,316,0,22.0,338.0
+Oxygene,pl,2,0,271,0,65.0,338.0
+METAFONT,application,2,0,335,0,0.0,337.0
+CLU,pl,1,5,331,0,0.0,337.0
+expresso,pl,0,0,337,0,0.0,337.0
+clarity,contractLanguage,0,0,252,0,84.0,336.0
+Speedcoding,pl,0,0,335,0,0.0,335.0
+solid,pl,0,9,326,0,0.0,335.0
+BBC BASIC,pl,0,0,335,0,0.0,335.0
+TXL,pl,0,0,265,0,69.0,334.0
+Structured Query Reporter,pl,2,0,330,0,0.0,332.0
+Euphoria,pl,0,0,256,0,75.0,331.0
+GAML,pl,0,0,0,0,331.0,331.0
+SmallBASIC,pl,0,0,331,0,0.0,331.0
+Parallax Propeller,isa,0,0,330,0,0.0,330.0
+Spatial,pl,13,0,317,0,0.0,330.0
+Continuity of Care Document,xmlFormat,0,0,330,0,0.0,330.0
+LiveCode,pl,9,0,321,0,0.0,330.0
+Adventure Game Studio Script,pl,0,0,201,0,128.0,329.0
+DATABUS,pl,0,0,325,0,0.0,325.0
+Oak,pl,0,0,325,0,0.0,325.0
+GN,application,0,0,323,0,0.0,323.0
+IBM 1620,assembly,1,0,320,0,0.0,321.0
+GraphML,xmlFormat,0,0,320,0,0.0,320.0
+sporth,pl,0,0,318,0,0.0,318.0
+Pycket,pl,0,0,317,0,0.0,317.0
+.QL,pl,0,0,316,0,0.0,316.0
+Glyph,pl,0,0,201,0,115.0,316.0
+Compiler-Compiler,pl,0,0,315,0,0.0,315.0
+Not Quite C,pl,0,0,313,0,0.0,313.0
+CPL,pl,1,2,310,0,0.0,313.0
+Kuin,pl,0,0,313,0,0.0,313.0
+OX,pl,4,0,251,0,58.0,313.0
+JRuby,pl,2,0,310,0,0.0,312.0
+Pharen,pl,0,0,311,0,0.0,311.0
+Axiom,pl,0,6,305,0,0.0,311.0
+CSV,dataNotation,0,0,300,0,9.0,309.0
+Miranda,pl,2,7,300,0,0.0,309.0
+Tea,pl,0,0,291,0,17.0,308.0
+A+,pl,0,0,306,0,0.0,306.0
+Falcon,pl,0,0,306,0,0.0,306.0
+Clinical Document Architecture,xmlFormat,0,0,305,0,0.0,305.0
+NestedText,dataNotation,0,0,305,0,0.0,305.0
+CSVw,dataValidationLanguage,0,0,305,0,0.0,305.0
+Z,pl,0,2,303,0,0.0,305.0
+Genie,pl,1,2,280,0,21.0,304.0
+Phel,pl,0,0,303,0,0.0,303.0
+ΜC++,pl,0,0,303,0,0.0,303.0
+Opal,pl,0,0,288,0,14.0,302.0
+CFEngine,application,1,0,301,0,0.0,302.0
+Tuple space,pl,0,0,300,0,0.0,300.0
+Logtalk,pl,0,4,231,0,65.0,300.0
+DDA,pl,0,0,300,0,0.0,300.0
+Instruction list,pl,0,0,300,0,0.0,300.0
+Applesoft BASIC,pl,0,0,300,0,0.0,300.0
+UCSD Pascal,pl,0,0,300,0,0.0,300.0
+Alpine Abuild,pl,0,0,200,0,99.0,299.0
+Fortress,pl,0,6,291,0,0.0,297.0
+PIC,textMarkup,72,0,225,0,0.0,297.0
+Cyber,pl,0,0,295,0,0.0,295.0
+categorical-query-language,queryLanguage,0,0,293,0,0.0,293.0
+YAWL,pl,1,0,292,0,0.0,293.0
+Icon,pl,3,19,271,0,0.0,293.0
+hexagony,esolang,0,0,291,0,0.0,291.0
+High Level Assembly,assembly,0,0,291,0,0.0,291.0
+Atari BASIC,pl,0,0,290,0,0.0,290.0
+jinx,pl,0,0,289,0,0.0,289.0
+HyperTalk,pl,10,1,275,0,0.0,286.0
+Tabloid,esolang,0,0,286,0,0.0,286.0
+BASIC Programming,pl,0,0,285,0,0.0,285.0
+Scroll,textMarkup,0,0,285,0,0.0,285.0
+TriG syntax,dataNotation,0,0,285,0,0.0,285.0
+Armed Bear Common Lisp,pl,0,0,283,0,0.0,283.0
+RPL,pl,3,0,280,0,0.0,283.0
+redprl,pl,0,0,281,0,0.0,281.0
+Advanced Authoring Format,binaryDataFormat,0,0,280,0,0.0,280.0
+Standard Portable Intermediate Representation,ir,0,0,280,0,0.0,280.0
+Curry,pl,1,0,275,0,4.0,280.0
+F,pl,0,0,280,0,0.0,280.0
+Harbour,pl,0,0,231,0,45.0,276.0
+yeti,pl,0,0,276,0,0.0,276.0
+MLAB,pl,0,0,275,0,0.0,275.0
+Jasmin,pl,0,0,201,0,74.0,275.0
+g-fu,pl,0,0,275,0,0.0,275.0
+mimium,pl,0,0,274,0,0.0,274.0
+Vale,assembly,0,0,272,0,0.0,272.0
+RDoc,textMarkup,0,0,271,0,0.0,271.0
+Esterel,pl,1,0,270,0,0.0,271.0
+Cycript,pl,0,0,201,0,70.0,271.0
+PIR,pl,0,0,270,0,0.0,270.0
+bog,pl,0,0,270,0,0.0,270.0
+Information Processing Language,pl,0,0,270,0,0.0,270.0
+Tahoe-LAFS,filesystem,0,0,270,0,0.0,270.0
+Maya Embedded Language,pl,0,0,270,0,0.0,270.0
+UNITY,pl,59,0,210,0,0.0,269.0
+FOCUS,pl,4,0,265,0,0.0,269.0
+Alice,pl,6,0,261,0,0.0,267.0
+3D Manufacturing Format,xmlFormat,0,0,266,0,0.0,266.0
+Hocon,dataNotation,0,0,266,0,0.0,266.0
+little,pl,0,0,266,0,0.0,266.0
+MHEG-5,schema,0,0,265,0,0.0,265.0
+BEAM Erlang virtual machine,vm,0,0,265,0,0.0,265.0
+Joy,pl,4,0,260,0,0.0,264.0
+lift,pl,0,0,261,0,0.0,261.0
+Knitr,template,0,1,260,0,0.0,261.0
+Basic4android,pl,0,0,260,0,0.0,260.0
+General feature format,textDataFormat,0,0,260,0,0.0,260.0
+IBM POWER Instruction Set Architecture,isa,0,0,260,0,0.0,260.0
+Noweb,textMarkup,0,0,259,0,0.0,259.0
+LPC,pl,0,1,256,0,0.0,257.0
+Ch computer programming,pl,0,0,256,0,0.0,256.0
+MIRC scripting language,pl,0,0,256,0,0.0,256.0
+Autocode,pl,0,0,255,0,0.0,255.0
+Frank,pl,0,0,255,0,0.0,255.0
+Google Data Protcol,protocol,0,0,255,0,0.0,255.0
+Pyth,esolang,0,0,251,0,0.0,251.0
+TMTP,protocol,0,0,251,0,0.0,251.0
+Shen,pl,0,0,201,0,50.0,251.0
+De Bruijn index,notation,0,0,250,0,0.0,250.0
+cuneiform,pl,0,0,250,0,0.0,250.0
+MyBB,pl,0,0,250,0,0.0,250.0
+Pro*C,pl,0,0,250,0,0.0,250.0
+RAPID,pl,0,0,250,0,0.0,250.0
+FRACTRAN,esolang,0,0,250,0,0.0,250.0
+FloScript,pl,0,0,249,0,0.0,249.0
+hr-code,barCodeFormat,0,0,247,0,0.0,247.0
+PEAR,packageManager,0,0,246,0,0.0,246.0
+CYCL,pl,0,0,246,0,0.0,246.0
+OQL,queryLanguage,0,0,245,0,0.0,245.0
+ESC/P,pl,0,0,245,0,0.0,245.0
+BeanShell,pl,3,0,241,0,0.0,244.0
+Concise Encoding,dataNotation,0,0,242,0,0.0,242.0
+Pizza,pl,1,0,241,0,0.0,242.0
+Coda web development software,editor,0,0,241,0,0.0,241.0
+Assembly CLI,library,0,0,240,0,0.0,240.0
+BLISS,pl,0,0,240,0,0.0,240.0
+Slice,pl,0,0,200,0,40.0,240.0
+Java EE version history,pl,0,0,240,0,0.0,240.0
+BPML,pl,0,0,240,0,0.0,240.0
+Hotdog,pl,0,0,240,0,0.0,240.0
+World of Warcraft Addon Data,application,0,0,200,0,38.0,238.0
+Cyclone,pl,1,0,236,0,0.0,237.0
+EEX,template,0,0,201,0,34.0,235.0
+Sinclair BASIC,pl,0,0,235,0,0.0,235.0
+Apple ProDOS,os,0,0,235,0,0.0,235.0
+Meta Expressions,dataNotation,0,0,235,0,0.0,235.0
+PowerBASIC,pl,0,0,235,0,0.0,235.0
+TECO,pl,0,0,235,0,0.0,235.0
+MVEL,pl,0,0,235,0,0.0,235.0
+ALGO,pl,0,0,235,0,0.0,235.0
+Kaffeine,pl,0,0,232,0,0.0,232.0
+PARI/GP,pl,0,0,231,0,0.0,231.0
+Wing,pl,0,0,231,0,0.0,231.0
+General-purpose macro processor,grammarLanguage,0,0,231,0,0.0,231.0
+A#,pl,0,0,230,0,0.0,230.0
+Nadesiko,pl,0,0,230,0,0.0,230.0
+Dink Smallwood,pl,0,0,230,0,0.0,230.0
+Sam Coupé,pl,0,0,230,0,0.0,230.0
+Dartmouth BASIC,pl,0,0,230,0,0.0,230.0
+Vyxal,esolang,0,0,228,0,0.0,228.0
+Grace,pl,0,0,201,0,27.0,228.0
+UNLAMBDA,esolang,2,0,226,0,0.0,228.0
+General Purpose Simulation System,pl,1,0,225,0,0.0,226.0
+SQL/PSM,pl,0,0,225,0,0.0,225.0
+Dasm,assembly,0,0,225,0,0.0,225.0
+candor,pl,0,0,225,0,0.0,225.0
+Crystallographic Information File,textDataFormat,0,0,225,0,0.0,225.0
+AIMMS,pl,0,0,225,0,0.0,225.0
+Margin,textMarkup,0,0,224,0,0.0,224.0
+Lawvere,pl,0,0,224,0,0.0,224.0
+ecsharp,pl,0,0,223,0,0.0,223.0
+Flowgorithm,visual,0,0,221,0,0.0,221.0
+SpiderBasic,pl,0,0,221,0,0.0,221.0
+PL/0,pl,0,0,220,0,0.0,220.0
+inko,pl,0,0,220,0,0.0,220.0
+Lingo,pl,0,0,220,0,0.0,220.0
+Silicon Graphics Image,binaryDataFormat,0,0,220,0,0.0,220.0
+Schematron,xmlFormat,0,0,220,0,0.0,220.0
+hacspec,pl,0,0,219,0,0.0,219.0
+Modula,pl,13,0,205,0,0.0,218.0
+Dc,pl,0,18,200,0,0.0,218.0
+LoomScript,pl,0,0,201,0,16.0,217.0
+HAL Format,binaryDataFormat,0,0,217,0,0.0,217.0
+popr,pl,0,0,217,0,0.0,217.0
+elymas,pl,0,0,217,0,0.0,217.0
+cat,pl,0,0,216,0,0.0,216.0
+tampio,pl,0,0,216,0,0.0,216.0
+VisualWorks,pl,0,0,215,0,0.0,215.0
+ObjDump,application,0,0,215,0,0.0,215.0
+ILBM,binaryDataFormat,0,0,215,0,0.0,215.0
+ALEF,pl,0,0,215,0,0.0,215.0
+FXML,xmlFormat,0,0,215,0,0.0,215.0
+X Font Directory Index,application,0,0,200,0,14.0,214.0
+dedukti,pl,0,0,211,0,0.0,211.0
+Visual Prolog,pl,0,0,210,0,0.0,210.0
+GRAAL,pl,0,5,205,0,0.0,210.0
+A++,pl,0,0,210,0,0.0,210.0
+MUSIC/SP,pl,0,0,210,0,0.0,210.0
+Groovy Server Pages,template,0,0,201,0,9.0,210.0
+METAPOST,pl,0,0,210,0,0.0,210.0
+SETL,pl,7,11,191,0,0.0,209.0
+xxl,pl,0,0,209,0,0.0,209.0
+tamgu,pl,0,0,208,0,0.0,208.0
+Asymptote,application,2,0,205,0,0.0,207.0
+Seed7,pl,0,0,206,0,0.0,206.0
+RUNOFF,textMarkup,0,0,200,0,5.0,205.0
+ACT-III,pl,0,0,205,0,0.0,205.0
+arret,pl,0,0,205,0,0.0,205.0
+THEOS,pl,0,0,205,0,0.0,205.0
+Mesa,pl,0,0,205,0,0.0,205.0
+ultralisp-pm,packageManager,0,0,204,0,0.0,204.0
+Charcoal,esolang,0,0,204,0,0.0,204.0
+tcsh,pl,3,0,200,0,0.0,203.0
+ApacheConf,application,0,0,201,0,0.0,201.0
+JSX,template,0,0,201,0,0.0,201.0
+Scala Markup Language,template,0,0,201,0,0.0,201.0
+Quake,pl,0,0,200,0,1.0,201.0
+Ant Build System,application,0,0,201,0,0.0,201.0
+Augment,pl,0,0,200,0,0.0,200.0
+Nix,packageManager,0,0,200,0,0.0,200.0
+Adobe Font Metrics,application,0,0,200,0,0.0,200.0
+IBM BASIC,pl,0,0,200,0,0.0,200.0
+Eclipse Command Language,pl,0,0,200,0,0.0,200.0
+HXML,application,0,0,200,0,0.0,200.0
+Cloud Firestore Security Rules,application,0,0,200,0,0.0,200.0
+XCompose,application,0,0,200,0,0.0,200.0
+FIGlet Font,application,0,0,200,0,0.0,200.0
+KUKA Robot Language,pl,0,0,200,0,0.0,200.0
+CoNLL-U,application,0,0,200,0,0.0,200.0
+M4Sugar,pl,0,0,200,0,0.0,200.0
+Spline Font Database,application,0,0,200,0,0.0,200.0
+OpenType Feature File,application,0,0,200,0,0.0,200.0
+RPM Spec,application,0,0,200,0,0.0,200.0
+desktop,application,0,0,200,0,0.0,200.0
+RHTML,template,0,0,200,0,0.0,200.0
+ldpl,pl,0,0,199,0,0.0,199.0
+Fun,pl,0,0,199,0,0.0,199.0
+Nimskull,pl,0,0,199,0,0.0,199.0
+clike,pl,0,0,197,0,0.0,197.0
+Uniface,pl,1,0,196,0,0.0,197.0
+FP,pl,2,0,195,0,0.0,197.0
+ACL2,pl,2,0,195,0,0.0,197.0
+Tynker,visual,0,0,196,0,0.0,196.0
+Sibelius,pl,0,0,195,0,0.0,195.0
+Nexus file,textDataFormat,0,0,195,0,0.0,195.0
+Game Oriented Assembly Lisp,pl,0,0,195,0,0.0,195.0
+HP-GL,pl,0,0,195,0,0.0,195.0
+Pure,pl,0,19,176,0,0.0,195.0
+BASIC Stamp,pl,0,0,195,0,0.0,195.0
+Shakespeare,pl,0,0,195,0,0.0,195.0
+VisSim,pl,0,0,195,0,0.0,195.0
+Acorn Atom,pl,0,0,195,0,0.0,195.0
+XBEL,pl,0,0,195,0,0.0,195.0
+Croc,pl,0,0,194,0,0.0,194.0
+tao3d,pl,0,0,193,0,0.0,193.0
+Nymph,pl,0,0,192,0,0.0,192.0
+AMOS,pl,0,0,190,0,0.0,190.0
+Cadence SKILL,pl,0,0,190,0,0.0,190.0
+X PixMap,textDataFormat,0,0,20,0,170.0,190.0
+P′′,pl,0,0,190,0,0.0,190.0
+Ecstasy,pl,0,0,188,0,0.0,188.0
+BlooP,esolang,1,0,185,0,0.0,186.0
+Small-C,pl,0,0,185,0,0.0,185.0
+QUEL,queryLanguage,0,0,185,0,0.0,185.0
+MML,standard,0,0,185,0,0.0,185.0
+Content Assembly Mechanism,xmlFormat,0,0,185,0,0.0,185.0
+Steinhaus-Moser notation,notation,0,0,185,0,0.0,185.0
+VHDL-AMS,pl,0,0,185,0,0.0,185.0
+Dataflex,pl,0,0,185,0,0.0,185.0
+Ren-C,pl,0,0,184,0,0.0,184.0
+rhine,pl,0,0,184,0,0.0,184.0
+co2,pl,0,0,184,0,0.0,184.0
+Croma,pl,0,0,180,0,0.0,180.0
+MXML,xmlFormat,0,0,180,0,0.0,180.0
+Integer BASIC,pl,0,0,180,0,0.0,180.0
+Mobl,pl,0,0,178,0,0.0,178.0
+Zork Implementation Language,pl,0,0,0,0,177.0,177.0
+OK,pl,0,0,177,0,0.0,177.0
+cperl,pl,0,0,176,0,0.0,176.0
+UBJSON,binaryDataFormat,0,0,176,0,0.0,176.0
+CLISP,pl,0,0,175,0,0.0,175.0
+Short Code computer language,pl,0,0,175,0,0.0,175.0
+Tree and Tabular Combined Notation,pl,0,0,175,0,0.0,175.0
+keli,pl,0,0,175,0,0.0,175.0
+Etoys,pl,0,0,175,0,0.0,175.0
+PILOT,pl,0,0,175,0,0.0,175.0
+Alma,pl,0,0,174,0,0.0,174.0
+mlatu,pl,0,0,173,0,0.0,173.0
+a Lisp Environment,pl,0,0,172,0,0.0,172.0
+Steel Bank Common Lisp,pl,0,0,171,0,0.0,171.0
+LotusScript,pl,6,0,165,0,0.0,171.0
+wah,pl,0,0,171,0,0.0,171.0
+QuakeC,pl,1,0,170,0,0.0,171.0
+Gist,pl,0,0,170,0,0.0,170.0
+Just Another Scripting Syntax,pl,0,0,170,0,0.0,170.0
+HAL/S,assembly,0,0,170,0,0.0,170.0
+JIS X 0201,characterEncoding,0,0,170,0,0.0,170.0
+Property Specification Language,pl,0,0,170,0,0.0,170.0
+Om,pl,0,0,168,0,0.0,168.0
+LiteScript,pl,0,0,168,0,0.0,168.0
+CIR,ir,0,0,167,0,0.0,167.0
+IBM Informix-4GL,queryLanguage,2,0,165,0,0.0,167.0
+ALGOL W,pl,1,0,165,0,0.0,166.0
+Text Adventure Development System,application,0,0,166,0,0.0,166.0
+Avionics Architecture Design Language,pl,0,0,166,0,0.0,166.0
+Kawa,pl,0,0,165,0,0.0,165.0
+Trellis,pl,0,0,165,0,0.0,165.0
+Magik,pl,0,0,165,0,0.0,165.0
+Z++,pl,0,0,165,0,0.0,165.0
+Oberon-2,pl,0,0,165,0,0.0,165.0
+OGNL,pl,0,0,165,0,0.0,165.0
+MOO,pl,0,0,80,0,83.0,163.0
+semicolon,esolang,0,0,163,0,0.0,163.0
+BETA,pl,6,0,156,0,0.0,162.0
+zolang,pl,0,0,161,0,0.0,161.0
+Mech,pl,0,0,161,0,0.0,161.0
+PeopleCode,pl,6,0,155,0,0.0,161.0
+Homa,protocol,0,0,161,0,0.0,161.0
+PLANNER,pl,0,5,155,0,0.0,160.0
+Energy Systems Language,notation,0,0,160,0,0.0,160.0
+Transaction Language 1,pl,0,0,160,0,0.0,160.0
+Gene transfer format,textDataFormat,0,0,160,0,0.0,160.0
+SnapTag,barCodeFormat,0,0,160,0,0.0,160.0
+Facelets,template,0,0,160,0,0.0,160.0
+MEDUSA,pl,0,0,160,0,0.0,160.0
+Flowcode,pl,0,0,160,0,0.0,160.0
+video,pl,0,0,159,0,0.0,159.0
+ana,pl,0,0,157,0,0.0,157.0
+polyglot-compiler,compiler,0,0,157,0,0.0,157.0
+KiXtart,pl,0,0,156,0,0.0,156.0
+JavaFX Script,pl,0,0,156,0,0.0,156.0
+Savi,pl,0,0,156,0,0.0,156.0
+lever,pl,0,0,156,0,0.0,156.0
+Li-Chen Wang,pl,0,0,155,0,0.0,155.0
+Scratchpad,pl,0,0,155,0,0.0,155.0
+Watcom,pl,0,0,155,0,0.0,155.0
+l2,pl,0,0,155,0,0.0,155.0
+Flavors,pl,0,0,155,0,0.0,155.0
+QtScript,pl,0,0,155,0,0.0,155.0
+Jisp,pl,0,0,154,0,0.0,154.0
+mys,pl,0,0,153,0,0.0,153.0
+NWScript,pl,0,0,75,0,78.0,153.0
+JOSS,pl,2,0,150,0,0.0,152.0
+Rapira,pl,0,0,151,0,0.0,151.0
+OPS5,pl,1,0,150,0,0.0,151.0
+Lustre,pl,1,0,150,0,0.0,151.0
+EGL,pl,1,0,150,0,0.0,151.0
+MAGMA,pl,0,0,151,0,0.0,151.0
+Synon,pl,0,0,150,0,0.0,150.0
+XCAS,pl,0,0,150,0,0.0,150.0
+PL/P,pl,0,0,150,0,0.0,150.0
+Casio BASIC,pl,0,0,150,0,0.0,150.0
+Sweave,template,0,0,150,0,0.0,150.0
+DYNAMO,pl,0,0,150,0,0.0,150.0
+Integrated Data Store,queryLanguage,0,0,150,0,0.0,150.0
+Eurisko,pl,0,0,150,0,0.0,150.0
+StarLogo,pl,0,0,150,0,0.0,150.0
+Morfik,pl,0,0,150,0,0.0,150.0
+RamdaScript,pl,0,0,149,0,0.0,149.0
+hivemind,pl,0,0,148,0,0.0,148.0
+pointless,pl,0,0,147,0,0.0,147.0
+moya,pl,0,0,147,0,0.0,147.0
+Gforth,pl,0,0,146,0,0.0,146.0
+JSON Lines,dataNotation,0,0,146,0,0.0,146.0
+tablam,queryLanguage,0,0,146,0,0.0,146.0
+mythryl,pl,0,0,146,0,0.0,146.0
+MAPPER,pl,0,0,145,0,0.0,145.0
+UPIC,pl,0,0,145,0,0.0,145.0
+HOPE,pl,0,0,145,0,0.0,145.0
+Sun Raster,binaryDataFormat,0,0,145,0,0.0,145.0
+YARV,vm,0,0,145,0,0.0,145.0
+Scribe,pl,0,0,145,0,0.0,145.0
+Thue,esolang,0,0,145,0,0.0,145.0
+vivaldi,pl,0,0,143,0,0.0,143.0
+Prograph,pl,3,0,140,0,0.0,143.0
+Pyrex,pl,0,0,141,0,0.0,141.0
+PascalABC.NET,pl,0,0,141,0,0.0,141.0
+ISWIM,pl,0,0,140,0,0.0,140.0
+GML,xmlFormat,3,2,135,0,0.0,140.0
+CHICKEN,pl,0,0,140,0,0.0,140.0
+Michigan Algorithm Decoder,pl,0,0,140,0,0.0,140.0
+Wonkey,pl,0,0,140,0,0.0,140.0
+Gren,pl,0,0,137,0,0.0,137.0
+kei,pl,0,0,137,0,0.0,137.0
+mages,pl,0,0,137,0,0.0,137.0
+holyc,pl,0,0,0,0,137.0,137.0
+ARexx,pl,1,0,135,0,0.0,136.0
+jonprl,pl,0,0,136,0,0.0,136.0
+ATLAS Transformation Language,pl,0,0,136,0,0.0,136.0
+Epigram,pl,1,0,135,0,0.0,136.0
+edgelisp,pl,0,0,136,0,0.0,136.0
+CONVERT,pl,0,0,135,0,0.0,135.0
+D data language specification,queryLanguage,0,0,135,0,0.0,135.0
+COMAL,pl,0,0,135,0,0.0,135.0
+CRAM file format,binaryDataFormat,0,0,135,0,0.0,135.0
+WATFIV,pl,0,0,135,0,0.0,135.0
+GeneXus,pl,0,0,135,0,0.0,135.0
+True BASIC,pl,0,0,135,0,0.0,135.0
+STOS BASIC,pl,0,0,135,0,0.0,135.0
+Yabasic,pl,0,0,135,0,0.0,135.0
+unseemly,pl,0,0,135,0,0.0,135.0
+txtzyme,pl,0,0,134,0,0.0,134.0
+Augeas,pl,0,0,66,0,68.0,134.0
+Subleq,isa,0,0,134,0,0.0,134.0
+typecobol,pl,0,0,133,0,0.0,133.0
+ToonTalk,pl,0,0,133,0,0.0,133.0
+CMS-2,pl,1,0,130,0,0.0,131.0
+Gellish,textMarkup,1,0,130,0,0.0,131.0
+Sather,pl,1,3,126,0,0.0,130.0
+Perl Data Language,pl,0,0,130,0,0.0,130.0
+gentee,pl,0,0,130,0,0.0,130.0
+Alternate Instruction Set,isa,0,0,130,0,0.0,130.0
+Model 204,pl,0,0,130,0,0.0,130.0
+SequenceL,pl,0,0,130,0,0.0,130.0
+Promela,pl,0,0,20,0,109.0,129.0
+CLIST,pl,3,0,125,0,0.0,128.0
+FaCT,pl,0,1,126,0,0.0,127.0
+loci,pl,0,0,127,0,0.0,127.0
+Wart,pl,0,0,127,0,0.0,127.0
+Nial,pl,1,0,125,0,0.0,126.0
+Strongtalk,pl,0,0,126,0,0.0,126.0
+RATFOR,pl,0,0,126,0,0.0,126.0
+r4,pl,0,0,126,0,0.0,126.0
+Lisp Machine Lisp,pl,0,0,125,0,0.0,125.0
+Not eXactly C,pl,0,0,125,0,0.0,125.0
+Piet,esolang,0,0,125,0,0.0,125.0
+Kalyn,pl,0,0,125,0,0.0,125.0
+T,pl,0,0,125,0,0.0,125.0
+Lava,pl,0,0,125,0,0.0,125.0
+HyTime,pl,0,0,125,0,0.0,125.0
+Linden Scripting Language,pl,0,0,125,0,0.0,125.0
+Liberty BASIC,pl,0,0,125,0,0.0,125.0
+PLEX,pl,0,0,125,0,0.0,125.0
+XPL,pl,0,0,125,0,0.0,125.0
+Euler,pl,0,0,125,0,0.0,125.0
+AmigaBASIC,pl,0,0,125,0,0.0,125.0
+Easytrieve,pl,0,0,125,0,0.0,125.0
+hamdown,textMarkup,0,0,124,0,0.0,124.0
+Slony,application,0,0,124,0,0.0,124.0
+Forml,pl,0,0,123,0,0.0,123.0
+Encore,pl,0,0,123,0,0.0,123.0
+Charity,pl,0,0,111,0,11.0,122.0
+Brain-Flak,esolang,0,0,122,0,0.0,122.0
+CHILL,pl,1,0,120,0,0.0,121.0
+Interlisp,pl,1,0,120,0,0.0,121.0
+monte,pl,15,0,106,0,0.0,121.0
+Algebraic modeling language,pl,0,0,120,0,0.0,120.0
+Qore,pl,0,0,120,0,0.0,120.0
+R++,pl,0,0,120,0,0.0,120.0
+GFA BASIC,pl,0,0,120,0,0.0,120.0
+WMLScript,pl,0,0,120,0,0.0,120.0
+Processor Technology,pl,0,0,120,0,0.0,120.0
+LispWorks,pl,0,0,120,0,0.0,120.0
+ktexteditor-editor,editor,0,0,119,0,0.0,119.0
+aretext,editor,0,0,119,0,0.0,119.0
+Unicon,pl,1,2,116,0,0.0,119.0
+Business Basic,pl,3,0,115,0,0.0,118.0
+ELFE,pl,0,0,118,0,0.0,118.0
+OPL,pl,6,0,111,0,0.0,117.0
+LUCID,pl,2,0,115,0,0.0,117.0
+pasukon,grammarLanguage,0,0,117,0,0.0,117.0
+Ohayo,pl,0,0,117,0,0.0,117.0
+MDL,pl,2,0,115,0,0.0,117.0
+tht,pl,0,0,116,0,0.0,116.0
+JAL compiler,compiler,0,0,116,0,0.0,116.0
+Netlib,library,0,0,116,0,0.0,116.0
+Caché ObjectScript,pl,1,0,115,0,0.0,116.0
+C shell,pl,0,0,116,0,0.0,116.0
+PTX,assembly,0,0,116,0,0.0,116.0
+Ezhil,pl,0,0,116,0,0.0,116.0
+Cell,pl,9,0,106,0,0.0,115.0
+XBase++,pl,0,0,115,0,0.0,115.0
+Nomad software,pl,0,0,115,0,0.0,115.0
+Visual Objects,pl,0,0,115,0,0.0,115.0
+MSX BASIC,pl,0,0,115,0,0.0,115.0
+SPIP,pl,0,0,115,0,0.0,115.0
+Amigas,pl,0,0,115,0,0.0,115.0
+AUI,pl,0,0,115,0,0.0,115.0
+Continuity of Care Record,xmlFormat,0,0,115,0,0.0,115.0
+Newsqueak,pl,0,0,115,0,0.0,115.0
+ABC 80,pl,0,0,115,0,0.0,115.0
+Hopscotch,pl,0,0,115,0,0.0,115.0
+WebDNA,pl,0,0,115,0,0.0,115.0
+Template Attribute Language,template,0,0,115,0,0.0,115.0
+Programming Language for Business,pl,0,0,115,0,0.0,115.0
+Bounce,pl,0,0,114,0,0.0,114.0
+GNU Data Language,idl,1,0,111,0,0.0,112.0
+EasyLanguage,pl,1,0,110,0,0.0,111.0
+Pascal Script,pl,0,0,111,0,0.0,111.0
+ircis,esolang,0,0,111,0,0.0,111.0
+SIMPL,pl,1,0,110,0,0.0,111.0
+IP Pascal,pl,0,0,111,0,0.0,111.0
+Winbatch,pl,0,0,111,0,0.0,111.0
+DML,pl,0,0,110,0,0.0,110.0
+Tandem Advanced Command Language,pl,0,0,110,0,0.0,110.0
+Concurrent ML,pl,0,0,110,0,0.0,110.0
+SNOOP,pl,0,0,110,0,0.0,110.0
+OpenROAD,pl,0,0,110,0,0.0,110.0
+GUIDO music notation,textDataFormat,0,0,110,0,0.0,110.0
+WinWrap Basic,pl,0,0,110,0,0.0,110.0
+Common Data Format,binaryDataFormat,0,0,110,0,0.0,110.0
+THINK C,pl,0,0,110,0,0.0,110.0
+Pop-11,pl,0,0,110,0,0.0,110.0
+hrqr,barCodeFormat,0,0,110,0,0.0,110.0
+ProvideX,pl,0,0,110,0,0.0,110.0
+Formulating On-Line Calculations in Algebraic Language,pl,0,0,110,0,0.0,110.0
+Preferred Executable Format,pl,0,0,110,0,0.0,110.0
+IBM i Control Language,pl,0,0,110,0,0.0,110.0
+Daisy Systems,pl,0,0,110,0,0.0,110.0
+SIMSCRIPT,pl,4,0,105,0,0.0,109.0
+elena,pl,0,0,107,0,0.0,107.0
+Data Catalog Vocabulary,schema,0,0,106,0,0.0,106.0
+RoboMind,pl,0,0,106,0,0.0,106.0
+obsidian,pl,0,0,106,0,0.0,106.0
+Newspeak,pl,0,0,106,0,0.0,106.0
+CORAL,pl,1,0,105,0,0.0,106.0
+Object Rexx,pl,0,0,106,0,0.0,106.0
+Easy Programming Language,pl,0,0,105,0,0.0,105.0
+Omnis Studio,pl,0,0,105,0,0.0,105.0
+Meta II,grammarLanguage,0,0,105,0,0.0,105.0
+Protel,pl,0,0,105,0,0.0,105.0
+Systems Biology Markup Language,xmlFormat,0,0,105,0,0.0,105.0
+ITL,pl,0,0,105,0,0.0,105.0
+TUTOR,pl,0,0,105,0,0.0,105.0
+V,esolang,0,0,105,0,0.0,105.0
+Locomotive BASIC,pl,0,0,105,0,0.0,105.0
+OpenVera,pl,0,0,105,0,0.0,105.0
+NS Basic,pl,0,0,105,0,0.0,105.0
+Information Presentation Facility,pl,0,0,105,0,0.0,105.0
+Python for S60,pl,0,0,105,0,0.0,105.0
+SCRIPT markup,pl,0,0,105,0,0.0,105.0
+Sawzall,pl,0,0,105,0,0.0,105.0
+Fjölnir,pl,0,0,105,0,0.0,105.0
+TAL,pl,0,0,105,0,0.0,105.0
+ISLISP,pl,0,0,105,0,0.0,105.0
+Handel-C,pl,0,0,105,0,0.0,105.0
+Executive Systems Problem Oriented Language,pl,0,0,105,0,0.0,105.0
+Rocky Mountain BASIC,pl,0,0,105,0,0.0,105.0
+NewtonScript,pl,3,0,100,0,0.0,103.0
+COMIT,pl,3,0,100,0,0.0,103.0
+orange,pl,0,0,102,0,0.0,102.0
+GLBasic,pl,0,0,101,0,0.0,101.0
+Refal,pl,0,0,101,0,0.0,101.0
+Sophia,contractLanguage,0,0,101,0,0.0,101.0
+PALASM,pl,0,0,100,0,0.0,100.0
+Intuit Interchange Format,textDataFormat,0,0,100,0,0.0,100.0
+String diagram,notation,0,0,100,0,0.0,100.0
+SISAL,pl,0,0,100,0,0.0,100.0
+Ravenscar profile,pl,0,0,100,0,0.0,100.0
+Yet Another Scripting Language,pl,0,0,100,0,0.0,100.0
+WOL,pl,0,0,100,0,0.0,100.0
+reforth,pl,0,0,100,0,0.0,100.0
+BASIC-PLUS,pl,0,0,100,0,0.0,100.0
+Spec Sharp,pl,0,0,100,0,0.0,100.0
+ASIC,pl,0,0,100,0,0.0,100.0
+Simons' BASIC,pl,0,0,100,0,0.0,100.0
+Framework office suite,pl,0,0,100,0,0.0,100.0
+REALBasic (now Xojo),pl,0,0,0,0,99.0,99.0
+Ciel,pl,0,0,99,0,0.0,99.0
+Crema,pl,0,0,99,0,0.0,99.0
+Star,pl,0,0,98,0,0.0,98.0
+Jazz,pl,0,0,96,0,0.0,96.0
+Coco/R,grammarLanguage,0,0,96,0,0.0,96.0
+Action!,pl,1,0,95,0,0.0,96.0
+Speakeasy,pl,0,0,96,0,0.0,96.0
+Ciao,pl,0,0,96,0,0.0,96.0
+Twelf,pl,0,0,95,0,0.0,95.0
+TASM,pl,0,0,95,0,0.0,95.0
+IDL specification language,idl,0,0,95,0,0.0,95.0
+ThinBasic,pl,0,0,95,0,0.0,95.0
+OpenLisp,pl,0,0,95,0,0.0,95.0
+Joule,pl,0,0,95,0,0.0,95.0
+Gödel (Goedel),pl,0,0,95,0,0.0,95.0
+LINC 4GL,pl,0,0,95,0,0.0,95.0
+AUTOCODER,assembly,0,0,95,0,0.0,95.0
+Text Executive Programming Language,pl,0,0,95,0,0.0,95.0
+Wirth syntax notation,grammarLanguage,0,0,95,0,0.0,95.0
+Tosh,pl,0,0,95,0,0.0,95.0
+parenthetic,esolang,0,0,93,0,0.0,93.0
+Yorick,pl,1,1,91,0,0.0,93.0
+PICO,pl,0,0,91,0,0.0,91.0
+Agilent VEE,pl,0,0,91,0,0.0,91.0
+Simple Actor Language System and Architecture,pl,0,0,91,0,0.0,91.0
+MUDDL,pl,0,0,91,0,0.0,91.0
+GEL Genius,pl,0,0,91,0,0.0,91.0
+GOLD,grammarLanguage,0,0,91,0,0.0,91.0
+FL,pl,0,0,90,0,0.0,90.0
+Chinese BASIC,pl,0,0,90,0,0.0,90.0
+Scsh,pl,0,0,90,0,0.0,90.0
+GARP,pl,0,0,90,0,0.0,90.0
+DEMOS,pl,0,0,90,0,0.0,90.0
+Abbreviated Test Language for All Systems,pl,0,0,90,0,0.0,90.0
+SLIP,pl,0,0,90,0,0.0,90.0
+RuleML,pl,0,0,90,0,0.0,90.0
+PROIV,pl,0,0,90,0,0.0,90.0
+aplette,pl,0,0,90,0,0.0,90.0
+Flex language,pl,0,0,90,0,0.0,90.0
+CS-Script,pl,0,0,90,0,0.0,90.0
+POP-2,pl,0,0,90,0,0.0,90.0
+EuLisp,pl,0,0,90,0,0.0,90.0
+MIMIC,pl,0,0,90,0,0.0,90.0
+Genshi,template,0,0,60,0,30.0,90.0
+Knowledge Interchange Format,pl,0,0,90,0,0.0,90.0
+Cullinet,pl,0,0,90,0,0.0,90.0
+Stalin,compiler,0,0,90,0,0.0,90.0
+Amiga E,pl,0,0,90,0,0.0,90.0
+Structured Product Labeling,xmlFormat,0,0,90,0,0.0,90.0
+mycroft,pl,0,0,89,0,0.0,89.0
+Adept,pl,0,0,89,0,0.0,89.0
+Jule,pl,0,0,89,0,0.0,89.0
+glush,grammarLanguage,0,0,88,0,0.0,88.0
+Taijilang,pl,0,0,87,0,0.0,87.0
+ralph,pl,0,0,87,0,0.0,87.0
+Slideshow,textMarkup,0,0,87,0,0.0,87.0
+GRASS,pl,2,0,85,0,0.0,87.0
+TRAC,pl,2,0,85,0,0.0,87.0
+MiniD,pl,0,0,86,0,0.0,86.0
+Battlestar,pl,0,0,86,0,0.0,86.0
+Lite-C,pl,0,0,86,0,0.0,86.0
+CMU Common Lisp,pl,0,0,86,0,0.0,86.0
+Dolittle,pl,0,0,86,0,0.0,86.0
+Orc,pl,0,0,86,0,0.0,86.0
+ColorForth,pl,0,0,86,0,0.0,86.0
+Marine Trading Markup Language,xmlFormat,0,0,1,0,85.0,86.0
+INFER,pl,0,0,85,0,0.0,85.0
+Robot Battle,pl,0,0,85,0,0.0,85.0
+Refer,textMarkup,0,0,85,0,0.0,85.0
+Fuzzy Markup Language,xmlFormat,0,0,85,0,0.0,85.0
+Standard for Exchange of Non-clinical Data,standard,0,0,85,0,0.0,85.0
+S/SL,pl,0,0,85,0,0.0,85.0
+Digital Interactive Business Oriented Language,pl,0,0,85,0,0.0,85.0
+Binary Alignment Map,binaryDataFormat,0,0,85,0,0.0,85.0
+hoon,pl,0,0,1,0,84.0,85.0
+VAL,pl,0,0,85,0,0.0,85.0
+Stockholm format,textDataFormat,0,0,85,0,0.0,85.0
+ActiveVFP,pl,0,0,85,0,0.0,85.0
+ISBL,pl,0,0,85,0,0.0,85.0
+SIGNAL,pl,0,0,85,0,0.0,85.0
+Color BASIC,pl,0,0,85,0,0.0,85.0
+HP Time-Shared BASIC,pl,0,0,85,0,0.0,85.0
+WDDX,pl,0,0,85,0,0.0,85.0
+NEWP,pl,0,0,85,0,0.0,85.0
+POPLOG,pl,0,0,85,0,0.0,85.0
+KamilaLisp,pl,0,0,84,0,0.0,84.0
+Miva,pl,2,0,81,0,0.0,83.0
+eco-editor,editor,0,0,83,0,0.0,83.0
+ODRL,pl,0,3,80,0,0.0,83.0
+Kamby,pl,0,0,83,0,0.0,83.0
+egel,interpreter,0,0,82,0,0.0,82.0
+Candy,pl,0,0,82,0,0.0,82.0
+sham,grammarLanguage,0,0,81,0,0.0,81.0
+Dexterity,pl,0,1,80,0,0.0,81.0
+Common Lisp with Arc Macros and Procedures,pl,0,0,81,0,0.0,81.0
+RLaB,pl,1,0,80,0,0.0,81.0
+Yacas,pl,0,0,81,0,0.0,81.0
+Aldor,pl,0,0,81,0,0.0,81.0
+Mouse,pl,0,0,81,0,0.0,81.0
+SASL,pl,0,0,80,0,0.0,80.0
+DARPA Agent Markup Language,xmlFormat,0,0,80,0,0.0,80.0
+PASCAL/MT+,pl,0,0,80,0,0.0,80.0
+Join Java,pl,0,0,80,0,0.0,80.0
+LIMDEP,pl,0,0,80,0,0.0,80.0
+Atom,pl,0,0,80,0,0.0,80.0
+MATH-MATIC,pl,0,0,80,0,0.0,80.0
+GameMonkey Script,pl,0,0,80,0,0.0,80.0
+UIML,xmlFormat,0,0,80,0,0.0,80.0
+Turbo Basic,pl,0,0,80,0,0.0,80.0
+I,pl,0,0,80,0,0.0,80.0
+MAI Basic Four,pl,0,0,80,0,0.0,80.0
+Argus,pl,0,0,80,0,0.0,80.0
+Turbo-Basic XL,pl,0,0,80,0,0.0,80.0
+PBASIC,pl,0,0,80,0,0.0,80.0
+Sing Sharp,pl,0,0,80,0,0.0,80.0
+Visual Test,pl,0,0,80,0,0.0,80.0
+Chomski,pl,0,0,80,0,0.0,80.0
+Euclid,pl,0,0,80,0,0.0,80.0
+NATURAL,pl,0,44,35,0,0.0,79.0
+grid-notation,textDataFormat,0,0,79,0,0.0,79.0
+fork-lang,pl,0,0,79,0,0.0,79.0
+lambda-zero,pl,0,0,78,0,0.0,78.0
+MewMew,esolang,0,0,77,0,0.0,77.0
+Ante,esolang,0,1,76,0,0.0,77.0
+QOIR,binaryDataFormat,0,0,77,0,0.0,77.0
+Chipmunk Basic,pl,0,0,76,0,0.0,76.0
+SenseTalk,pl,0,0,76,0,0.0,76.0
+Khepri,pl,0,0,76,0,0.0,76.0
+SAC,pl,0,0,76,0,0.0,76.0
+RenderMan Shading Language,pl,0,0,75,0,0.0,75.0
+Election Markup Language,xmlFormat,0,0,75,0,0.0,75.0
+Blitz3D,pl,0,0,75,0,0.0,75.0
+RapidQ,pl,0,0,75,0,0.0,75.0
+Split-C,pl,0,0,75,0,0.0,75.0
+Cayenne,pl,0,0,75,0,0.0,75.0
+sugartex,textMarkup,0,0,75,0,0.0,75.0
+HP BASIC for OpenVMS,pl,0,0,75,0,0.0,75.0
+SISC,pl,0,0,75,0,0.0,75.0
+Dak,pl,0,0,75,0,0.0,75.0
+CBASIC,pl,0,0,75,0,0.0,75.0
+Alpha,pl,0,0,75,0,0.0,75.0
+Janus,pl,0,0,75,0,0.0,75.0
+Forte 4GL,pl,0,0,75,0,0.0,75.0
+Scheme 2-D,pl,0,0,75,0,0.0,75.0
+Basic4ppc,pl,0,0,75,0,0.0,75.0
+Aztec C,pl,0,0,75,0,0.0,75.0
+CECIL,pl,0,0,75,0,0.0,75.0
+FutureBASIC,pl,0,0,75,0,0.0,75.0
+PowerHouse,pl,0,0,75,0,0.0,75.0
+ALTRAN,pl,0,0,75,0,0.0,75.0
+ΛProlog,pl,0,0,75,0,0.0,75.0
+UNCOL,ir,0,0,75,0,0.0,75.0
+Secure Operations Language,pl,0,0,75,0,0.0,75.0
+NL,application,0,0,75,0,0.0,75.0
+Typographical Number Theory,notation,0,0,75,0,0.0,75.0
+Atlas Autocode,pl,0,0,75,0,0.0,75.0
+SCM,pl,0,0,75,0,0.0,75.0
+y-lang,pl,0,0,74,0,0.0,74.0
+Proteus,pl,0,4,70,0,0.0,74.0
+kai,pl,0,0,73,0,0.0,73.0
+NESL,pl,0,3,70,0,0.0,73.0
+silk,pl,0,0,73,0,0.0,73.0
+CLOS,pl,3,0,70,0,0.0,73.0
+WML,template,5,0,66,0,0.0,71.0
+Calypso,pl,0,0,71,0,0.0,71.0
+Alma-0,pl,0,0,71,0,0.0,71.0
+TOM,pl,0,0,71,0,0.0,71.0
+Mama,pl,0,0,71,0,0.0,71.0
+Formula language,pl,0,0,71,0,0.0,71.0
+OBJ,pl,0,6,65,0,0.0,71.0
+Matita,pl,0,1,70,0,0.0,71.0
+Rockstar,esolang,0,0,71,0,0.0,71.0
+Langage Implementation Systeme,pl,0,0,70,0,0.0,70.0
+Distributed Application Specification Language,pl,0,0,70,0,0.0,70.0
+Algebraic Logic Functional,pl,0,0,70,0,0.0,70.0
+Snowball,pl,0,0,70,0,0.0,70.0
+KRC,pl,0,0,70,0,0.0,70.0
+Optimized Systems Software,pl,0,0,70,0,0.0,70.0
+Meditech Interpretive Information System,pl,0,0,70,0,0.0,70.0
+Cornell University Programming Language,pl,0,0,70,0,0.0,70.0
+BCX,pl,0,0,70,0,0.0,70.0
+AgentSpeak,pl,0,0,70,0,0.0,70.0
+WFL,pl,0,0,70,0,0.0,70.0
+Caltech Intermediate Form,pl,0,0,70,0,0.0,70.0
+PIKT,pl,0,0,70,0,0.0,70.0
+OptimJ,pl,0,0,70,0,0.0,70.0
+NeXML format,xmlFormat,0,0,70,0,0.0,70.0
+DML,pl,0,0,70,0,0.0,70.0
+whack,pl,0,0,70,0,0.0,70.0
+Aheui,esolang,0,0,70,0,0.0,70.0
+Rita,pl,0,0,70,0,0.0,70.0
+UBASIC,pl,0,0,70,0,0.0,70.0
+Heron,pl,0,0,70,0,0.0,70.0
+Actor,pl,0,0,70,0,0.0,70.0
+OMeta,grammarLanguage,0,0,70,0,0.0,70.0
+ZigZag,knowledgeBase,0,0,70,0,0.0,70.0
+NPL,pl,0,0,70,0,0.0,70.0
+SR,pl,0,0,70,0,0.0,70.0
+preforth,pl,0,0,70,0,0.0,70.0
+IFPS,pl,0,0,70,0,0.0,70.0
+Atari Microsoft BASIC,pl,0,0,70,0,0.0,70.0
+Le-Lisp,pl,0,0,70,0,0.0,70.0
+PL/C,pl,0,0,70,0,0.0,70.0
+Flatline,pl,0,0,70,0,0.0,70.0
+Run BASIC,pl,0,0,70,0,0.0,70.0
+SMX,pl,0,0,70,0,0.0,70.0
+ELLA,pl,0,0,70,0,0.0,70.0
+Abstract State Machine Language,pl,0,0,70,0,0.0,70.0
+CA-Telon,pl,0,0,70,0,0.0,70.0
+Lynx,pl,0,0,70,0,0.0,70.0
+Gello Expression Language,pl,0,0,70,0,0.0,70.0
+JSONScript,pl,0,0,69,0,0.0,69.0
+Leda,pl,0,0,68,0,0.0,68.0
+manool,pl,0,0,67,0,0.0,67.0
+Subtext,pl,0,0,66,0,0.0,66.0
+DarkBASIC,pl,0,0,66,0,0.0,66.0
+NilScript,pl,0,0,66,0,0.0,66.0
+juniper,pl,0,0,66,0,0.0,66.0
+Nice,pl,0,0,66,0,0.0,66.0
+NetRexx,pl,1,0,65,0,0.0,66.0
+Squire,pl,0,0,66,0,0.0,66.0
+IBM BASICA,pl,0,0,65,0,0.0,65.0
+Irvine Dataflow,pl,0,0,65,0,0.0,65.0
+Obliq,pl,0,0,65,0,0.0,65.0
+Graphics BASIC,pl,0,0,65,0,0.0,65.0
+MACRO-11,pl,0,0,65,0,0.0,65.0
+Polymorphic Programming Language,pl,0,0,65,0,0.0,65.0
+ARITH-MATIC,pl,0,0,65,0,0.0,65.0
+IMP,pl,0,0,65,0,0.0,65.0
+CLAIRE,pl,0,0,65,0,0.0,65.0
+Atari ST BASIC,pl,0,0,65,0,0.0,65.0
+Portable Standard Lisp,pl,0,0,65,0,0.0,65.0
+Onyx,pl,0,0,65,0,0.0,65.0
+S-algol,pl,0,0,65,0,0.0,65.0
+JOSS Extended and Adapted for Nineteen-hundred,pl,0,0,65,0,0.0,65.0
+PVS,pl,0,0,65,0,0.0,65.0
+Ubercode,pl,0,0,65,0,0.0,65.0
+Occam π,pl,0,0,65,0,0.0,65.0
+SuperBASIC,pl,0,0,65,0,0.0,65.0
+Yoix,pl,0,0,65,0,0.0,65.0
+CAL Actor Language,pl,0,0,65,0,0.0,65.0
+TTM,pl,0,0,65,0,0.0,65.0
+Actor-Based Concurrent Language,pl,0,0,65,0,0.0,65.0
+FuzzyCLIPS,knowledgeBase,0,0,65,0,0.0,65.0
+Tektronix 4050,pl,0,0,65,0,0.0,65.0
+IBM 1401 Symbolic Programming System,compiler,0,0,65,0,0.0,65.0
+Strand,pl,0,0,65,0,0.0,65.0
+Real-time Cmix,pl,0,0,65,0,0.0,65.0
+Ease,pl,0,0,65,0,0.0,65.0
+Information Algebra,pl,0,0,65,0,0.0,65.0
+MARK IV,pl,0,0,65,0,0.0,65.0
+Fenix Project,pl,0,0,65,0,0.0,65.0
+Edinburgh IMP,pl,0,0,65,0,0.0,65.0
+rainbow,pl,0,0,65,0,0.0,65.0
+Knowledge Query and Manipulation Language,queryLanguage,0,0,65,0,0.0,65.0
+ScriptBasic,pl,0,0,65,0,0.0,65.0
+Basic-256,pl,0,0,65,0,0.0,65.0
+BASICODE,pl,0,0,65,0,0.0,65.0
+Q,pl,1,2,61,0,0.0,64.0
+BlazeX,pl,0,0,64,0,0.0,64.0
+fjs,pl,0,0,64,0,0.0,64.0
+ugBASIC,pl,0,0,63,0,0.0,63.0
+dyvil,pl,0,0,63,0,0.0,63.0
+cor,pl,0,0,63,0,0.0,63.0
+taf,pl,0,0,63,0,0.0,63.0
+Knight,pl,0,0,62,0,0.0,62.0
+setlx,pl,0,0,62,0,0.0,62.0
+YAP,pl,0,2,60,0,0.0,62.0
+EXEC,pl,2,0,60,0,0.0,62.0
+quaint-lang,pl,0,0,62,0,0.0,62.0
+Gauche Scheme implementation,pl,0,0,61,0,0.0,61.0
+PL360,pl,1,0,60,0,0.0,61.0
+Hook,pl,0,0,61,0,0.0,61.0
+Txt2tags,textMarkup,0,0,61,0,0.0,61.0
+Parser 3,pl,0,0,61,0,0.0,61.0
+Document Structure Description,xmlFormat,0,0,61,0,0.0,61.0
+Zimpl,pl,0,0,1,0,60.0,61.0
+Corman Common Lisp,pl,0,0,61,0,0.0,61.0
+Frink,pl,0,0,61,0,0.0,61.0
+Ecological Metadata Language,xmlFormat,0,0,60,0,0.0,60.0
+DAML+OIL,pl,0,0,60,0,0.0,60.0
+PALcode,isa,0,0,60,0,0.0,60.0
+muMath,pl,0,0,60,0,0.0,60.0
+EUMEL,pl,0,0,60,0,0.0,60.0
+Stratego/XT,grammarLanguage,0,0,60,0,0.0,60.0
+SIMPLE,pl,0,0,60,0,0.0,60.0
+XCore Architecture,isa,0,0,60,0,0.0,60.0
+Averest,pl,0,0,60,0,0.0,60.0
+BASIC A+,pl,0,0,60,0,0.0,60.0
+PICT,pl,0,0,60,0,0.0,60.0
+DragonBASIC,pl,0,0,60,0,0.0,60.0
+Janus,pl,0,0,60,0,0.0,60.0
+LISP 2,pl,0,0,60,0,0.0,60.0
+Ratfiv,pl,0,0,60,0,0.0,60.0
+Apple BASIC,pl,0,0,60,0,0.0,60.0
+Kaleidoscope,pl,0,0,60,0,0.0,60.0
+Visual Smalltalk Enterprise,pl,0,0,60,0,0.0,60.0
+APLX,pl,0,0,60,0,0.0,60.0
+ABSET,pl,0,0,60,0,0.0,60.0
+Agora,pl,0,0,60,0,0.0,60.0
+MapBasic,pl,0,0,60,0,0.0,60.0
+TMG,grammarLanguage,0,0,60,0,0.0,60.0
+Mallard BASIC,pl,0,0,60,0,0.0,60.0
+Langage Sans Espoir,pl,0,0,60,0,0.0,60.0
+Mortran,pl,0,0,60,0,0.0,60.0
+Lazy ML,pl,0,0,60,0,0.0,60.0
+Advanced Continuous Simulation Language,pl,0,0,60,0,0.0,60.0
+PV-Wave,pl,0,0,60,0,0.0,60.0
+Pnuts,pl,0,0,60,0,0.0,60.0
+COWSEL,pl,0,0,60,0,0.0,60.0
+S3,pl,0,0,60,0,0.0,60.0
+Plus,pl,0,0,60,0,0.0,60.0
+Beta BASIC,pl,0,0,60,0,0.0,60.0
+XBLite,pl,0,0,60,0,0.0,60.0
+TOM object-oriented,pl,0,0,60,0,0.0,60.0
+Blacklight,pl,0,0,59,0,0.0,59.0
+Small,pl,4,0,55,0,0.0,59.0
+toki sona,pl,0,0,59,0,0.0,59.0
+flame-ir,ir,0,0,59,0,0.0,59.0
+Avail,pl,0,0,59,0,0.0,59.0
+CokeScript,pl,0,0,58,0,0.0,58.0
+phorth,pl,0,0,58,0,0.0,58.0
+jiyu,pl,0,0,58,0,0.0,58.0
+fp,pl,0,0,57,0,0.0,57.0
+Toi,pl,0,0,57,0,0.0,57.0
+Nickle,pl,0,0,56,0,0.0,56.0
+RascalMPL,pl,0,0,56,0,0.0,56.0
+D4,pl,0,1,55,0,0.0,56.0
+Little b,pl,0,0,56,0,0.0,56.0
+Flapjax,pl,0,0,56,0,0.0,56.0
+Sugar,pl,0,0,56,0,0.0,56.0
+Spice Lisp,pl,0,0,55,0,0.0,55.0
+Data Access Language,pl,0,0,55,0,0.0,55.0
+CMS Pipelines,pl,0,0,55,0,0.0,55.0
+PROMAL,pl,0,0,55,0,0.0,55.0
+XOTcl,pl,0,0,55,0,0.0,55.0
+SA-C,pl,0,0,55,0,0.0,55.0
+O-Matrix,pl,0,0,55,0,0.0,55.0
+EXEC 2,pl,0,0,55,0,0.0,55.0
+Joe-E,pl,0,0,55,0,0.0,55.0
+IAL,pl,0,0,55,0,0.0,55.0
+CheetahTemplate,template,0,0,55,0,0.0,55.0
+CorVision,pl,0,0,55,0,0.0,55.0
+Mary,pl,0,0,55,0,0.0,55.0
+json->url,jsonFormat,0,0,55,0,0.0,55.0
+Fully Automated Compiling Technique,pl,0,0,55,0,0.0,55.0
+Zonnon,pl,0,0,55,0,0.0,55.0
+Vilnius BASIC,pl,0,0,55,0,0.0,55.0
+APSE,pl,0,0,55,0,0.0,55.0
+Harwell-Boeing file format,textDataFormat,0,0,55,0,0.0,55.0
+SPITBOL,pl,0,0,55,0,0.0,55.0
+CFScript,pl,0,0,55,0,0.0,55.0
+BANCStar,pl,0,0,55,0,0.0,55.0
+CGOL,pl,0,0,55,0,0.0,55.0
+ZENO,pl,0,0,55,0,0.0,55.0
+Action Code Script,pl,0,0,55,0,0.0,55.0
+GEORGE,pl,0,0,55,0,0.0,55.0
+XGMML,pl,0,0,55,0,0.0,55.0
+BEFLIX,pl,0,0,55,0,0.0,55.0
+TScript,pl,0,0,55,0,0.0,55.0
+Service Modeling Language,pl,0,0,55,0,0.0,55.0
+CodeGear Delphi,pl,0,0,55,0,0.0,55.0
+FILETAB,pl,0,0,55,0,0.0,55.0
+euboea,pl,0,0,54,0,0.0,54.0
+Parlog,pl,4,0,50,0,0.0,54.0
+WLambda,pl,0,0,53,0,0.0,53.0
+Z,pl,0,2,51,0,0.0,53.0
+DEVIL,pl,0,3,50,0,0.0,53.0
+Genero Business Development Language,pl,0,0,0,0,52.0,52.0
+Statsplorer,visual,0,0,52,0,0.0,52.0
+Draco,pl,0,2,50,0,0.0,52.0
+CobolScript,pl,0,0,51,0,0.0,51.0
+Matrix Market Coordinate Format,textDataFormat,0,0,51,0,0.0,51.0
+PhyloXML,xmlFormat,0,0,51,0,0.0,51.0
+ELAN,pl,0,0,51,0,0.0,51.0
+zlang,pl,0,0,51,0,0.0,51.0
+Rebeca Modeling Language,pl,0,0,51,0,0.0,51.0
+ten,pl,0,0,50,0,0.0,50.0
+AIL,ir,0,0,50,0,0.0,50.0
+TELCOMP,pl,0,0,50,0,0.0,50.0
+Nuprl,pl,0,0,50,0,0.0,50.0
+ABSYS,pl,0,0,50,0,0.0,50.0
+nulan,pl,0,0,50,0,0.0,50.0
+KL0,pl,0,0,50,0,0.0,50.0
+CHIP,pl,0,0,50,0,0.0,50.0
+cql,pl,0,0,50,0,0.0,50.0
+Uniform eXchange Format,dataNotation,0,0,50,0,0.0,50.0
+ObjectLOGO,pl,0,0,50,0,0.0,50.0
+OEM,schema,0,0,50,0,0.0,50.0
+LYaPAS,pl,0,0,50,0,0.0,50.0
+Ikarus Scheme implementation,pl,0,0,50,0,0.0,50.0
+SYMPL,pl,0,0,50,0,0.0,50.0
+Object-Z,pl,0,0,50,0,0.0,50.0
+FpgaC,pl,0,0,50,0,0.0,50.0
+Rexon,pl,0,0,50,0,0.0,50.0
+ZBasic,pl,0,0,50,0,0.0,50.0
+Ruby Document format,textMarkup,0,0,50,0,0.0,50.0
+Visual DataFlex,pl,0,0,50,0,0.0,50.0
+SP/k,pl,0,0,50,0,0.0,50.0
+ZOPL,pl,0,0,50,0,0.0,50.0
+ROOP,pl,0,0,50,0,0.0,50.0
+PL-11,pl,0,0,50,0,0.0,50.0
+IBM HAScript,pl,0,0,50,0,0.0,50.0
+DATATRIEVE,queryLanguage,0,0,50,0,0.0,50.0
+z80,assembly,0,0,50,0,0.0,50.0
+Laning and Zierler system,pl,0,0,50,0,0.0,50.0
+QUTE,pl,0,0,50,0,0.0,50.0
+MetaComCo,pl,0,0,50,0,0.0,50.0
+SAOL,pl,0,0,50,0,0.0,50.0
+Kermeta,pl,0,3,46,0,0.0,49.0
+zl,pl,0,0,49,0,0.0,49.0
+winxed,pl,0,0,49,0,0.0,49.0
+neeilang,pl,0,0,49,0,0.0,49.0
+Omgrofl,esolang,0,0,44,0,3.0,47.0
+Frost,pl,0,0,47,0,0.0,47.0
+Hot Cocoa Lisp,pl,0,0,47,0,0.0,47.0
+System 2,pl,0,0,46,0,0.0,46.0
+PLEXIL,pl,0,0,46,0,0.0,46.0
+Texy!,textMarkup,0,0,46,0,0.0,46.0
+Interactive C Interpreter,pl,0,0,46,0,0.0,46.0
+AIML,dataNotation,0,0,46,0,0.0,46.0
+Parrot Assembly,assembly,0,0,45,0,1.0,46.0
+huginn,pl,0,0,46,0,0.0,46.0
+Extensible Embeddable Language,pl,0,0,45,0,0.0,45.0
+RTL/2,pl,0,0,45,0,0.0,45.0
+Toy,pl,0,0,45,0,0.0,45.0
+NELIAC,pl,0,0,45,0,0.0,45.0
+Lithe,pl,0,0,45,0,0.0,45.0
+Southampton BASIC System,pl,0,0,45,0,0.0,45.0
+SAM76,pl,0,0,45,0,0.0,45.0
+StarOffice Basic,pl,0,0,45,0,0.0,45.0
+M2001,pl,0,0,45,0,0.0,45.0
+File Oriented Interpretive Language,pl,0,0,45,0,0.0,45.0
+SuperTalk,pl,0,0,45,0,0.0,45.0
+Nested Context Language,xmlFormat,0,0,45,0,0.0,45.0
+ALCOR,pl,0,0,45,0,0.0,45.0
+Larceny Scheme implementation,pl,0,0,45,0,0.0,45.0
+Acornsoft Logo,pl,0,0,45,0,0.0,45.0
+Nuua,pl,0,0,45,0,0.0,45.0
+MacBASIC,pl,0,0,45,0,0.0,45.0
+BASIC09,pl,0,0,45,0,0.0,45.0
+Napier88,pl,0,0,45,0,0.0,45.0
+Basic4GL,pl,0,0,45,0,0.0,45.0
+GNU E,pl,0,0,45,0,0.0,45.0
+remix,pl,0,0,45,0,0.0,45.0
+Kid templating language,template,0,0,45,0,0.0,45.0
+MacroML,pl,0,0,45,0,0.0,45.0
+ALGOL 68-R,pl,0,0,45,0,0.0,45.0
+ShEx,grammarLanguage,0,0,45,0,0.0,45.0
+Urbiscript,pl,0,0,45,0,0.0,45.0
+MakeDoc,textMarkup,0,0,45,0,0.0,45.0
+Namespace-based Validation Dispatching Language,xmlFormat,0,0,45,0,0.0,45.0
+JAWS Scripting Language,pl,0,0,45,0,0.0,45.0
+FX-87,pl,0,0,45,0,0.0,45.0
+Visual DialogScript,pl,0,0,45,0,0.0,45.0
+ru,pl,0,0,45,0,0.0,45.0
+WCPS,pl,0,0,45,0,0.0,45.0
+Data General Business Basic,pl,0,0,45,0,0.0,45.0
+WxBasic,pl,0,0,45,0,0.0,45.0
+3APL,pl,0,0,45,0,0.0,45.0
+DDML,xmlFormat,0,0,45,0,0.0,45.0
+COFFEE Cinema 4D,pl,0,0,45,0,0.0,45.0
+LEXX,editor,0,0,45,0,0.0,45.0
+Schema for Object-Oriented XML,xmlFormat,0,0,45,0,0.0,45.0
+Enterprise Mashup Markup Language,pl,0,0,45,0,0.0,45.0
+XDR Schema,xmlFormat,0,0,45,0,0.0,45.0
+CLPR,pl,0,0,45,0,0.0,45.0
+Đ,pl,0,0,44,0,0.0,44.0
+Mudlle,pl,0,0,43,0,0.0,43.0
+Alphard,pl,0,3,40,0,0.0,43.0
+cytosol,pl,0,0,43,0,0.0,43.0
+Aith,pl,0,0,43,0,0.0,43.0
+Business Object Notation,notation,0,0,41,0,0.0,41.0
+gura,pl,0,0,41,0,0.0,41.0
+Little Implementation Language,pl,0,0,41,0,0.0,41.0
+IpTables Rope,pl,0,0,41,0,0.0,41.0
+XPL0,pl,0,0,40,0,0.0,40.0
+CYBIL,pl,0,0,40,0,0.0,40.0
+B32 Business Basic,pl,0,0,40,0,0.0,40.0
+Snit,pl,0,0,40,0,0.0,40.0
+NCAR Command Language,pl,0,0,40,0,0.0,40.0
+CommonLoops,pl,0,0,40,0,0.0,40.0
+Operational Control Language,pl,0,0,40,0,0.0,40.0
+MACRO-10,pl,0,0,40,0,0.0,40.0
+System Automatycznego Kodowania Operacji,pl,0,0,40,0,0.0,40.0
+Insitux,pl,0,0,40,0,0.0,40.0
+Datapoint's Advanced Systems Language,pl,0,0,40,0,0.0,40.0
+FORMAC,pl,0,0,40,0,0.0,40.0
+Judoscript,pl,0,0,40,0,0.0,40.0
+Jet Propulsion Laboratory Display Information System,pl,0,0,40,0,0.0,40.0
+Elliott ALGOL,pl,0,0,40,0,0.0,40.0
+o:XML,pl,0,0,40,0,0.0,40.0
+SdlBasic,pl,0,0,40,0,0.0,40.0
+AMBIT,pl,0,0,40,0,0.0,40.0
+MARIA XML,xmlFormat,0,0,40,0,0.0,40.0
+TACPOL,pl,0,0,40,0,0.0,40.0
+Visual Tool Markup Language,pl,0,0,40,0,0.0,40.0
+BRUIN,pl,0,0,40,0,0.0,40.0
+Lagoona,pl,0,0,40,0,0.0,40.0
+Adenine,pl,0,0,40,0,0.0,40.0
+icarus,pl,0,0,40,0,0.0,40.0
+Scriptol,pl,0,0,40,0,0.0,40.0
+Chrome,pl,0,0,40,0,0.0,40.0
+CLX,pl,0,0,40,0,0.0,40.0
+Sort Merge Generator,pl,0,0,40,0,0.0,40.0
+CSpydr,pl,0,0,40,0,0.0,40.0
+Extended ML,pl,0,0,40,0,0.0,40.0
+Yakou Lang,pl,0,0,39,0,0.0,39.0
+tangledown,template,0,0,38,0,0.0,38.0
+Alumina,pl,0,0,38,0,0.0,38.0
+GLMS,pl,0,0,38,0,0.0,38.0
+UCG,dataNotation,0,0,38,0,0.0,38.0
+Typecast.js,pl,0,0,38,0,0.0,38.0
+Curly,pl,0,0,38,0,0.0,38.0
+Truth,dataNotation,0,0,37,0,0.0,37.0
+Cane,musicalNotation,0,0,37,0,0.0,37.0
+Rye,pl,0,0,37,0,0.0,37.0
+NXT-G,pl,2,0,35,0,0.0,37.0
+R2ML,xmlFormat,0,0,36,0,0.0,36.0
+Ham,pl,0,0,36,0,0.0,36.0
+sill,pl,0,0,36,0,0.0,36.0
+ThingLab,pl,0,0,35,0,0.0,35.0
+Daplex,pl,0,0,35,0,0.0,35.0
+GRML,pl,0,0,35,0,0.0,35.0
+FLACC,pl,0,0,35,0,0.0,35.0
+Ramis software,pl,0,0,35,0,0.0,35.0
+OpenComal,pl,0,0,35,0,0.0,35.0
+Robic,pl,0,0,35,0,0.0,35.0
+51forth,pl,0,0,35,0,0.0,35.0
+Concurrent METATEM,pl,0,0,35,0,0.0,35.0
+LispMe,pl,0,0,35,0,0.0,35.0
+VlibTemplate,template,0,0,35,0,0.0,35.0
+Met-English,pl,0,0,35,0,0.0,35.0
+Object Oberon,pl,0,0,35,0,0.0,35.0
+Creative Basic,pl,0,0,35,0,0.0,35.0
+Nord Programming Language,pl,0,0,35,0,0.0,35.0
+Business application language,pl,0,0,35,0,0.0,35.0
+WSFN,pl,0,0,35,0,0.0,35.0
+DIANA,ir,0,0,35,0,0.0,35.0
+CEEMAC,pl,0,0,35,0,0.0,35.0
+Cesil,pl,0,0,35,0,0.0,35.0
+QUIKSCRIPT,pl,0,0,35,0,0.0,35.0
+JSML,xmlFormat,0,0,35,0,0.0,35.0
+SYMBOLIC ASSEMBLY,assembly,0,0,35,0,0.0,35.0
+SheerPower4GL,pl,0,0,35,0,0.0,35.0
+FastTrack Scripting Host,pl,0,0,35,0,0.0,35.0
+Galaksija BASIC,pl,0,0,35,0,0.0,35.0
+ALGOL N,pl,0,0,35,0,0.0,35.0
+Invisible XML,grammarLanguage,0,0,35,0,0.0,35.0
+Xidoc,textMarkup,0,0,35,0,0.0,35.0
+ObjectPAL,pl,0,0,35,0,0.0,35.0
+FleXML,pl,0,0,35,0,0.0,35.0
+IITRAN,pl,0,0,35,0,0.0,35.0
+CA-Realizer,pl,0,0,35,0,0.0,35.0
+OWBasic,pl,0,0,35,0,0.0,35.0
+Smalltalk MT,pl,0,0,35,0,0.0,35.0
+Cambridge Algebra System,pl,0,0,35,0,0.0,35.0
+PACT I,pl,0,0,35,0,0.0,35.0
+BuddyScript,pl,0,0,35,0,0.0,35.0
+MINC,pl,0,0,35,0,0.0,35.0
+Phoenix Object Basic,pl,0,0,35,0,0.0,35.0
+ApeScript,pl,0,0,35,0,0.0,35.0
+tuplemarkup,textMarkup,0,0,35,0,0.0,35.0
+IPTSCRAE,pl,0,0,35,0,0.0,35.0
+daonode,pl,0,0,34,0,0.0,34.0
+Nasal,pl,0,0,1,0,32.0,33.0
+neutron,pl,0,0,33,0,0.0,33.0
+Project Mentat,queryLanguage,0,0,33,0,0.0,33.0
+REDUCE,pl,2,0,31,0,0.0,33.0
+RustScript,pl,0,0,32,0,0.0,32.0
+rel-lang,pl,0,0,32,0,0.0,32.0
+nylo,pl,0,0,32,0,0.0,32.0
+badlanguage,pl,0,0,32,0,0.0,32.0
+r3,pl,0,0,32,0,0.0,32.0
+Tefkat,pl,0,0,31,0,0.0,31.0
+Dixy,dataNotation,0,0,31,0,0.0,31.0
+shadama,pl,0,0,31,0,0.0,31.0
+rio,pl,0,0,31,0,0.0,31.0
+kumir,pl,0,0,31,0,0.0,31.0
+CLiX markup,xmlFormat,0,0,31,0,0.0,31.0
+mawk,pl,0,0,31,0,0.0,31.0
+Treelang,pl,0,0,30,0,0.0,30.0
+XMTC,pl,0,0,30,0,0.0,30.0
+APE100,pl,0,0,30,0,0.0,30.0
+IBM Rational SQABasic,pl,0,0,30,0,0.0,30.0
+BASIC-11,pl,0,0,30,0,0.0,30.0
+RASP,pl,0,0,30,0,0.0,30.0
+Multi-User Forth,pl,0,0,30,0,0.0,30.0
+AlphaBasic,pl,0,0,30,0,0.0,30.0
+PS-algol,pl,0,0,30,0,0.0,30.0
+BasicX,pl,0,0,30,0,0.0,30.0
+LEAP,pl,0,0,30,0,0.0,30.0
+CaPSL,pl,0,0,30,0,0.0,30.0
+KonsolScript,pl,0,0,30,0,0.0,30.0
+CorbaScript,pl,0,0,30,0,0.0,30.0
+Tiger-BASIC,pl,0,0,30,0,0.0,30.0
+SBASIC,pl,0,0,30,0,0.0,30.0
+NorthStar BASIC,pl,0,0,30,0,0.0,30.0
+Bywater BASIC,pl,0,0,30,0,0.0,30.0
+RunRev,pl,0,0,30,0,0.0,30.0
+Compact Application Solution Language,pl,0,0,30,0,0.0,30.0
+BASIC-E,pl,0,0,30,0,0.0,30.0
+FXScript,pl,0,0,30,0,0.0,30.0
+RicScript,pl,0,0,30,0,0.0,30.0
+ProSet,pl,0,0,30,0,0.0,30.0
+Quaint,textMarkup,0,0,30,0,0.0,30.0
+UniVerse,pl,0,0,30,0,0.0,30.0
+Batari Basic,pl,0,0,30,0,0.0,30.0
+DAP FORTRAN,pl,0,0,30,0,0.0,30.0
+Project MAC’s SYmbolic MAnipulator,pl,0,0,30,0,0.0,30.0
+KavaScript,pl,0,0,29,0,0.0,29.0
+jedlang,pl,0,0,29,0,0.0,29.0
+Plaid,pl,0,0,29,0,0.0,29.0
+gintonic,queryLanguage,0,0,29,0,0.0,29.0
+Bizubee,pl,0,0,29,0,0.0,29.0
+swizzle,esolang,0,0,29,0,0.0,29.0
+SQRL,queryLanguage,0,0,28,0,0.0,28.0
+Minilang,interpreter,0,0,28,0,0.0,28.0
+emerald-lang,pl,0,0,27,0,0.0,27.0
+adamant,pl,0,0,27,0,0.0,27.0
+runiq,pl,0,0,27,0,0.0,27.0
+Zimbu,pl,0,0,26,0,0.0,26.0
+nirvana,pl,0,0,26,0,0.0,26.0
+JSON-stat,jsonFormat,0,0,26,0,0.0,26.0
+Octune,pl,0,0,26,0,0.0,26.0
+Xupdate,pl,0,0,25,0,0.0,25.0
+ISETL,pl,0,0,25,0,0.0,25.0
+Multi-user BASIC,pl,0,0,25,0,0.0,25.0
+Dern,pl,0,0,25,0,0.0,25.0
+20-GATE,pl,0,0,25,0,0.0,25.0
+Parrot BASIC,pl,0,0,25,0,0.0,25.0
+t-lang,pl,0,0,25,0,0.0,25.0
+truck,pl,0,0,25,0,0.0,25.0
+orca,pl,0,0,25,0,0.0,25.0
+funl,pl,0,0,25,0,0.0,25.0
+Baby modula-3,pl,0,0,25,0,0.0,25.0
+X-BASIC,pl,0,0,25,0,0.0,25.0
+BlitzPlus,pl,0,0,25,0,0.0,25.0
+High Tech BASIC,pl,0,0,25,0,0.0,25.0
+Hummingbird QuickScript,pl,0,0,25,0,0.0,25.0
+mlpolyr,pl,0,0,25,0,0.0,25.0
+carth,pl,0,0,25,0,0.0,25.0
+Tymshare SuperBasic,pl,0,0,25,0,0.0,25.0
+Hbasic,pl,0,0,25,0,0.0,25.0
+Xbasic,pl,0,0,25,0,0.0,25.0
+SimCode,pl,0,0,25,0,0.0,25.0
+blz,pl,0,0,25,0,0.0,25.0
+nianiolang,pl,0,0,24,0,0.0,24.0
+blur-markup-language,textMarkup,0,0,23,0,0.0,23.0
+Riff,pl,0,0,23,0,0.0,23.0
+Blue,pl,1,7,15,0,0.0,23.0
+ramen,pl,0,0,23,0,0.0,23.0
+Maude,pl,0,23,0,0,0.0,23.0
+formality,pl,0,0,23,0,0.0,23.0
+flua,pl,0,0,23,0,0.0,23.0
+JSFuck,esolang,0,0,22,0,0.0,22.0
+Boogie,pl,0,0,1,0,21.0,22.0
+GHC,compiler,0,0,21,0,0.0,21.0
+Firefox,webBrowser,0,0,21,0,0.0,21.0
+MathType,application,0,0,21,0,0.0,21.0
+DomainKeys Identified Mail,standard,0,0,21,0,0.0,21.0
+SpiderMonkey,vm,0,0,21,0,0.0,21.0
+root-format,binaryDataFormat,0,0,21,0,0.0,21.0
+alfred,pl,0,0,21,0,0.0,21.0
+PSYCO,grammarLanguage,0,0,21,0,0.0,21.0
+ZIM Format,binaryDataFormat,0,0,21,0,0.0,21.0
+LSP,protocol,0,0,21,0,0.0,21.0
+XGBoost,library,0,0,21,0,0.0,21.0
+Boost C++ libraries,library,0,0,21,0,0.0,21.0
+Linoleum (L.in.oleum),pl,0,0,21,0,0.0,21.0
+WebKit,browserEngine,0,0,21,0,0.0,21.0
+GeoGebra,application,0,0,21,0,0.0,21.0
+GCC,compiler,0,0,21,0,0.0,21.0
+Allegro Common Lisp,pl,0,0,21,0,0.0,21.0
+JS++,pl,0,0,21,0,0.0,21.0
+PCrap,pl,0,0,21,0,0.0,21.0
+RigC,pl,0,0,21,0,0.0,21.0
+YAMP,dataNotation,0,0,21,0,0.0,21.0
+parasail,pl,0,0,21,0,0.0,21.0
+Citrine,pl,0,0,21,0,0.0,21.0
+parquet,binaryDataFormat,0,0,21,0,0.0,21.0
+Docker,application,0,0,21,0,0.0,21.0
+JMAP,protocol,0,0,21,0,0.0,21.0
+Oracle Java,pl,0,0,21,0,0.0,21.0
+Gofer,pl,0,0,20,0,0.0,20.0
+Programming Language for the University of Maryland,pl,0,0,20,0,0.0,20.0
+IMac,computingMachine,0,0,20,0,0.0,20.0
+Definite clause grammar,grammarLanguage,0,0,20,0,0.0,20.0
+HLASM,assembly,0,0,20,0,0.0,20.0
+ZPL,pl,0,0,20,0,0.0,20.0
+Language for Your Remote Instruction by Computer,pl,0,0,20,0,0.0,20.0
+Rosetta-2,pl,0,0,20,0,0.0,20.0
+Gauss Flux Formula,equation,0,0,20,0,0.0,20.0
+Interscript,textMarkup,0,0,20,0,0.0,20.0
+mint,pl,0,0,1,0,19.0,20.0
+ISO 8601,standard,0,0,20,0,0.0,20.0
+HCCB,barCodeFormat,0,0,20,0,0.0,20.0
+Coulomb's Equation,equation,0,0,20,0,0.0,20.0
+Steinberg Cubase,application,0,0,20,0,0.0,20.0
+Faraday's Induction Equation,equation,0,0,20,0,0.0,20.0
+Gauss Magnetism Formula,equation,0,0,20,0,0.0,20.0
+Nyquist,pl,0,0,20,0,0.0,20.0
+WATBOL,compiler,0,0,20,0,0.0,20.0
+Cotton,pl,0,0,20,0,0.0,20.0
+Gecko,browserEngine,0,0,20,0,0.0,20.0
+Roman numerals,numeralSystem,0,0,20,0,0.0,20.0
+Roman abacus,computingMachine,0,0,20,0,0.0,20.0
+Pascal's calculator,computingMachine,0,0,20,0,0.0,20.0
+Navier-Stokes Equation,equation,0,0,20,0,0.0,20.0
+Greek numerals,numeralSystem,0,0,20,0,0.0,20.0
+ed,editor,0,0,20,0,0.0,20.0
+Arden syntax,dataNotation,0,0,20,0,0.0,20.0
+SPARQCode,barCodeFormat,0,0,20,0,0.0,20.0
+corescript,pl,0,0,20,0,0.0,20.0
+Feynman diagram,notation,0,0,20,0,0.0,20.0
+Abacus,computingMachine,0,0,20,0,0.0,20.0
+Fast Fourier Transform Equation,equation,0,0,20,0,0.0,20.0
+Bit array,dataStructure,0,0,20,0,0.0,20.0
+Attic numerals,numeralSystem,0,0,20,0,0.0,20.0
+Safari,webBrowser,0,0,20,0,0.0,20.0
+Sender Policy Framework,standard,0,0,20,0,0.0,20.0
+Swym,pl,0,0,20,0,0.0,20.0
+SK8,pl,0,0,20,0,0.0,20.0
+Atom,editor,0,0,20,0,0.0,20.0
+Apple I,computingMachine,0,0,20,0,0.0,20.0
+Ampère's Circuital Equation,equation,0,0,20,0,0.0,20.0
+AFS,filesystem,0,0,20,0,0.0,20.0
+Address,pl,0,0,20,0,0.0,20.0
+Vienna Development Method Specification Language,pl,0,0,20,0,0.0,20.0
+Normal Distribution Equation,equation,0,0,20,0,0.0,20.0
+ALOHAnet,protocol,0,0,20,0,0.0,20.0
+MonoDevelop,editor,0,0,20,0,0.0,20.0
+DAD,pl,0,0,20,0,0.0,20.0
+Liber Abaci,notation,0,0,20,0,0.0,20.0
+Etruscan numerals,numeralSystem,0,0,20,0,0.0,20.0
+Device independent file format,binaryDataFormat,0,0,20,0,0.0,20.0
+CueCat,barCodeFormat,0,0,20,0,0.0,20.0
+Visual J++,pl,0,0,20,0,0.0,20.0
+Parasolid,application,0,0,20,0,0.0,20.0
+Ingres database,database,0,0,20,0,0.0,20.0
+Gravity Equation,equation,0,0,20,0,0.0,20.0
+HyperFun,pl,0,0,20,0,0.0,20.0
+Kyma,pl,0,0,20,0,0.0,20.0
+Macintosh Common Lisp,pl,0,0,20,0,0.0,20.0
+Object Definition Language,pl,0,0,20,0,0.0,20.0
+ObjVlisp,pl,0,0,20,0,0.0,20.0
+strat,pl,0,0,20,0,0.0,20.0
+FOAF,xmlFormat,0,0,20,0,0.0,20.0
+Amazon Redshift,queryLanguage,0,0,20,0,0.0,20.0
+PHIGS,library,0,0,20,0,0.0,20.0
+vCard,textDataFormat,0,0,20,0,0.0,20.0
+Speech Synthesis Markup Language,xmlFormat,0,0,20,0,0.0,20.0
+Namespace Routing Language,xmlFormat,0,0,20,0,0.0,20.0
+MathML,xmlFormat,0,0,20,0,0.0,20.0
+TI-89 series,pl,0,0,20,0,0.0,20.0
+Interpress,textMarkup,0,0,20,0,0.0,20.0
+ex,editor,0,0,20,0,0.0,20.0
+Common Log Format,textDataFormat,0,0,20,0,0.0,20.0
+IPad,computingMachine,0,0,20,0,0.0,20.0
+InterPlanetary File System,protocol,0,0,20,0,0.0,20.0
+GENSTAT,application,0,0,20,0,0.0,20.0
+Euler's Equation,equation,0,0,20,0,0.0,20.0
+eqn,textMarkup,0,0,20,0,0.0,20.0
+ProbeVue,pl,0,0,20,0,0.0,20.0
+ALGOL X,pl,0,0,20,0,0.0,20.0
+Energy Momentum Equation,equation,0,0,20,0,0.0,20.0
+HEIC,binaryDataFormat,0,0,20,0,0.0,20.0
+Lincos,notation,0,0,20,0,0.0,20.0
+Molecular Query Language,queryLanguage,0,0,20,0,0.0,20.0
+Semi-Thue,grammarLanguage,0,0,20,0,0.0,20.0
+FCL,pl,0,0,20,0,0.0,20.0
+Superplan,pl,0,0,20,0,0.0,20.0
+SHRDLU,application,0,0,20,0,0.0,20.0
+BBN-LISP,pl,0,0,20,0,0.0,20.0
+RSS,protocol,0,0,20,0,0.0,20.0
+STRINGCOMP,pl,0,0,20,0,0.0,20.0
+SQUOZE,binaryDataFormat,0,0,20,0,0.0,20.0
+Advice Taker,pl,0,0,20,0,0.0,20.0
+Setun,computingMachine,0,0,20,0,0.0,20.0
+Razor,template,0,0,20,0,0.0,20.0
+QFX file format,textDataFormat,0,0,20,0,0.0,20.0
+PNG,binaryDataFormat,0,0,20,0,0.0,20.0
+Information Theory Equation,equation,0,0,20,0,0.0,20.0
+nroff,textMarkup,0,0,20,0,0.0,20.0
+Dot Product Equation,equation,0,0,20,0,0.0,20.0
+Integral Equation,equation,0,0,20,0,0.0,20.0
+Dendral,application,0,0,20,0,0.0,20.0
+PL/I,pl,0,0,20,0,0.0,20.0
+OpenDoc,protocol,0,0,20,0,0.0,20.0
+Schoonschip,pl,0,0,20,0,0.0,20.0
+FLANG,pl,0,0,20,0,0.0,20.0
+MP3,binaryDataFormat,0,0,20,0,0.0,20.0
+Velocity Template Language,template,0,0,20,0,0.0,20.0
+Macintosh,computingMachine,0,0,20,0,0.0,20.0
+General Activity Simulation Program,pl,0,0,20,0,0.0,20.0
+Iota-and-jot,esolang,0,0,20,0,0.0,20.0
+p4p,pl,0,0,20,0,0.0,20.0
+Little Smalltalk,pl,0,0,20,0,0.0,20.0
+Optimization Programming Language,pl,0,0,20,0,0.0,20.0
+RPG II,pl,0,0,20,0,0.0,20.0
+MacBook Air,computingMachine,0,0,20,0,0.0,20.0
+Language H,pl,0,0,20,0,0.0,20.0
+IPv4,protocol,0,0,20,0,0.0,20.0
+IPhone,computingMachine,0,0,20,0,0.0,20.0
+Shared Dataspace Language,pl,0,0,20,0,0.0,20.0
+Post production,grammarLanguage,0,0,20,0,0.0,20.0
+RPG III,pl,0,0,20,0,0.0,20.0
+Price Equation,equation,0,0,20,0,0.0,20.0
+ADS-B,standard,0,0,20,0,0.0,20.0
+Pythagorean Equation,equation,0,0,20,0,0.0,20.0
+patch,unixApplication,0,0,20,0,0.0,20.0
+Sprite Operating System,os,0,0,20,0,0.0,20.0
+Mass Energy Equation,equation,0,0,20,0,0.0,20.0
+QED,editor,0,0,20,0,0.0,20.0
+Autoconf,configFormat,0,0,20,0,0.0,20.0
+Wiswesser line notation,textDataFormat,0,0,20,0,0.0,20.0
+Set-builder notation,notation,0,0,20,0,0.0,20.0
+Open Financial Exchange,xmlFormat,0,0,20,0,0.0,20.0
+SYBYL line notation,textDataFormat,0,0,20,0,0.0,20.0
+JPEG,binaryDataFormat,0,0,20,0,0.0,20.0
+Ethernet,protocol,0,0,20,0,0.0,20.0
+HCard,xmlFormat,0,0,20,0,0.0,20.0
+PM2,pl,0,0,20,0,0.0,20.0
+Bayes' Equation,equation,0,0,20,0,0.0,20.0
+Prolog++,pl,0,0,20,0,0.0,20.0
+COM Structured Storage,binaryDataFormat,0,0,20,0,0.0,20.0
+P*,pl,0,0,19,0,0.0,19.0
+Language Server Index Format,jsonFormat,0,0,19,0,0.0,19.0
+h,esolang,0,0,19,0,0.0,19.0
+mdl,isa,0,0,19,0,0.0,19.0
+latte-js,pl,0,0,18,0,0.0,18.0
+w,pl,0,0,18,0,0.0,18.0
+Chika,pl,0,0,18,0,0.0,18.0
+tibet,framework,0,0,18,0,0.0,18.0
+rpscript,pl,0,0,17,0,0.0,17.0
+OPL,pl,2,0,15,0,0.0,17.0
+lezer,grammarLanguage,0,0,17,0,0.0,17.0
+ForthScript,pl,0,0,17,0,0.0,17.0
+duro,queryLanguage,0,0,17,0,0.0,17.0
+JSON Graph Spec,jsonFormat,0,0,17,0,0.0,17.0
+BeBasic,pl,0,0,17,0,0.0,17.0
+Z-flat,pl,0,0,17,0,0.0,17.0
+JCOF,dataNotation,0,0,16,0,0.0,16.0
+Nosica,pl,0,0,16,0,0.0,16.0
+latino,pl,0,0,16,0,0.0,16.0
+gfoo,pl,0,0,16,0,0.0,16.0
+BBj,pl,0,0,16,0,0.0,16.0
+Bistro,pl,0,0,16,0,0.0,16.0
+Moby,pl,0,0,16,0,0.0,16.0
+Readable,textMarkup,4,0,12,0,0.0,16.0
+GUIDE,pl,16,0,0,0,0.0,16.0
+COMSOL Script,pl,0,0,16,0,0.0,16.0
+algobox,pl,0,0,16,0,0.0,16.0
+beagle,pl,0,0,16,0,0.0,16.0
+Touch,textMarkup,0,0,16,0,0.0,16.0
+Bigwig Programming Language,pl,0,0,15,0,0.0,15.0
+XProfan,pl,0,0,15,0,0.0,15.0
+Wlanguage,pl,0,0,15,0,0.0,15.0
+WinDev,pl,0,0,15,0,0.0,15.0
+Superx++,pl,0,0,15,0,0.0,15.0
+Tibbo BASIC,pl,0,0,15,0,0.0,15.0
+Legal Knowledge Interchange Format,xmlFormat,0,0,15,0,0.0,15.0
+Recfiles,dataNotation,0,0,15,0,0.0,15.0
+UJML,pl,0,0,15,0,0.0,15.0
+iScript,pl,0,0,15,0,0.0,15.0
+SMILES arbitrary target specification,textDataFormat,0,0,15,0,0.0,15.0
+TouchDevelop,pl,0,0,15,0,0.0,15.0
+Seph,pl,0,0,15,0,0.0,15.0
+Omikron BASIC,pl,0,0,15,0,0.0,15.0
+iCalendar,textDataFormat,0,0,15,0,0.0,15.0
+Deesel,pl,0,0,15,0,0.0,15.0
+CHAIN,pl,0,0,15,0,0.0,15.0
+Simkin,pl,0,0,15,0,0.0,15.0
+HTTP/3,protocol,0,0,15,0,0.0,15.0
+Mocklisp,pl,0,0,15,0,0.0,15.0
+PROC procedure language,pl,0,0,15,0,0.0,15.0
+Bon,pl,0,0,15,0,0.0,15.0
+Marmot,pl,0,0,15,0,0.0,15.0
+M,pl,0,0,15,0,0.0,15.0
+Portal langage,pl,0,0,15,0,0.0,15.0
+IPL,pl,0,0,15,0,0.0,15.0
+PowerLanguage,pl,0,0,15,0,0.0,15.0
+MUSP,pl,0,0,15,0,0.0,15.0
+Timber,pl,0,0,15,0,0.0,15.0
+NGL,pl,0,0,15,0,0.0,15.0
+awl,pl,0,0,15,0,0.0,15.0
+Klerer-May System,pl,0,0,15,0,0.0,15.0
+Izibasic,pl,0,0,15,0,0.0,15.0
+Escapade,pl,0,0,15,0,0.0,15.0
+pinto,pl,0,0,15,0,0.0,15.0
+Scieneer Common Lisp,pl,0,0,15,0,0.0,15.0
+Micro-PROLOG,pl,0,0,15,0,0.0,15.0
+lamderp,pl,0,0,15,0,0.0,15.0
+Moonrock Basic Compiler,pl,0,0,15,0,0.0,15.0
+TAO,dataNotation,2,0,13,0,0.0,15.0
+MetaL,pl,0,0,15,0,0.0,15.0
+Ferite,pl,0,0,15,0,0.0,15.0
+Smalltalk YX,pl,0,0,15,0,0.0,15.0
+Monesa,pl,0,0,15,0,0.0,15.0
+Boxx,pl,0,0,15,0,0.0,15.0
+BitC,pl,0,0,15,0,0.0,15.0
+emesh,esolang,0,0,15,0,0.0,15.0
+Hyper Basic,pl,0,0,15,0,0.0,15.0
+BBx,pl,0,0,15,0,0.0,15.0
+Moescript,pl,0,0,14,0,0.0,14.0
+polymath,textMarkup,0,0,14,0,0.0,14.0
+Ad-hoc,pl,0,0,14,0,0.0,14.0
+Lesma,pl,0,0,14,0,0.0,14.0
+tsar,pl,0,0,14,0,0.0,14.0
+weebasic,pl,0,0,13,0,0.0,13.0
+Space,dataNotation,0,0,13,0,0.0,13.0
+owen-lang,pl,0,0,13,0,0.0,13.0
+Note,dataNotation,0,0,13,0,0.0,13.0
+frame,pl,0,12,1,0,0.0,13.0
+tridash,pl,0,0,13,0,0.0,13.0
+wats,pl,0,0,13,0,0.0,13.0
+coherence,pl,0,11,1,0,0.0,12.0
+texti,textMarkup,0,0,12,0,0.0,12.0
+HuwCode,pl,0,0,12,0,0.0,12.0
+penguor,pl,0,0,12,0,0.0,12.0
+taxa,pl,0,0,12,0,0.0,12.0
+RoyalScript,pl,0,0,12,0,0.0,12.0
+Iode,pl,0,0,12,0,0.0,12.0
+FutureScript,pl,0,0,12,0,0.0,12.0
+plink-ped-format,textDataFormat,0,0,12,0,0.0,12.0
+APL2,pl,0,11,0,0,0.0,11.0
+PearScript,pl,0,0,11,0,0.0,11.0
+acorn-lang,pl,0,0,11,0,0.0,11.0
+SHIFT,pl,0,11,0,0,0.0,11.0
+flownote,pl,0,0,11,0,0.0,11.0
+LIFE,pl,0,11,0,0,0.0,11.0
+dllup,textMarkup,0,0,11,0,0.0,11.0
+TextFrame,textMarkup,0,0,11,0,0.0,11.0
+woe,pl,0,0,10,0,0.0,10.0
+EFL,pl,0,10,0,0,0.0,10.0
+Pod6,textMarkup,0,0,10,0,0.0,10.0
+Edina,pl,0,0,10,0,0.0,10.0
+Conceptual,pl,0,0,10,0,0.0,10.0
+Stutter,esolang,0,0,10,0,0.0,10.0
+oopsilon,esolang,0,0,9,0,0.0,9.0
+blockml,textMarkup,0,0,9,0,0.0,9.0
+H++,pl,0,0,9,0,0.0,9.0
+Jingo,pl,0,0,9,0,0.0,9.0
+rocket,pl,0,0,9,0,0.0,9.0
+juicy,pl,0,0,9,0,0.0,9.0
+TQL,queryLanguage,0,0,9,0,0.0,9.0
+nydp,pl,0,0,9,0,0.0,9.0
+leaf,pl,0,0,9,0,0.0,9.0
+Broccoli,pl,0,0,9,0,0.0,9.0
+Incipit,textMarkup,0,0,9,0,0.0,9.0
+nlpl,pl,0,0,8,0,0.0,8.0
+starpial,pl,0,0,8,0,0.0,8.0
+Eden,pl,0,8,0,0,0.0,8.0
+blue,pl,1,7,0,0,0.0,8.0
+Claro,pl,0,0,8,0,0.0,8.0
+RapidBatch,pl,0,0,8,0,0.0,8.0
+DOML,dataNotation,0,0,8,0,0.0,8.0
+Fuzuli,pl,0,0,8,0,0.0,8.0
+Jammy,pl,0,0,8,0,0.0,8.0
+newclay,pl,0,0,8,0,0.0,8.0
+hilvl,pl,0,0,7,0,0.0,7.0
+Hina,pl,0,0,7,0,0.0,7.0
+microl,pl,0,0,7,0,0.0,7.0
+Aardvark,pl,0,0,7,0,0.0,7.0
+lsd,textMarkup,0,0,7,0,0.0,7.0
+Fardlang,esolang,0,0,7,0,0.0,7.0
+Mewl,esolang,0,0,7,0,0.0,7.0
+Idio,pl,0,0,7,0,0.0,7.0
+PLAIN,pl,0,6,0,0,0.0,6.0
+codeflow,pl,0,0,6,0,0.0,6.0
+AspectC++,pl,0,5,1,0,0.0,6.0
+YESS,protocol,0,0,6,0,0.0,6.0
+jeebox,pl,0,0,6,0,0.0,6.0
+Tawa,pl,0,0,6,0,0.0,6.0
+AArch64,assembly,6,0,0,0,0.0,6.0
+rise,pl,0,6,0,0,0.0,6.0
+Dashrep,pl,0,0,6,0,0.0,6.0
+Fern,pl,0,0,6,0,0.0,6.0
+plantuml,textMarkup,0,0,1,0,5.0,6.0
+dreamlisp,pl,0,0,6,0,0.0,6.0
+empirical,pl,5,0,1,0,0.0,6.0
+MeanscriptCLI,pl,0,0,6,0,0.0,6.0
+links,pl,0,5,1,0,0.0,6.0
+stacklang,pl,0,0,6,0,0.0,6.0
+Pandora,pl,0,6,0,0,0.0,6.0
+exkited,template,0,0,6,0,0.0,6.0
+Newton,pl,5,0,0,0,0.0,5.0
+GAMS,pl,4,0,1,0,0.0,5.0
+Titanium,pl,0,5,0,0,0.0,5.0
+hilbert,pl,4,0,1,0,0.0,5.0
+Edison,pl,5,0,0,0,0.0,5.0
+mountain,pl,0,0,5,0,0.0,5.0
+Red,pl,4,1,0,0,0.0,5.0
+DAS,pl,0,5,0,0,0.0,5.0
+V,pl,4,1,0,0,0.0,5.0
+psyche,pl,0,0,5,0,0.0,5.0
+PSI,pl,5,0,0,0,0.0,5.0
+Calc4,pl,0,0,5,0,0.0,5.0
+cosh,pl,0,0,5,0,0.0,5.0
+WATFOR,pl,5,0,0,0,0.0,5.0
+U,pl,0,0,5,0,0.0,5.0
+Violent ES,pl,0,0,5,0,0.0,5.0
+CSL,pl,5,0,0,0,0.0,5.0
+Storymatic,pl,0,0,5,0,0.0,5.0
+kerf,pl,0,0,5,0,0.0,5.0
+JLang,pl,0,0,5,0,0.0,5.0
+CP,pl,0,4,0,0,0.0,4.0
+Blox,pl,0,0,4,0,0.0,4.0
+SCAN,pl,0,4,0,0,0.0,4.0
+Acme,pl,0,3,1,0,0.0,4.0
+Electre,pl,0,4,0,0,0.0,4.0
+Horse64,pl,0,0,4,0,0.0,4.0
+KAML,dataNotation,0,0,4,0,0.0,4.0
+Astatine,pl,0,0,4,0,0.0,4.0
+jasper,pl,0,0,4,0,0.0,4.0
+EQS,pl,4,0,0,0,0.0,4.0
+arrow,pl,0,4,0,0,0.0,4.0
+slim,pl,1,2,1,0,0.0,4.0
+CLASS,pl,0,4,0,0,0.0,4.0
+Ripple,pl,0,0,4,0,0.0,4.0
+rockstar-rkt,pl,0,0,4,0,0.0,4.0
+ABEL,pl,4,0,0,0,0.0,4.0
+passambler,pl,0,0,4,0,0.0,4.0
+Esoteric Reaction,esolang,0,0,4,0,0.0,4.0
+lila-lang,pl,0,0,4,0,0.0,4.0
+XE,pl,4,0,0,0,0.0,4.0
+PAISley,pl,0,3,0,0,0.0,3.0
+DLP,pl,3,0,0,0,0.0,3.0
+Chimera,pl,3,0,0,0,0.0,3.0
+Descartes,pl,0,3,0,0,0.0,3.0
+School,pl,3,0,0,0,0.0,3.0
+calc,plzoo,2,0,1,0,0.0,3.0
+Omega,pl,0,2,1,0,0.0,3.0
+EZ,pl,3,0,0,0,0.0,3.0
+Alma,pl,0,3,0,0,0.0,3.0
+Céu,pl,0,0,3,0,0.0,3.0
+chirp,visual,0,2,1,0,0.0,3.0
+Zot,pl,0,0,3,0,0.0,3.0
+AmbientTalk,pl,0,2,1,0,0.0,3.0
+AlpHard,pl,0,3,0,0,0.0,3.0
+Workfl,textMarkup,0,0,3,0,0.0,3.0
+eskew,pl,0,0,3,0,0.0,3.0
+Kami,textMarkup,0,0,3,0,0.0,3.0
+Herbrand,pl,0,3,0,0,0.0,3.0
+omega,pl,0,2,1,0,0.0,3.0
+flagship,pl,0,2,1,0,0.0,3.0
+Link,pl,0,0,3,0,0.0,3.0
+Mentat,pl,0,3,0,0,0.0,3.0
+SQHTML,pl,0,0,3,0,0.0,3.0
+mimix-stream-language,pl,0,0,3,0,0.0,3.0
+Sugi,pl,0,0,3,0,0.0,3.0
+lambcalc,pl,0,0,3,0,0.0,3.0
+Cali-Lang,pl,0,0,3,0,0.0,3.0
+Markus,queryLanguage,0,0,3,0,0.0,3.0
+OASIS,pl,2,0,0,0,0.0,2.0
+Broccoli,pl,0,0,2,0,0.0,2.0
+elegance,pl,0,0,2,0,0.0,2.0
+PROSPER,pl,0,2,0,0,0.0,2.0
+HUGO,pl,0,0,2,0,0.0,2.0
+GamerLanguage,pl,0,0,2,0,0.0,2.0
+topaz,pl,0,2,0,0,0.0,2.0
+Macchiato,pl,0,0,2,0,0.0,2.0
+emoticon,esolang,0,2,0,0,0.0,2.0
+Fibonacci,pl,2,0,0,0,0.0,2.0
+rlox,pl,0,0,2,0,0.0,2.0
+Spill,pl,1,1,0,0,0.0,2.0
+dlvm,ir,0,0,2,0,0.0,2.0
+clox,pl,0,0,2,0,0.0,2.0
+Fable,pl,0,1,1,0,0.0,2.0
+Sheep,pl,1,0,1,0,0.0,2.0
+Breccia,textMarkup,0,0,2,0,0.0,2.0
+habit,pl,0,1,1,0,0.0,2.0
+foundry,pl,0,1,1,0,0.0,2.0
+Broccoli,esolang,0,0,2,0,0.0,2.0
+mai,pl,0,0,2,0,0.0,2.0
+SPADE,pl,0,2,0,0,0.0,2.0
+maraca-lang,pl,0,0,2,0,0.0,2.0
+Spice,pl,1,0,1,0,0.0,2.0
+Serious,pl,0,0,2,0,0.0,2.0
+draconian,pl,0,0,2,0,0.0,2.0
+PLEASE,pl,1,1,0,0,0.0,2.0
+Topaz,pl,0,0,2,0,0.0,2.0
+TAO,pl,2,0,0,0,0.0,2.0
+DINO,pl,0,2,0,0,0.0,2.0
+SBA,pl,2,0,0,0,0.0,2.0
+MDL,pl,2,0,0,0,0.0,2.0
+qbe,pl,0,0,1,0,0.0,1.0
+NU-Prolog,pl,0,0,1,0,0.0,1.0
+PacmanConf,configFormat,0,0,1,0,0.0,1.0
+np,pl,0,0,1,0,0.0,1.0
+panther-lang,pl,0,0,1,0,0.0,1.0
+nectar,pl,0,0,1,0,0.0,1.0
+Radish,pl,0,0,1,0,0.0,1.0
+paxScript,pl,0,0,1,0,0.0,1.0
+readable-lisp,pl,0,0,1,0,0.0,1.0
+darklang,pl,0,0,1,0,0.0,1.0
+redpanda-app,application,0,0,1,0,0.0,1.0
+morfa,pl,0,0,1,0,0.0,1.0
+pliant,pl,0,0,1,0,0.0,1.0
+rhoscript,pl,0,0,1,0,0.0,1.0
+plink-map-format,textDataFormat,0,0,1,0,0.0,1.0
+shakti,pl,0,0,1,0,0.0,1.0
+skew,pl,0,0,1,0,0.0,1.0
+T3X,pl,0,0,1,0,0.0,1.0
+C∀,pl,0,0,1,0,0.0,1.0
+bag-format,binaryDataFormat,0,0,1,0,0.0,1.0
+urn,pl,0,0,1,0,0.0,1.0
+tiddler,pl,0,0,1,0,0.0,1.0
+Typst,textMarkup,0,0,1,0,0.0,1.0
+Tea,library,0,0,1,0,0.0,1.0
+PkgConfig,configFormat,0,0,1,0,0.0,1.0
+chartio-app,application,0,0,1,0,0.0,1.0
+objective-modula-2,pl,0,0,1,0,0.0,1.0
+miso-framework,framework,0,0,1,0,0.0,1.0
+gemini-protocol,protocol,0,0,1,0,0.0,1.0
+Dimensional Script,notation,0,0,1,0,0.0,1.0
+dec64,numeralSystem,0,0,1,0,0.0,1.0
+ctalk,pl,0,0,1,0,0.0,1.0
+google-data-studio-app,application,0,0,1,0,0.0,1.0
+Cheri,isa,0,0,1,0,0.0,1.0
+bx,pl,0,0,1,0,0.0,1.0
+General purpose,pl,0,0,1,0,0.0,1.0
+helium,pl,0,0,1,0,0.0,1.0
+holonforth,pl,0,0,1,0,0.0,1.0
+JuliaHub Packages,packageManager,0,0,1,0,0.0,1.0
+MathWorks File Exchange,packageManager,0,0,1,0,0.0,1.0
+Fawlty,pl,0,0,1,0,0.0,1.0
+Gnome Basic,pl,0,0,1,0,0.0,1.0
+ctr,pl,0,0,1,0,0.0,1.0
+goby,pl,0,0,1,0,0.0,1.0
+Hex,packageManager,0,0,1,0,0.0,1.0
+juttle,pl,0,0,1,0,0.0,1.0
+kayia,pl,0,0,1,0,0.0,1.0
+ki,pl,0,0,1,0,0.0,1.0
+Clausal Language,pl,0,0,1,0,0.0,1.0
+libsvm-format,textDataFormat,0,0,1,0,0.0,1.0
+luarocks-pm,packageManager,0,0,1,0,0.0,1.0
+chocolatey-pm,packageManager,0,0,1,0,0.0,1.0
+mathematica-packagedata-pm,packageManager,0,0,1,0,0.0,1.0
+merd,pl,0,0,1,0,0.0,1.0
+emu,pl,0,0,1,0,0.0,1.0
+Dribble,pl,0,1,0,0,0.0,1.0
+COPE,pl,0,1,0,0,0.0,1.0
+cixl,pl,0,0,1,0,0.0,1.0
+Vortex,pl,0,0,1,0,0.0,1.0
+aubit-4gl,pl,0,0,1,0,0.0,1.0
+AUR,packageManager,0,0,1,0,0.0,1.0
+bscript-interpreter,interpreter,0,0,1,0,0.0,1.0
+SHEEP,pl,1,0,0,0,0.0,1.0
+BScript,pl,0,0,1,0,0.0,1.0
+chicken-lang,esolang,0,0,1,0,0.0,1.0
+clickpath,queryLanguage,0,0,1,0,0.0,1.0
+tetruss-app,application,0,0,1,0,0.0,1.0
+Coral,pl,0,0,1,0,0.0,1.0
+domino,pl,0,0,1,0,0.0,1.0
+frtime,pl,0,0,1,0,0.0,1.0
+hac,pl,0,0,1,0,0.0,1.0
+hsaml-format,xmlFormat,0,0,1,0,0.0,1.0
+Imandra Protocol Language,pl,0,0,1,0,0.0,1.0
+klisp,pl,0,0,1,0,0.0,1.0
+unicon-adl,pl,0,0,1,0,0.0,1.0
+stx,pl,0,0,1,0,0.0,1.0
+Lanai,isa,0,0,1,0,0.0,1.0
+lunar,pl,0,0,1,0,0.0,1.0
+BIPLAN,pl,0,0,1,0,0.0,1.0
+bytecode-modeling-language,bytecode,0,0,1,0,0.0,1.0
+D4,queryLanguage,0,1,0,0,0.0,1.0
+coi-protocol,protocol,0,0,1,0,0.0,1.0
+Datalisp,pl,0,0,1,0,0.0,1.0
+iqr,barCodeFormat,0,0,1,0,0.0,1.0
+jedit-editor,editor,0,0,1,0,0.0,1.0
+Statemate,pl,0,1,0,0,0.0,1.0
+solaris-pm,packageManager,0,0,1,0,0.0,1.0
+marten,visual,0,0,1,0,0.0,1.0
+Nova,editor,0,0,1,0,0.0,1.0
+PhpStorm,editor,0,0,1,0,0.0,1.0
+Plush,pl,0,0,1,0,0.0,1.0
+resharper-editor,editor,0,0,1,0,0.0,1.0
+rider-editor,editor,0,0,1,0,0.0,1.0
+scopes,pl,0,0,1,0,0.0,1.0
+kvsapi,standard,0,0,1,0,0.0,1.0
+lazarus-editor,editor,0,0,1,0,0.0,1.0
+cT,pl,1,0,0,0,0.0,1.0
+statebox,visual,0,0,1,0,0.0,1.0
+Visual Studio Marketplace,packageManager,0,0,1,0,0.0,1.0
+yinyang,pl,0,0,1,0,0.0,1.0
+Arturo,pl,0,0,1,0,0.0,1.0
+BRL,pl,0,0,1,0,0.0,1.0
+business-rule-language,pl,0,0,1,0,0.0,1.0
+GLOSS,pl,0,1,0,0,0.0,1.0
+Fable,pl,0,1,0,0,0.0,1.0
+DEMETER,pl,0,1,0,0,0.0,1.0
+underlay,protocol,0,0,1,0,0.0,1.0
+Argos,pl,0,1,0,0,0.0,1.0
+ACCENT,pl,1,0,0,0,0.0,1.0
+SIMAN,pl,0,1,0,0,0.0,1.0
+UnQL,queryLanguage,0,1,0,0,0.0,1.0
+PO,pl,1,0,0,0,0.0,1.0
+O++,pl,0,1,0,0,0.0,1.0
+EDUCE,pl,0,1,0,0,0.0,1.0
+Vim Scripts,packageManager,0,0,1,0,0.0,1.0
+teal,pl,0,0,1,0,0.0,1.0
+listdown,textMarkup,0,0,1,0,0.0,1.0
+rlmeta,grammarLanguage,0,0,1,0,0.0,1.0
+Mascara,pl,0,0,1,0,0.0,1.0
+SHADOW,pl,1,0,0,0,0.0,1.0
+Multihash,hashFunction,0,0,1,0,0.0,1.0
+paperalgo,notation,0,0,1,0,0.0,1.0
+powerloom-knowledgeBase,knowledgeBase,0,0,1,0,0.0,1.0
+RLISP,pl,0,1,0,0,0.0,1.0
+quicksight-app,application,0,0,1,0,0.0,1.0
+sepi,pl,0,0,1,0,0.0,1.0
+tarot,compiler,0,0,1,0,0.0,1.0
+PLAN2D,pl,0,1,0,0,0.0,1.0
+LESK,pl,0,1,0,0,0.0,1.0
+shade,pl,0,0,1,0,0.0,1.0
+shml,textMarkup,0,0,1,0,0.0,1.0
+SmartGameFormat,pl,0,0,1,0,0.0,1.0
+SNBT,pl,0,0,1,0,0.0,1.0
+tab,pl,0,0,1,0,0.0,1.0
+syndicate,pl,0,0,1,0,0.0,1.0
+none,pl,0,0,1,0,0.0,1.0
+sdf-format,xmlFormat,0,0,1,0,0.0,1.0
+socialite,pl,0,0,1,0,0.0,1.0
+tern,pl,0,0,1,0,0.0,1.0
+sub,plzoo,0,0,1,0,0.0,1.0
+squiggle,pl,0,0,1,0,0.0,1.0
+soul,queryLanguage,0,0,1,0,0.0,1.0
+souffle,pl,0,0,1,0,0.0,1.0
+SOQL,queryLanguage,0,0,1,0,0.0,1.0
+tengo,pl,0,0,1,0,0.0,1.0
+Smithy,pl,0,0,1,0,0.0,1.0
+tetra,pl,0,0,1,0,0.0,1.0
+skookumscript,pl,0,0,1,0,0.0,1.0
+singular,pl,0,0,1,0,0.0,1.0
+simit,pl,0,0,1,0,0.0,1.0
+seph,pl,0,0,1,0,0.0,1.0
+sentient,pl,0,0,1,0,0.0,1.0
+rsharp,pl,0,0,1,0,0.0,1.0
+retroforth,pl,0,0,1,0,0.0,1.0
+terse,assembly,0,0,1,0,0.0,1.0
+texpr,pl,0,0,1,0,0.0,1.0
+raco-pm,packageManager,0,0,1,0,0.0,1.0
+slim-pl,pl,0,0,1,0,0.0,1.0
+crack,pl,0,0,1,0,0.0,1.0
+CorelScript,pl,0,0,1,0,0.0,1.0
+comm,plzoo,0,0,1,0,0.0,1.0
+cloe,pl,0,0,1,0,0.0,1.0
+ruby-mine-editor,editor,0,0,1,0,0.0,1.0
+sharpscript,pl,0,0,1,0,0.0,1.0
+sierra,pl,0,0,1,0,0.0,1.0
+smalltalkhub-pm,packageManager,0,0,1,0,0.0,1.0
+thorn,pl,0,0,1,0,0.0,1.0
+Boston College Statistical Software Components,packageManager,0,0,1,0,0.0,1.0
+BUSH,pl,0,0,1,0,0.0,1.0
+AIR,ir,0,0,1,0,0.0,1.0
+REC Studio,decompiler,0,0,1,0,0.0,1.0
+Zoem,pl,0,0,1,0,0.0,1.0
+typedefs,grammarLanguage,0,0,1,0,0.0,1.0
+tilton,pl,0,0,1,0,0.0,1.0
+redscript,pl,0,0,1,0,0.0,1.0
+ra,pl,0,0,1,0,0.0,1.0
+Descript,pl,0,0,1,0,0.0,1.0
+dss,pl,0,0,1,0,0.0,1.0
+dfns,pl,0,0,1,0,0.0,1.0
+mlite,pl,0,0,1,0,0.0,1.0
+mir,ir,0,0,1,0,0.0,1.0
+miniprolog,plzoo,0,0,1,0,0.0,1.0
+minihaskell,plzoo,0,0,1,0,0.0,1.0
+Maven Central Repository,packageManager,0,0,1,0,0.0,1.0
+lllpg,library,0,0,1,0,0.0,1.0
+Elm Packages,packageManager,0,0,1,0,0.0,1.0
+Conan Center,packageManager,0,0,1,0,0.0,1.0
+koi,pl,0,0,1,0,0.0,1.0
+kogut,pl,0,0,1,0,0.0,1.0
+klong,pl,0,0,1,0,0.0,1.0
+Kefir,compiler,0,0,1,0,0.0,1.0
+High-Level Virtual Machine,vm,0,0,1,0,0.0,1.0
+GNU Linear Programming Kit,library,0,0,1,0,0.0,1.0
+Genshi Text,pl,0,0,1,0,0.0,1.0
+dart-pm,packageManager,0,0,1,0,0.0,1.0
+coffeepp,pl,0,0,1,0,0.0,1.0
+Python Format Specification,template,0,0,1,0,0.0,1.0
+atomo,pl,0,0,1,0,0.0,1.0
+tinygo-compiler,compiler,0,0,1,0,0.0,1.0
+Lambda Diagrams,notation,0,0,1,0,0.0,1.0
+uml2-sp,pl,0,0,1,0,0.0,1.0
+pyke,knowledgeBase,0,0,1,0,0.0,1.0
+Pursuit PureScript Package Repository,packageManager,0,0,1,0,0.0,1.0
+piccola,pl,0,0,1,0,0.0,1.0
+Wolfram Data Framework,dataNotation,0,0,1,0,0.0,1.0
+Optimized Row Columnar,binaryDataFormat,0,0,1,0,0.0,1.0
+Cobol.NET,pl,0,0,1,0,0.0,1.0
+B3 IR,ir,0,0,1,0,0.0,1.0
+blank,esolang,0,0,1,0,0.0,1.0
+Blueprints,visual,0,0,1,0,0.0,1.0
+C^3,pl,0,0,1,0,0.0,1.0
+c-smile,pl,0,0,1,0,0.0,1.0
+calc_var,plzoo,0,0,1,0,0.0,1.0
+chaos-lang,pl,0,0,1,0,0.0,1.0
+cran-pm,packageManager,0,0,1,0,0.0,1.0
+D++,pl,0,0,1,0,0.0,1.0
+The Synthetic Biology Open Language,xmlFormat,0,0,1,0,0.0,1.0
+edgeql,queryLanguage,0,0,1,0,0.0,1.0
+Header Dictionary Triples,binaryDataFormat,0,0,1,0,0.0,1.0
+GNS,protocol,0,0,1,0,0.0,1.0
+glitch-editor,editor,0,0,1,0,0.0,1.0
+Ghidra,decompiler,0,0,1,0,0.0,1.0
+ForgeBox,packageManager,0,0,1,0,0.0,1.0
+eno,pl,0,0,1,0,0.0,1.0
+Elpi,pl,0,0,1,0,0.0,1.0
+cx,pl,0,0,1,0,0.0,1.0
+hello,pl,0,0,1,0,0.0,1.0
+cleanlang,pl,0,0,1,0,0.0,1.0
+circa,pl,0,0,1,0,0.0,1.0
+charly,pl,0,0,1,0,0.0,1.0
+bjou,pl,0,0,1,0,0.0,1.0
+Binary Ninja,decompiler,0,0,1,0,0.0,1.0
+Apache Arrow,binaryDataFormat,0,0,1,0,0.0,1.0
+arend,pl,0,0,1,0,0.0,1.0
+helena,pl,0,0,1,0,0.0,1.0
+Hilltop,pl,0,0,1,0,0.0,1.0
+angr,decompiler,0,0,1,0,0.0,1.0
+OpenSpice,pl,0,0,1,0,0.0,1.0
+Sather-K,pl,0,0,1,0,0.0,1.0
+prodel,pl,0,0,1,0,0.0,1.0
+potential,pl,0,0,1,0,0.0,1.0
+plink-fam-format,textDataFormat,0,0,1,0,0.0,1.0
+plink-bim-format,textDataFormat,0,0,1,0,0.0,1.0
+pisc,pl,0,0,1,0,0.0,1.0
+par,pl,0,0,1,0,0.0,1.0
+onex,application,0,0,1,0,0.0,1.0
+joker,pl,0,0,1,0,0.0,1.0
+fmj,pl,0,0,1,0,0.0,1.0
+neralie-format,timeFormat,0,0,1,0,0.0,1.0
+neovim-editor,editor,0,0,1,0,0.0,1.0
+min,pl,0,0,1,0,0.0,1.0
+l,pl,0,0,1,0,0.0,1.0
+kima,pl,0,0,1,0,0.0,1.0
+kate-editor,editor,0,0,1,0,0.0,1.0
+antha,pl,0,0,1,0,0.0,1.0
+Xoc,compiler,0,0,1,0,0.0,1.0
+DRAGOON,pl,0,0,1,0,0.0,1.0
+lambda,plzoo,0,0,1,0,0.0,1.0
+nimble-pm,packageManager,0,0,1,0,0.0,1.0
+New AWK,pl,0,0,1,0,0.0,1.0
+miniml,plzoo,0,0,1,0,0.0,1.0
+Mathpix Markdown,textMarkup,0,0,1,0,0.0,1.0
+Maplesoft Application Center,packageManager,0,0,1,0,0.0,1.0
+loglo,pl,0,0,1,0,0.0,1.0
+levy,plzoo,0,0,1,0,0.0,1.0
+JSGF,pl,0,0,1,0,0.0,1.0
+Ordered graph data language,textDataFormat,0,0,1,0,0.0,1.0
+Hex-Rays,decompiler,0,0,1,0,0.0,1.0
+GSQL,pl,0,0,1,0,0.0,1.0
+fox,pl,0,0,1,0,0.0,1.0
+forthnet-pm,packageManager,0,0,1,0,0.0,1.0
+flux-lang,pl,0,0,1,0,0.0,1.0
+envoy-app,application,0,0,1,0,0.0,1.0
+Emacs Lisp Package Archive,packageManager,0,0,1,0,0.0,1.0
+oforth,pl,0,0,1,0,0.0,1.0
+orca-lang,pl,0,0,1,0,0.0,1.0
+xmpp-protocol,protocol,0,0,1,0,0.0,1.0
+stringbean,pl,0,0,1,0,0.0,1.0
+woofjs,pl,0,0,1,0,0.0,1.0
+Visual Logic,visual,0,0,1,0,0.0,1.0
+ugnis,pl,0,0,1,0,0.0,1.0
+TWiki,wikiMarkup,0,0,1,0,0.0,1.0
+toadskin,esolang,0,0,1,0,0.0,1.0
+Table Query Language,queryLanguage,0,0,1,0,0.0,1.0
+subscript,pl,0,0,1,0,0.0,1.0
+spark-pm,packageManager,0,0,1,0,0.0,1.0
+polly,template,0,0,1,0,0.0,1.0
+SOSL,queryLanguage,0,0,1,0,0.0,1.0
+shill,pl,0,0,1,0,0.0,1.0
+Restricted Python,pl,0,0,1,0,0.0,1.0
+raptor,visual,0,0,1,0,0.0,1.0
+PyPI,packageManager,0,0,1,0,0.0,1.0
+popcorn-linux,os,0,0,1,0,0.0,1.0
+poly,plzoo,0,0,1,0,0.0,1.0
+thune,pl,0,0,1,0,0.0,1.0
+Sublime Syntax,grammarLanguage,0,0,1,0,0.0,1.0
+Floral,pl,0,0,1,0,0.0,1.0
+SARL,pl,0,0,1,0,0.0,1.0
+rosie,queryLanguage,0,0,1,0,0.0,1.0
+michelson,pl,0,0,1,0,0.0,1.0
+MathLingua,pl,0,0,1,0,0.0,1.0
+luau,pl,0,0,1,0,0.0,1.0
+lain,pl,0,0,1,0,0.0,1.0
+Copilot,pl,0,0,1,0,0.0,1.0
+beautiful-report-language,pl,0,0,1,0,0.0,1.0
+avro,idl,0,0,1,0,0.0,1.0
+alan,pl,0,0,1,0,0.0,1.0
+Guix Workflow Language,pl,0,0,1,0,0.0,1.0
+Em,textMarkup,0,0,1,0,0.0,1.0
+6gunz,pl,0,0,1,0,0.0,1.0
+Executable JSON,pl,0,0,1,0,0.0,1.0
+relax,grammarLanguage,0,0,1,0,0.0,1.0
+rason,pl,0,0,1,0,0.0,1.0
+BARE,idl,0,0,1,0,0.0,1.0
+mpl,pl,0,0,1,0,0.0,1.0
+Hare,pl,0,0,1,0,0.0,1.0
+Ligo,contractLanguage,0,0,1,0,0.0,1.0
+wescheme,pl,0,0,1,0,0.0,1.0
+USD,pl,0,0,1,0,0.0,1.0
+Trex,grammarLanguage,0,0,1,0,0.0,1.0
+quorum,pl,0,0,1,0,0.0,1.0
+PowerQuery M,queryLanguage,0,0,1,0,0.0,1.0
+Ren,dataNotation,0,0,1,0,0.0,1.0
+Timpani,textMarkup,0,0,1,0,0.0,1.0
+llhd,hardwareDescriptionLanguage,0,0,1,0,0.0,1.0
+chef,esolang,0,0,1,0,0.0,1.0
+Ion,idl,1,0,0,0,0.0,1.0
+Pickle,binaryDataFormat,0,0,1,0,0.0,1.0
+Lush,pl,0,0,1,0,0.0,1.0
+c-talk,pl,0,0,1,0,0.0,1.0
+runic,template,0,0,1,0,0.0,1.0
+qed-lang,pl,0,0,1,0,0.0,1.0
+PromQL,queryLanguage,0,0,1,0,0.0,1.0
+Indental,dataNotation,0,0,1,0,0.0,1.0
+hecl,pl,0,0,1,0,0.0,1.0
+GolfScript,esolang,0,0,1,0,0.0,1.0
+albatross,pl,0,0,1,0,0.0,1.0
+Speedie,pl,0,0,1,0,0.0,1.0
+SIL,ir,0,0,1,0,0.0,1.0
+Todotxt,dataNotation,0,0,1,0,0.0,1.0
+Rust MIR,ir,0,0,1,0,0.0,1.0
+Plain English,pl,0,0,1,0,0.0,1.0
+beads-lang,pl,0,0,1,0,0.0,1.0
+Bel,pl,0,0,1,0,0.0,1.0
+verve,pl,0,0,1,0,0.0,1.0
+Sweet Expressions,dataNotation,0,0,1,0,0.0,1.0
+srv,idl,0,0,1,0,0.0,1.0
+Patient-Oriented Prescription Programming Language,pl,0,0,1,0,0.0,1.0
+The New Hampshire X Format,textDataFormat,0,0,1,0,0.0,1.0
+LES,grammarLanguage,0,0,1,0,0.0,1.0
+Lisaac,pl,0,0,1,0,0.0,1.0
+txr,pl,0,0,1,0,0.0,1.0
+Boron,pl,0,0,1,0,0.0,1.0
+lav-format,textDataFormat,0,0,1,0,0.0,1.0
+Sitemap,xmlFormat,0,0,1,0,0.0,1.0
+Hspec,pl,0,0,1,0,0.0,1.0
+Markdeep,textMarkup,0,0,1,0,0.0,1.0
+xsharp,pl,0,0,1,0,0.0,1.0
+protium,pl,0,0,1,0,0.0,1.0
+Objective-S,pl,0,0,1,0,0.0,1.0
+nimrod,pl,0,0,1,0,0.0,1.0
+Devicetree,dataNotation,0,0,1,0,0.0,1.0
+D2,textMarkup,0,0,1,0,0.0,1.0
+dbml,textMarkup,0,0,1,0,0.0,1.0
+Low*,pl,0,0,1,0,0.0,1.0
+opengraph,xmlFormat,0,0,1,0,0.0,1.0
+Bla,pl,0,0,1,0,0.0,1.0
+rosette-lang,pl,0,0,1,0,0.0,1.0
+False,pl,0,0,1,0,0.0,1.0
+Lexon,contractLanguage,0,0,1,0,0.0,1.0
+Scrapscript,pl,0,0,1,0,0.0,1.0
+world,pl,0,0,1,0,0.0,1.0
+Worst,pl,0,0,1,0,0.0,1.0
+Plot,pl,0,0,1,0,0.0,1.0
+OMG IDL,idl,0,0,1,0,0.0,1.0
+myrddin,pl,0,0,1,0,0.0,1.0
+Binary Lambda Calculus,esolang,0,0,1,0,0.0,1.0
+The Dog Programming Language,pl,0,0,1,0,0.0,1.0
+z2,pl,0,0,1,0,0.0,1.0
+BrightScript,pl,0,0,1,0,0.0,1.0
+Ook,esolang,0,0,1,0,0.0,1.0
+epsilon,pl,0,0,1,0,0.0,1.0
+fizz,pl,0,0,1,0,0.0,1.0
+TextMate Language,grammarLanguage,0,0,1,0,0.0,1.0
+ArchieML,dataNotation,0,0,1,0,0.0,1.0
+Vely,pl,0,0,1,0,0.0,1.0
+Sublime Syntax Test Lang,grammarLanguage,0,0,1,0,0.0,1.0
+Myghty,pl,0,0,0,0,1.0,1.0
+s-lang,pl,0,0,1,0,0.0,1.0
+BML,xmlFormat,0,0,1,0,0.0,1.0
+verifpal,pl,0,0,1,0,0.0,1.0
+WebStorm,editor,0,0,1,0,0.0,1.0
+moinmoin,textMarkup,0,0,1,0,0.0,1.0
+Aime,pl,0,0,1,0,0.0,1.0
+Jevko,dataNotation,0,0,1,0,0.0,1.0
+concurnas,pl,0,0,1,0,0.0,1.0
+Mscgen,textMarkup,0,0,1,0,0.0,1.0
+Picat,pl,0,0,1,0,0.0,1.0
+Atomese,pl,0,0,1,0,0.0,1.0
+PML,textMarkup,0,0,1,0,0.0,1.0
+Slick,pl,0,0,1,0,0.0,1.0
+Liso,dataNotation,0,0,1,0,0.0,1.0
+Lazy K,esolang,0,0,1,0,0.0,1.0
+LARP,pl,0,0,1,0,0.0,1.0
+git-config,application,0,0,1,0,0.0,1.0
+G-Portugol,pl,0,0,1,0,0.0,1.0
+emfatic,pl,0,0,1,0,0.0,1.0
+pikachu,esolang,0,0,1,0,0.0,1.0
+stella,pl,0,0,1,0,0.0,1.0
+ttsneo,pl,0,0,1,0,0.0,1.0
+converge,pl,0,0,1,0,0.0,1.0
+BOLT,pl,0,1,0,0,0.0,1.0
+package-control-pm,packageManager,0,0,1,0,0.0,1.0
+NumPad,editor,0,0,1,0,0.0,1.0
+mypy,pl,0,0,1,0,0.0,1.0
+liquidity,pl,0,0,1,0,0.0,1.0
+grain,pl,0,0,1,0,0.0,1.0
+eta,pl,0,0,1,0,0.0,1.0
+dynamo-pm,packageManager,0,0,1,0,0.0,1.0
+datev,pl,0,0,1,0,0.0,1.0
+Lila,pl,0,1,0,0,0.0,1.0
+Biological Expression Language,textDataFormat,0,0,1,0,0.0,1.0
+DUEL,pl,0,1,0,0,0.0,1.0
+lasp,pl,0,0,1,0,0.0,1.0
+RQL,pl,0,0,1,0,0.0,1.0
+plasma,pl,0,0,1,0,0.0,1.0
+MINI OBJECT-ORIENTED LANGUAGE,pl,0,0,1,0,0.0,1.0
+Flare,pl,0,0,1,0,0.0,1.0
+arvelie-format,timeFormat,0,0,1,0,0.0,1.0
+8th,pl,0,0,1,0,0.0,1.0
+Sourcetree,application,0,0,1,0,0.0,1.0
+Soulver,editor,0,0,1,0,0.0,1.0
+kernel,pl,0,0,1,0,0.0,1.0
+tablatal,pl,0,0,1,0,0.0,1.0
+PAMELA,pl,0,1,0,0,0.0,1.0
+hackage-pm,packageManager,0,0,1,0,0.0,1.0
+ctan-pm,packageManager,0,0,1,0,0.0,1.0
+kilo-lisp,pl,0,0,1,0,0.0,1.0
+melpha-pm,packageManager,0,0,1,0,0.0,1.0
+pgql,pl,0,0,1,0,0.0,1.0
+JMESPath,pl,0,0,1,0,0.0,1.0
+imp-lang,pl,0,0,1,0,0.0,1.0
+grunt,library,0,0,1,0,0.0,1.0
+goose,pl,0,0,1,0,0.0,1.0
+Extempore,pl,0,0,1,0,0.0,1.0
+enso,pl,0,0,1,0,0.0,1.0
+dio,pl,0,0,1,0,0.0,1.0
+crates-pm,packageManager,0,0,1,0,0.0,1.0
+versioned-text-markup-language,textMarkup,0,0,1,0,0.0,1.0
+PickCode,visual,0,0,1,0,0.0,1.0
+plink-bed-format,binaryDataFormat,0,0,1,0,0.0,1.0
+cpan-pm,packageManager,0,0,1,0,0.0,1.0
+cocoapods-pm,packageManager,0,0,1,0,0.0,1.0
+plumb,pl,0,0,1,0,0.0,1.0
+clojars-pm,packageManager,0,0,1,0,0.0,1.0
+powershell-gallery-pm,packageManager,0,0,1,0,0.0,1.0
+PSeInt,pl,0,0,1,0,0.0,1.0
+robotc,pl,0,0,1,0,0.0,1.0
+ScriptEase,pl,0,0,1,0,0.0,1.0
+mockingbird-notation,notation,0,0,1,0,0.0,1.0
+Leazy,compiler,0,0,1,0,0.0,1.0
+whalecalf,grammarLanguage,0,0,1,0,0.0,1.0
+Planguage,dataNotation,0,0,1,0,0.0,1.0
+Jesth,dataNotation,0,0,1,0,0.0,1.0
+Freefem,pl,0,0,1,0,0.0,1.0
+Entropy,esolang,0,0,1,0,0.0,1.0
+boa,plzoo,0,0,1,0,0.0,1.0
+Suneido,pl,0,0,1,0,0.0,1.0
+Loom,knowledgeBase,0,0,1,0,0.0,1.0
+o42a,pl,0,0,1,0,0.0,1.0
+operon,queryLanguage,0,0,1,0,0.0,1.0
+MathJax,textMarkup,0,0,1,0,0.0,1.0
+Datomic,queryLanguage,0,0,1,0,0.0,1.0
+Linked Markdown,textMarkup,0,0,1,0,0.0,1.0
+Timeless Instruction Set (TL ISA),isa,1,0,0,0,0.0,1.0
+UnQL,queryLanguage,0,1,0,0,0.0,1.0
+unlws,notation,0,0,1,0,0.0,1.0
+Typoscript,dataNotation,0,0,1,0,0.0,1.0
+GraphQL+-,queryLanguage,0,0,1,0,0.0,1.0
+cado-systems-technical-information,pl,0,0,0,0,0.0,0.0
+CAGES,pl,0,0,0,0,0.0,0.0
+CAISYS,pl,0,0,0,0,0.0,0.0
+CAMAC,pl,0,0,0,0,0.0,0.0
+Cantor,pl,0,0,0,0,0.0,0.0
+Common Authentication Protocol Specification Language,pl,0,0,0,0,0.0,0.0
+CAMIL,pl,0,0,0,0,0.0,0.0
+Asspegique,pl,0,0,0,0,0.0,0.0
+CAYLEY,pl,0,0,0,0,0.0,0.0
+associons,pl,0,0,0,0,0.0,0.0
+Catalysis,pl,0,0,0,0,0.0,0.0
+CCEL,pl,0,0,0,0,0.0,0.0
+Capsule,pl,0,0,0,0,0.0,0.0
+CASSANDRE,pl,0,0,0,0,0.0,0.0
+BDL,pl,0,0,0,0,0.0,0.0
+ASPEN,pl,0,0,0,0,0.0,0.0
+CELLSIM,pl,0,0,0,0,0.0,0.0
+APOSTLE,pl,0,0,0,0,0.0,0.0
+APPL/A,pl,0,0,0,0,0.0,0.0
+APPLOG,pl,0,0,0,0,0.0,0.0
+APROL,pl,0,0,0,0,0.0,0.0
+CHARM++,pl,0,0,0,0,0.0,0.0
+CHAMP,pl,0,0,0,0,0.0,0.0
+Ceprol,pl,0,0,0,0,0.0,0.0
+AQL,pl,0,0,0,0,0.0,0.0
+Cedar Fortran,pl,0,0,0,0,0.0,0.0
+Aquarius Prolog,pl,0,0,0,0,0.0,0.0
+ARABLAN,pl,0,0,0,0,0.0,0.0
+ARCHI,pl,0,0,0,0,0.0,0.0
+Arjuna,pl,0,0,0,0,0.0,0.0
+ARK,pl,0,0,0,0,0.0,0.0
+Armani,pl,0,0,0,0,0.0,0.0
+CELIP,pl,0,0,0,0,0.0,0.0
+ASF+SDF,pl,0,0,0,0,0.0,0.0
+CABAL,pl,0,0,0,0,0.0,0.0
+ASTLOG,pl,0,0,0,0,0.0,0.0
+Cactus,pl,0,0,0,0,0.0,0.0
+Borneo,pl,0,0,0,0,0.0,0.0
+Booster,pl,0,0,0,0,0.0,0.0
+BOIL,pl,0,0,0,0,0.0,0.0
+Bob,pl,0,0,0,0,0.0,0.0
+BLOOMS,pl,0,0,0,0,0.0,0.0
+BLAZE,pl,0,0,0,0,0.0,0.0
+BIOSSIM,pl,0,0,0,0,0.0,0.0
+BIOMOD,pl,0,0,0,0,0.0,0.0
+Bigloo,pl,0,0,0,0,0.0,0.0
+BHSL,pl,0,0,0,0,0.0,0.0
+BGRAF2,pl,0,0,0,0,0.0,0.0
+Baltík,pl,0,0,0,0,0.0,0.0
+Beta-Prolog,pl,0,0,0,0,0.0,0.0
+BESYS,pl,0,0,0,0,0.0,0.0
+BEDSOCS,pl,0,0,0,0,0.0,0.0
+Bartok,pl,0,0,0,0,0.0,0.0
+Ada 95,pl,0,0,0,0,0.0,0.0
+Basic PDP-1 Lisp,pl,0,0,0,0,0.0,0.0
+BASIL,pl,0,0,0,0,0.0,0.0
+Bounce,pl,0,0,0,0,0.0,0.0
+Boxer,pl,0,0,0,0,0.0,0.0
+BPL,pl,0,0,0,0,0.0,0.0
+AUTOMAST,pl,0,0,0,0,0.0,0.0
+BC NELIAC,pl,0,0,0,0,0.0,0.0
+ATOL,pl,0,0,0,0,0.0,0.0
+AUTASIM,pl,0,0,0,0,0.0,0.0
+C Header Files,headerLang,0,0,0,0,0.0,0.0
+ByteLisp,pl,0,0,0,0,0.0,0.0
+AUTODRAFT,pl,0,0,0,0,0.0,0.0
+Butterfly Common LISP,pl,0,0,0,0,0.0,0.0
+AUTOGRP,pl,0,0,0,0,0.0,0.0
+Avalon/Common LISP,pl,0,0,0,0,0.0,0.0
+Basic Petri Net Programming Notation,pl,0,0,0,0,0.0,0.0
+B4Tran,pl,0,0,0,0,0.0,0.0
+BALG,pl,0,0,0,0,0.0,0.0
+BALM,pl,0,0,0,0,0.0,0.0
+BALSA,pl,0,0,0,0,0.0,0.0
+BUGSYS,pl,0,0,0,0,0.0,0.0
+BSP,pl,0,0,0,0,0.0,0.0
+BSML,pl,0,0,0,0,0.0,0.0
+Brisk,pl,0,0,0,0,0.0,0.0
+BMD,pl,0,0,0,0,0.0,0.0
+CLeogo,pl,0,0,0,0,0.0,0.0
+Charrette Ada,pl,0,0,0,0,0.0,0.0
+CypherText,pl,0,0,0,0,0.0,0.0
+DITROFF,pl,0,0,0,0,0.0,0.0
+DITROFF/FFORTID,pl,0,0,0,0,0.0,0.0
+DITRAN,pl,0,0,0,0,0.0,0.0
+Distributed Processes,pl,0,0,0,0,0.0,0.0
+Diplans,pl,0,0,0,0,0.0,0.0
+DIGRAF,pl,0,0,0,0,0.0,0.0
+DIAMAG,pl,0,0,0,0,0.0,0.0
+DFL,pl,0,0,0,0,0.0,0.0
+Deva,pl,0,0,0,0,0.0,0.0
+DETAP,pl,0,0,0,0,0.0,0.0
+DETAB-X,pl,0,0,0,0,0.0,0.0
+DETAB/65,pl,0,0,0,0,0.0,0.0
+DESCRIPTRAN,pl,0,0,0,0,0.0,0.0
+DEM,pl,0,0,0,0,0.0,0.0
+DeBuMa,pl,0,0,0,0,0.0,0.0
+DEACON,pl,0,0,0,0,0.0,0.0
+DATAN,pl,0,0,0,0,0.0,0.0
+DATA-TEXT,pl,0,0,0,0,0.0,0.0
+DartCVL,pl,0,0,0,0,0.0,0.0
+DAP-Algol,pl,0,0,0,0,0.0,0.0
+DAG,pl,0,0,0,0,0.0,0.0
+DMAP,pl,0,0,0,0,0.0,0.0
+DOE Macsyma,pl,0,0,0,0,0.0,0.0
+DOLPHIN,pl,0,0,0,0,0.0,0.0
+Edinburgh LCF,pl,0,0,0,0,0.0,0.0
+EPILOG,pl,0,0,0,0,0.0,0.0
+Emily,os,0,0,0,0,0.0,0.0
+ELMOL,pl,0,0,0,0,0.0,0.0
+Ellie,pl,0,0,0,0,0.0,0.0
+EL1,pl,0,0,0,0,0.0,0.0
+EGS4,pl,0,0,0,0,0.0,0.0
+EDUCE*,pl,0,0,0,0,0.0,0.0
+EDSIM,pl,0,0,0,0,0.0,0.0
+EDSAC Initial Orders,assembly,0,0,0,0,0.0,0.0
+ECT,pl,0,0,0,0,0.0,0.0
+DOWL,pl,0,0,0,0,0.0,0.0
+Eclectic CSP,pl,0,0,0,0,0.0,0.0
+EASY ENGLISH,pl,0,0,0,0,0.0,0.0
+EASL,pl,0,0,0,0,0.0,0.0
+EAS-E,pl,0,0,0,0,0.0,0.0
+DYSTAL,pl,0,0,0,0,0.0,0.0
+DSL/90,pl,0,0,0,0,0.0,0.0
+DROL,pl,0,0,0,0,0.0,0.0
+DRL,pl,0,0,0,0,0.0,0.0
+DPRL,pl,0,0,0,0,0.0,0.0
+ctalk-lang,pl,0,0,0,0,0.0,0.0
+cuscus,pl,0,0,0,0,0.0,0.0
+CHARYBDIS,pl,0,0,0,0,0.0,0.0
+CuPit-2,pl,0,0,0,0,0.0,0.0
+Complex-Prolog,pl,0,0,0,0,0.0,0.0
+COLD-K,pl,0,0,0,0,0.0,0.0
+COLASL,pl,0,0,0,0,0.0,0.0
+CogMap,pl,0,0,0,0,0.0,0.0
+CODIL,pl,0,0,0,0,0.0,0.0
+COBLOC,pl,0,0,0,0,0.0,0.0
+CMN,pl,0,0,0,0,0.0,0.0
+CLP*,pl,0,0,0,0,0.0,0.0
+CLOVER,pl,0,0,0,0,0.0,0.0
+CLEOPATRA,pl,0,0,0,0,0.0,0.0
+APLGOL-2,pl,0,0,0,0,0.0,0.0
+Clear Language for Expressing Orders,pl,0,0,0,0,0.0,0.0
+Classic-Ada,pl,0,0,0,0,0.0,0.0
+Clascal,pl,0,0,0,0,0.0,0.0
+CL-I,pl,0,0,0,0,0.0,0.0
+CIMS PL/I,pl,0,0,0,0,0.0,0.0
+cimfast,pl,0,0,0,0,0.0,0.0
+ChronologZ,pl,0,0,0,0,0.0,0.0
+ChronologMC,pl,0,0,0,0,0.0,0.0
+Chronolog,pl,0,0,0,0,0.0,0.0
+ChemTrains,pl,0,0,0,0,0.0,0.0
+Computer Compiler,pl,0,0,0,0,0.0,0.0
+COMSL,pl,0,0,0,0,0.0,0.0
+ConC,pl,0,0,0,0,0.0,0.0
+CORC,pl,0,0,0,0,0.0,0.0
+Culler-Fried System,pl,0,0,0,0,0.0,0.0
+CSSA,pl,0,0,0,0,0.0,0.0
+CSP-OZ,pl,0,0,0,0,0.0,0.0
+CSP-OZ-DC,pl,0,0,0,0,0.0,0.0
+CSMP,pl,0,0,0,0,0.0,0.0
+CQL++,pl,0,0,0,0,0.0,0.0
+CQLF,pl,0,0,0,0,0.0,0.0
+COSMO,pl,0,0,0,0,0.0,0.0
+CosmicOS,pl,0,0,0,0,0.0,0.0
+Coral++,pl,0,0,0,0,0.0,0.0
+Concert/C,pl,0,0,0,0,0.0,0.0
+CORAL 64,pl,0,0,0,0,0.0,0.0
+COPAS,pl,0,0,0,0,0.0,0.0
+CONTRANS,pl,0,0,0,0,0.0,0.0
+ConstraintLisp,pl,0,0,0,0,0.0,0.0
+CONNIVER,pl,0,0,0,0,0.0,0.0
+ConMan,pl,0,0,0,0,0.0,0.0
+conGolog,pl,0,0,0,0,0.0,0.0
+Concurrent Pascal,pl,0,0,0,0,0.0,0.0
+CONCUR,pl,0,0,0,0,0.0,0.0
+APLGOL,pl,0,0,0,0,0.0,0.0
+UC,pl,0,0,0,0,0.0,0.0
+APL/Z80,pl,0,0,0,0,0.0,0.0
+modl,pl,0,0,0,0,0.0,0.0
+metalex,xmlFormat,0,0,0,0,0.0,0.0
+local,pl,0,0,0,0,0.0,0.0
+Low Level Lisp,pl,0,0,0,0,0.0,0.0
+LinkText,pl,0,0,0,0,0.0,0.0
+Alambik,pl,0,0,0,0,0.0,0.0
+ALBA,pl,0,0,0,0,0.0,0.0
+Aldat,pl,0,0,0,0,0.0,0.0
+Aldwych,pl,0,0,0,0,0.0,0.0
+lambda-obliv,pl,0,0,0,0,0.0,0.0
+Konna,pl,0,0,0,0,0.0,0.0
+ALEC,pl,0,0,0,0,0.0,0.0
+Algebraic Compiler,pl,0,0,0,0,0.0,0.0
+ALGEM,pl,0,0,0,0,0.0,0.0
+kaukatcr,pl,0,0,0,0,0.0,0.0
+ALGERNON,pl,0,0,0,0,0.0,0.0
+ALGOL-E,pl,0,0,0,0,0.0,0.0
+ALGY,pl,0,0,0,0,0.0,0.0
+Alma-O,pl,0,0,0,0,0.0,0.0
+Just,pl,0,0,0,0,0.0,0.0
+microPLANNER,pl,0,0,0,0,0.0,0.0
+N,pl,0,0,0,0,0.0,0.0
+Pygmalion,visual,0,0,0,0,0.0,0.0
+Noms GraphQL,queryLanguage,0,0,0,0,0.0,0.0
+Pλ⍵NK,pl,0,0,0,0,0.0,0.0
+PL-X,pl,0,0,0,0,0.0,0.0
+PL/S,pl,0,0,0,0,0.0,0.0
+AEPL,pl,0,0,0,0,0.0,0.0
+AESOP,pl,0,0,0,0,0.0,0.0
+PL/S-II,pl,0,0,0,0,0.0,0.0
+Peridot,pl,0,0,0,0,0.0,0.0
+Pegasus AUTOCODE,pl,0,0,0,0,0.0,0.0
+Agent-K,pl,0,0,0,0,0.0,0.0
+AGL,pl,0,0,0,0,0.0,0.0
+AIDA,pl,0,0,0,0,0.0,0.0
+Parse Tree Notation,grammarLanguage,0,0,0,0,0.0,0.0
+Oxide,pl,0,0,0,0,0.0,0.0
+OMNITAB,pl,0,0,0,0,0.0,0.0
+OMNITAB II,pl,0,0,0,0,0.0,0.0
+AKL,pl,0,0,0,0,0.0,0.0
+ALADIN,pl,0,0,0,0,0.0,0.0
+Navigational User's Language,pl,0,0,0,0,0.0,0.0
+NJCL,pl,0,0,0,0,0.0,0.0
+iota,pl,0,0,0,0,0.0,0.0
+ALMIR,pl,0,0,0,0,0.0,0.0
+ibm-system-38-language,pl,0,0,0,0,0.0,0.0
+Alonzo,pl,0,0,0,0,0.0,0.0
+Amanda,pl,0,0,0,0,0.0,0.0
+AMBIT/G,pl,0,0,0,0,0.0,0.0
+AMBIT/L,pl,0,0,0,0,0.0,0.0
+AMPPL-II,pl,0,0,0,0,0.0,0.0
+CVL,pl,0,0,0,0,0.0,0.0
+Cosmos,pl,0,0,0,0,0.0,0.0
+CONA,pl,0,0,0,0,0.0,0.0
+Andorra,pl,0,0,0,0,0.0,0.0
+arezzo-notation,musicalNotation,0,0,0,0,0.0,0.0
+AUTOCODER III,assembly,0,0,0,0,0.0,0.0
+axcess,pl,0,0,0,0,0.0,0.0
+Chicon,pl,0,0,0,0,0.0,0.0
+checkout,assembly,0,0,0,0,0.0,0.0
+Cedar,pl,0,0,0,0,0.0,0.0
+Candy Codes,barCodeFormat,0,0,0,0,0.0,0.0
+brooks-programming-language,pl,0,0,0,0,0.0,0.0
+Bison++,grammarLanguage,0,0,0,0,0.0,0.0
+Blade,pl,0,0,0,0,0.0,0.0
+Bolin,pl,0,0,0,0,0.0,0.0
+ALTAC,pl,0,0,0,0,0.0,0.0
+dalvik-bytecode,bytecode,0,0,0,0,0.0,0.0
+Data Package,jsonFormat,0,0,0,0,0.0,0.0
+floorplan,pl,0,0,0,0,0.0,0.0
+honu,pl,0,0,0,0,0.0,0.0
+HAYSTAQ,queryLanguage,0,0,0,0,0.0,0.0
+hackppl,pl,0,0,0,0,0.0,0.0
+Gaiman,pl,0,0,0,0,0.0,0.0
+GAEA,pl,0,0,0,0,0.0,0.0
+FORTRAN IV,pl,0,0,0,0,0.0,0.0
+FORTRAN III,pl,0,0,0,0,0.0,0.0
+forest-database,application,0,0,0,0,0.0,0.0
+filetab-d,pl,0,0,0,0,0.0,0.0
+AlphaPop,pl,0,0,0,0,0.0,0.0
+EXTRAN,pl,0,0,0,0,0.0,0.0
+ESP,pl,0,0,0,0,0.0,0.0
+english-programming-language,pl,0,0,0,0,0.0,0.0
+Elasticsearch Query DSL,queryLanguage,0,0,0,0,0.0,0.0
+ebg,pl,0,0,0,0,0.0,0.0
+dsym,binaryDataFormat,0,0,0,0,0.0,0.0
+DM-1,pl,0,0,0,0,0.0,0.0
+Distributed Smalltalk,pl,0,0,0,0,0.0,0.0
+Protosynthex,pl,0,0,0,0,0.0,0.0
+QUIKTRAN,pl,0,0,0,0,0.0,0.0
+APAREL,pl,0,0,0,0,0.0,0.0
+zish,dataNotation,0,0,0,0,0.0,0.0
+Zed,pl,0,0,0,0,0.0,0.0
+yoga,pl,0,0,0,0,0.0,0.0
+ycp,pl,0,0,0,0,0.0,0.0
+Xmind Format,xmlFormat,0,0,0,0,0.0,0.0
+WIZOR,pl,0,0,0,0,0.0,0.0
+Ada/TL,pl,0,0,0,0,0.0,0.0
+Visual,pl,0,0,0,0,0.0,0.0
+VEX,notation,0,0,0,0,0.0,0.0
+twoducks,esolang,0,0,0,0,0.0,0.0
+TWO-D,pl,0,0,0,0,0.0,0.0
+TS,pl,0,0,0,0,0.0,0.0
+TRIPLE,pl,0,0,0,0,0.0,0.0
+TRIO,pl,0,0,0,0,0.0,0.0
+TRANSLANG,pl,0,0,0,0,0.0,0.0
+TRANSCODE,pl,0,0,0,0,0.0,0.0
+TRACE,pl,0,0,0,0,0.0,0.0
+TOMAL,pl,0,0,0,0,0.0,0.0
+TEMPO,pl,0,0,0,0,0.0,0.0
+TeLa,pl,0,0,0,0,0.0,0.0
+Ada 9X,pl,0,0,0,0,0.0,0.0
+A51 Assembly,assembly,0,0,0,0,0.0,0.0
+RAND-ABEL,pl,0,0,0,0,0.0,0.0
+Aardappel,pl,0,0,0,0,0.0,0.0
+APAR,pl,0,0,0,0,0.0,0.0
+ANSI BASIC,pl,0,0,0,0,0.0,0.0
+ANS MUMPS,pl,0,0,0,0,0.0,0.0
+Andorra-I,pl,0,0,0,0,0.0,0.0
+Andante,pl,0,0,0,0,0.0,0.0
+And/Or,pl,0,0,0,0,0.0,0.0
+Amulet,pl,0,0,0,0,0.0,0.0
+AMPPL-I,pl,0,0,0,0,0.0,0.0
+AMBUSH,pl,0,0,0,0,0.0,0.0
+Amber,pl,0,0,0,0,0.0,0.0
+ALPS,pl,0,0,0,0,0.0,0.0
+ALLO,pl,0,0,0,0,0.0,0.0
+ALDES,pl,0,0,0,0,0.0,0.0
+AIDS,pl,0,0,0,0,0.0,0.0
+ADLIB,pl,0,0,0,0,0.0,0.0
+ADES,pl,0,0,0,0,0.0,0.0
+ADES II,pl,0,0,0,0,0.0,0.0
+Actors,pl,0,0,0,0,0.0,0.0
+ABC ALGOL,pl,0,0,0,0,0.0,0.0
+TALL,pl,0,0,0,0,0.0,0.0
+TALE,pl,0,0,0,0,0.0,0.0
+TACTICS,pl,0,0,0,0,0.0,0.0
+SYNTEX,pl,0,0,0,0,0.0,0.0
+SMOKE,pl,0,0,0,0,0.0,0.0
+SMDL,pl,0,0,0,0,0.0,0.0
+AED,pl,0,0,0,0,0.0,0.0
+SMART,pl,0,0,0,0,0.0,0.0
+Smalltalk/V,pl,0,0,0,0,0.0,0.0
+SLOG,pl,0,0,0,0,0.0,0.0
+SLIPS,pl,0,0,0,0,0.0,0.0
+SL,pl,0,0,0,0,0.0,0.0
+EQUATE,pl,0,0,0,0,0.0,0.0
+SKY,pl,0,0,0,0,0.0,0.0
+SKIL,pl,0,0,0,0,0.0,0.0
+Siprol,pl,0,0,0,0,0.0,0.0
+Sim++,pl,0,0,0,0,0.0,0.0
+SIMODULA,pl,0,0,0,0,0.0,0.0
+SEARCH,pl,0,0,0,0,0.0,0.0
+SCOOP,pl,0,0,0,0,0.0,0.0
+SAUSTALL,pl,0,0,0,0,0.0,0.0
+SALE,pl,0,0,0,0,0.0,0.0
+RAPIDWRITE,pl,0,0,0,0,0.0,0.0
+SMSL,pl,0,0,0,0,0.0,0.0
+Snostorm,pl,0,0,0,0,0.0,0.0
+Symbolic Optimal Assembly Program,assembly,0,0,0,0,0.0,0.0
+Sue,pl,0,0,0,0,0.0,0.0
+SymbMath,pl,0,0,0,0,0.0,0.0
+SYMBAL,pl,0,0,0,0,0.0,0.0
+SVL,pl,0,0,0,0,0.0,0.0
+SUPERMAC,pl,0,0,0,0,0.0,0.0
+SuperForth,pl,0,0,0,0,0.0,0.0
+SUMMER,pl,0,0,0,0,0.0,0.0
+ADABTPL,pl,0,0,0,0,0.0,0.0
+Adagio,pl,0,0,0,0,0.0,0.0
+StreamIt,pl,0,0,0,0,0.0,0.0
+SoQL,queryLanguage,0,0,0,0,0.0,0.0
+STOICAL,pl,0,0,0,0,0.0,0.0
+SR,pl,0,0,0,0,0.0,0.0
+SQUARE,pl,0,0,0,0,0.0,0.0
+SQLMP,pl,0,0,0,0,0.0,0.0
+SPRINT,pl,0,0,0,0,0.0,0.0
+Adaplex,pl,0,0,0,0,0.0,0.0
+Spec,pl,0,0,0,0,0.0,0.0
+Aditi,pl,0,0,0,0,0.0,0.0
+EQLog,pl,0,0,0,0,0.0,0.0
+ISIS,pl,0,0,0,0,0.0,0.0
+ERROL,pl,0,0,0,0,0.0,0.0
+P-Prolog,pl,0,0,0,0,0.0,0.0
+Otter,pl,0,0,0,0,0.0,0.0
+Ottawa Euclid,pl,0,0,0,0,0.0,0.0
+OSL/2,pl,0,0,0,0,0.0,0.0
+OSIRIS,pl,0,0,0,0,0.0,0.0
+Orlog,pl,0,0,0,0,0.0,0.0
+OREGANO,pl,0,0,0,0,0.0,0.0
+OPS,pl,0,0,0,0,0.0,0.0
+OPS-3,pl,0,0,0,0,0.0,0.0
+OpenMusic,pl,0,0,0,0,0.0,0.0
+OOPAL,pl,0,0,0,0,0.0,0.0
+OMNITAB 80,pl,0,0,0,0,0.0,0.0
+OMNIMARK,pl,0,0,0,0,0.0,0.0
+OLI,pl,0,0,0,0,0.0,0.0
+OLGA,pl,0,0,0,0,0.0,0.0
+O'Haskell,pl,0,0,0,0,0.0,0.0
+Octopus,pl,0,0,0,0,0.0,0.0
+Occam 2,pl,0,0,0,0,0.0,0.0
+OBSCURE,pl,0,0,0,0,0.0,0.0
+ObjVProlog,pl,0,0,0,0,0.0,0.0
+OWL DL,xmlFormat,0,0,0,0,0.0,0.0
+P-TAC,pl,0,0,0,0,0.0,0.0
+Mizar,pl,0,0,0,0,0.0,0.0
+P3L,pl,0,0,0,0,0.0,0.0
+pC++,pl,0,0,0,0,0.0,0.0
+PCOL,pl,0,0,0,0,0.0,0.0
+PCN,pl,0,0,0,0,0.0,0.0
+Path Pascal,pl,0,0,0,0,0.0,0.0
+PASRO,pl,0,0,0,0,0.0,0.0
+PASION,pl,0,0,0,0,0.0,0.0
+Pascal-SC,pl,0,0,0,0,0.0,0.0
+Pascal Plus,pl,0,0,0,0,0.0,0.0
+ParMod,pl,0,0,0,0,0.0,0.0
+ParaLog_e,pl,0,0,0,0,0.0,0.0
+Parallel Pascal,pl,0,0,0,0,0.0,0.0
+Parallel ELLPACK,pl,0,0,0,0,0.0,0.0
+PANON-1B,pl,0,0,0,0,0.0,0.0
+PANON-1,pl,0,0,0,0,0.0,0.0
+PANCODE,pl,0,0,0,0,0.0,0.0
+Palingol,pl,0,0,0,0,0.0,0.0
+PaiLisp,pl,0,0,0,0,0.0,0.0
+PADL-1,pl,0,0,0,0,0.0,0.0
+PACOL,pl,0,0,0,0,0.0,0.0
+ObjectWorld,pl,0,0,0,0,0.0,0.0
+Objectcharts,pl,0,0,0,0,0.0,0.0
+OBJ2,pl,0,0,0,0,0.0,0.0
+oasis-operating-system,os,0,0,0,0,0.0,0.0
+Multigame,pl,0,0,0,0,0.0,0.0
+Mul-T,pl,0,0,0,0,0.0,0.0
+muFP,pl,0,0,0,0,0.0,0.0
+MSG.84,pl,0,0,0,0,0.0,0.0
+MS2,pl,0,0,0,0,0.0,0.0
+MRDB,pl,0,0,0,0,0.0,0.0
+MPGS,pl,0,0,0,0,0.0,0.0
+Moxie,pl,0,0,0,0,0.0,0.0
+MOUSE4,pl,0,0,0,0,0.0,0.0
+MORPHISM,pl,0,0,0,0,0.0,0.0
+Molog,pl,0,0,0,0,0.0,0.0
+Modular Prolog,pl,0,0,0,0,0.0,0.0
+Modula/R,pl,0,0,0,0,0.0,0.0
+Modula-P,pl,0,0,0,0,0.0,0.0
+MODSIM III,pl,0,0,0,0,0.0,0.0
+MODLISP,pl,0,0,0,0,0.0,0.0
+MODCAP,pl,0,0,0,0,0.0,0.0
+MOBL,pl,0,0,0,0,0.0,0.0
+mmsearch,pl,0,0,0,0,0.0,0.0
+MUMS,pl,0,0,0,0,0.0,0.0
+MUNIN,pl,0,0,0,0,0.0,0.0
+MuSimp,pl,0,0,0,0,0.0,0.0
+NeuronC,pl,0,0,0,0,0.0,0.0
+Oaklisp,pl,0,0,0,0,0.0,0.0
+Numerica,pl,0,0,0,0,0.0,0.0
+NPL,pl,0,0,0,0,0.0,0.0
+NOP-2,pl,0,0,0,0,0.0,0.0
+Noodle,pl,0,0,0,0,0.0,0.0
+NOAH,pl,0,0,0,0,0.0,0.0
+NIKL,pl,0,0,0,0,0.0,0.0
+NFQL,pl,0,0,0,0,0.0,0.0
+Network Control Language,pl,0,0,0,0,0.0,0.0
+MVL,pl,0,0,0,0,0.0,0.0
+Netform,pl,0,0,0,0,0.0,0.0
+Ness,pl,0,0,0,0,0.0,0.0
+NEATER 2,linter,0,0,0,0,0.0,0.0
+NDL,pl,0,0,0,0,0.0,0.0
+NSS,binaryDataFormat,0,0,0,0,0.0,0.0
+Nassi-Shneiderman charts,pl,0,0,0,0,0.0,0.0
+NARPL,pl,0,0,0,0,0.0,0.0
+NAPSS,pl,0,0,0,0,0.0,0.0
+Partial Differential Equation Language,pl,0,0,0,0,0.0,0.0
+PDL/Ada,pl,0,0,0,0,0.0,0.0
+PDL,pl,0,0,0,0,0.0,0.0
+QA4,pl,0,0,0,0,0.0,0.0
+RT-Z,pl,0,0,0,0,0.0,0.0
+RT-CDL,pl,0,0,0,0,0.0,0.0
+RT-ASLAN,pl,0,0,0,0,0.0,0.0
+Rosette,pl,0,0,0,0,0.0,0.0
+ROL2,pl,0,0,0,0,0.0,0.0
+ROL,pl,0,0,0,0,0.0,0.0
+RIGAL,pl,0,0,0,0,0.0,0.0
+RHET,pl,0,0,0,0,0.0,0.0
+RF-Maple,pl,0,0,0,0,0.0,0.0
+RELFUN,pl,0,0,0,0,0.0,0.0
+Relationlog,pl,0,0,0,0,0.0,0.0
+REGENT,pl,0,0,0,0,0.0,0.0
+RefLisp,pl,0,0,0,0,0.0,0.0
+REF-ARF,pl,0,0,0,0,0.0,0.0
+RECOL,pl,0,0,0,0,0.0,0.0
+REC/SM,pl,0,0,0,0,0.0,0.0
+rbasic,pl,0,0,0,0,0.0,0.0
+Quty,pl,0,0,0,0,0.0,0.0
+Qunity,pl,0,0,0,0,0.0,0.0
+SAAL,assembly,0,0,0,0,0.0,0.0
+SAC-1,pl,0,0,0,0,0.0,0.0
+SAC-2,pl,0,0,0,0,0.0,0.0
+Static Typescript,pl,0,0,0,0,0.0,0.0
+xl,pl,0,0,0,0,0.0,0.0
+Wolontis-Bell Interpreter,pl,0,0,0,0,0.0,0.0
+wizml,pl,0,0,0,0,0.0,0.0
+Very Tiny Language,pl,0,0,0,0,0.0,0.0
+VoxML,pl,0,0,0,0,0.0,0.0
+taktentus,esolang,0,0,0,0,0.0,0.0
+SURGE,pl,0,0,0,0,0.0,0.0
+SubL,pl,0,0,0,0,0.0,0.0
+SSL,protocol,0,0,0,0,0.0,0.0
+SARTEX,pl,0,0,0,0,0.0,0.0
+sina,pl,0,0,0,0,0.0,0.0
+SIL,pl,0,0,0,0,0.0,0.0
+SHOE,pl,0,0,0,0,0.0,0.0
+SCIL-VP,pl,0,0,0,0,0.0,0.0
+SCHEMAL,pl,0,0,0,0,0.0,0.0
+SCALPEL,pl,0,0,0,0,0.0,0.0
+SB-ONE,pl,0,0,0,0,0.0,0.0
+Sassy,pl,0,0,0,0,0.0,0.0
+QLISP,pl,0,0,0,0,0.0,0.0
+Q-GERT,pl,0,0,0,0,0.0,0.0
+Pebble,pl,0,0,0,0,0.0,0.0
+PUMPKIN,pl,0,0,0,0,0.0,0.0
+PolyP,pl,0,0,0,0,0.0,0.0
+Polylith,pl,0,0,0,0,0.0,0.0
+POLAC,pl,0,0,0,0,0.0,0.0
+POGOL,pl,0,0,0,0,0.0,0.0
+Pocket Smalltalk,pl,0,0,0,0,0.0,0.0
+Playground,pl,0,0,0,0,0.0,0.0
+PLANNER-73,pl,0,0,0,0,0.0,0.0
+PLANIT,pl,0,0,0,0,0.0,0.0
+PL/EXUS,pl,0,0,0,0,0.0,0.0
+PiLib,pl,0,0,0,0,0.0,0.0
+PICTUREBALM,pl,0,0,0,0,0.0,0.0
+PICTOL,pl,0,0,0,0,0.0,0.0
+Pi Calculus,pl,0,0,0,0,0.0,0.0
+PHYSICTRAN,pl,0,0,0,0,0.0,0.0
+pGOLOG,pl,0,0,0,0,0.0,0.0
+Pfortran,pl,0,0,0,0,0.0,0.0
+PFORT,pl,0,0,0,0,0.0,0.0
+PEP,pl,0,0,0,0,0.0,0.0
+PEI,pl,0,0,0,0,0.0,0.0
+PolyTOIL,pl,0,0,0,0,0.0,0.0
+POPSY,pl,0,0,0,0,0.0,0.0
+PORT-ALG,pl,0,0,0,0,0.0,0.0
+Prolog/KR,pl,0,0,0,0,0.0,0.0
+PT,pl,0,0,0,0,0.0,0.0
+PSL,pl,0,0,0,0,0.0,0.0
+PSG,pl,0,0,0,0,0.0,0.0
+pSather,pl,0,0,0,0,0.0,0.0
+PROW,pl,0,0,0,0,0.0,0.0
+PROTOS-L,pl,0,0,0,0,0.0,0.0
+PROPLAN,pl,0,0,0,0,0.0,0.0
+Prolog-Linda,pl,0,0,0,0,0.0,0.0
+Prolog III,pl,0,0,0,0,0.0,0.0
+PRAXIS,pl,0,0,0,0,0.0,0.0
+Prolog-ELF,pl,0,0,0,0,0.0,0.0
+Prolog-D-Linda,pl,0,0,0,0,0.0,0.0
+PROGRES,pl,0,0,0,0,0.0,0.0
+PROCOL,pl,0,0,0,0,0.0,0.0
+Prisma Schema Language,idl,0,0,0,0,0.0,0.0
+PRISM,pl,0,0,0,0,0.0,0.0
+Principle of sufficient reason,pl,0,0,0,0,0.0,0.0
+PRESTO,pl,0,0,0,0,0.0,0.0
+MLISP2,pl,0,0,0,0,0.0,0.0
+MIRFAC,pl,0,0,0,0,0.0,0.0
+Ethereum Virtual Machine,vm,0,0,0,0,0.0,0.0
+HTEL,pl,0,0,0,0,0.0,0.0
+HSL,pl,0,0,0,0,0.0,0.0
+HPRL,pl,0,0,0,0,0.0,0.0
+HP-PASCAL,pl,0,0,0,0,0.0,0.0
+HOLCF,pl,0,0,0,0,0.0,0.0
+HOL,pl,0,0,0,0,0.0,0.0
+HMSL,pl,0,0,0,0,0.0,0.0
+HiQ,pl,0,0,0,0,0.0,0.0
+Hermes,pl,0,0,0,0,0.0,0.0
+HERAKLIT,pl,0,0,0,0,0.0,0.0
+HASL,pl,0,0,0,0,0.0,0.0
+Haskell#,pl,0,0,0,0,0.0,0.0
+Hank,pl,0,0,0,0,0.0,0.0
+Gypsy,pl,0,0,0,0,0.0,0.0
+GXL,pl,0,0,0,0,0.0,0.0
+GVL,pl,0,0,0,0,0.0,0.0
+GSBL,pl,0,0,0,0,0.0,0.0
+GROUPLOG,pl,0,0,0,0,0.0,0.0
+Graqula,pl,0,0,0,0,0.0,0.0
+GRAPHOS,pl,0,0,0,0,0.0,0.0
+HSML,pl,0,0,0,0,0.0,0.0
+HYPAC,pl,0,0,0,0,0.0,0.0
+Miranim,pl,0,0,0,0,0.0,0.0
+Hyperflow,pl,0,0,0,0,0.0,0.0
+Isabelle-91,pl,0,0,0,0,0.0,0.0
+IQF,pl,0,0,0,0,0.0,0.0
+IPL-V,pl,0,0,0,0,0.0,0.0
+Interlisp-VAX,pl,0,0,0,0,0.0,0.0
+InterCONS,pl,0,0,0,0,0.0,0.0
+INTERCELLAS,pl,0,0,0,0,0.0,0.0
+Inscan,pl,0,0,0,0,0.0,0.0
+INMAGIC,pl,0,0,0,0,0.0,0.0
+Industrial Modeling and Programming Language,pl,0,0,0,0,0.0,0.0
+IMP72,pl,0,0,0,0,0.0,0.0
+ICOT,pl,0,0,0,0,0.0,0.0
+ICETRAN,pl,0,0,0,0,0.0,0.0
+Integrated Civil Engineering System,standard,0,0,0,0,0.0,0.0
+IBM Logo,pl,0,0,0,0,0.0,0.0
+IB-Templog,pl,0,0,0,0,0.0,0.0
+IAM,pl,0,0,0,0,0.0,0.0
+HYTRAN,pl,0,0,0,0,0.0,0.0
+Hyperlog,pl,0,0,0,0,0.0,0.0
+Hyperlisp,pl,0,0,0,0,0.0,0.0
+GraphLog,pl,0,0,0,0,0.0,0.0
+GRAD Assistant,pl,0,0,0,0,0.0,0.0
+GQL,pl,0,0,0,0,0.0,0.0
+GPSS FORTRAN,pl,0,0,0,0,0.0,0.0
+Fortran M,pl,0,0,0,0,0.0,0.0
+FORTRAN II,pl,0,0,0,0,0.0,0.0
+Fortran D,pl,0,0,0,0,0.0,0.0
+FORTRAN CEP,pl,0,0,0,0,0.0,0.0
+Fortran 8x,pl,0,0,0,0,0.0,0.0
+FORMS/3,pl,0,0,0,0,0.0,0.0
+Fork95,pl,0,0,0,0,0.0,0.0
+FORALL,pl,0,0,0,0,0.0,0.0
+FORAL,pl,0,0,0,0,0.0,0.0
+FORAL LP,pl,0,0,0,0,0.0,0.0
+foogol,pl,0,0,0,0,0.0,0.0
+Flora,pl,0,0,0,0,0.0,0.0
+flexbuffers,idl,0,0,0,0,0.0,0.0
+FLENG++,pl,0,0,0,0,0.0,0.0
+Fickle,pl,0,0,0,0,0.0,0.0
+FCPU,pl,0,0,0,0,0.0,0.0
+FAD,pl,0,0,0,0,0.0,0.0
+FAC,pl,0,0,0,0,0.0,0.0
+Etude,pl,0,0,0,0,0.0,0.0
+FP2,pl,0,0,0,0,0.0,0.0
+FRAN,pl,0,0,0,0,0.0,0.0
+g-2,pl,0,0,0,0,0.0,0.0
+GCC GIMPLE,ir,0,0,0,0,0.0,0.0
+GPSS/360,pl,0,0,0,0,0.0,0.0
+GPGS,pl,0,0,0,0,0.0,0.0
+GPDS,pl,0,0,0,0,0.0,0.0
+Glue-Nail,pl,0,0,0,0,0.0,0.0
+GLU,pl,0,0,0,0,0.0,0.0
+GLIDE,pl,0,0,0,0,0.0,0.0
+GKS,pl,0,0,0,0,0.0,0.0
+gitignore,configFormat,0,0,0,0,0.0,0.0
+GENTRAN,pl,0,0,0,0,0.0,0.0
+Gargoyle,pl,0,0,0,0,0.0,0.0
+GENTRAN 90,pl,0,0,0,0,0.0,0.0
+Generic Haskell,pl,0,0,0,0,0.0,0.0
+Gedanken,pl,0,0,0,0,0.0,0.0
+GDPL,pl,0,0,0,0,0.0,0.0
+GCP,pl,0,0,0,0,0.0,0.0
+GaussFit,pl,0,0,0,0,0.0,0.0
+GAT,pl,0,0,0,0,0.0,0.0
+GASP II,pl,0,0,0,0,0.0,0.0
+Isabelle/HOL,pl,0,0,0,0,0.0,0.0
+Active-U-Datalog,pl,0,0,0,0,0.0,0.0
+ISPL,pl,0,0,0,0,0.0,0.0
+LogScheme,pl,0,0,0,0,0.0,0.0
+Mathsy,pl,0,0,0,0,0.0,0.0
+MASIM,pl,0,0,0,0,0.0,0.0
+Mary/2,pl,0,0,0,0,0.0,0.0
+Marlais,pl,0,0,0,0,0.0,0.0
+MAP,assembly,0,0,0,0,0.0,0.0
+ManuScript,pl,0,0,0,0,0.0,0.0
+MALUS,pl,0,0,0,0,0.0,0.0
+magritte,pl,0,0,0,0,0.0,0.0
+Magma2,pl,0,0,0,0,0.0,0.0
+Macro SPITBOL,pl,0,0,0,0,0.0,0.0
+Machiavelli,pl,0,0,0,0,0.0,0.0
+MACE,pl,0,0,0,0,0.0,0.0
+MacAims,pl,0,0,0,0,0.0,0.0
+M-LISP,pl,0,0,0,0,0.0,0.0
+Lucinda,pl,0,0,0,0,0.0,0.0
+LRLTRAN,pl,0,0,0,0,0.0,0.0
+LPL,pl,0,0,0,0,0.0,0.0
+LOTOS,pl,0,0,0,0,0.0,0.0
+LOTIS,pl,0,0,0,0,0.0,0.0
+MATRIX PASCAL,pl,0,0,0,0,0.0,0.0
+MCOBOL,pl,0,0,0,0,0.0,0.0
+MDBS-QRS,queryLanguage,0,0,0,0,0.0,0.0
+Micro-flowcharts,pl,0,0,0,0,0.0,0.0
+MIRAGER,pl,0,0,0,0,0.0,0.0
+MINOPT,pl,0,0,0,0,0.0,0.0
+MINIVITAL,pl,0,0,0,0,0.0,0.0
+MINION,pl,0,0,0,0,0.0,0.0
+Mini-ML,pl,0,0,0,0,0.0,0.0
+MiKe,pl,0,0,0,0,0.0,0.0
+microTAL,pl,0,0,0,0,0.0,0.0
+MICRODARE,pl,0,0,0,0,0.0,0.0
+METATEM,pl,0,0,0,0,0.0,0.0
+MEDIC,pl,0,0,0,0,0.0,0.0
+METASIM,pl,0,0,0,0,0.0,0.0
+METAPI,pl,0,0,0,0,0.0,0.0
+MetaML,pl,0,0,0,0,0.0,0.0
+META/LISP,pl,0,0,0,0,0.0,0.0
+Meta-Assembler,assembly,0,0,0,0,0.0,0.0
+Meroon,pl,0,0,0,0,0.0,0.0
+Mercury Programming System,pl,0,0,0,0,0.0,0.0
+Megalog,pl,0,0,0,0,0.0,0.0
+Lola-2,pl,0,0,0,0,0.0,0.0
+Logres,queryLanguage,0,0,0,0,0.0,0.0
+IVTRAN,pl,0,0,0,0,0.0,0.0
+LOGIST,pl,0,0,0,0,0.0,0.0
+KLIPA,pl,0,0,0,0,0.0,0.0
+KL-ONE,pl,0,0,0,0,0.0,0.0
+King Kong,pl,0,0,0,0,0.0,0.0
+Kiev,pl,0,0,0,0,0.0,0.0
+KeyKit,pl,0,0,0,0,0.0,0.0
+kew,pl,0,0,0,0,0.0,0.0
+KEK-NODAL,pl,0,0,0,0,0.0,0.0
+KEE,pl,0,0,0,0,0.0,0.0
+Kaleidoscope'91,pl,0,0,0,0,0.0,0.0
+Kaleidoscope'90,pl,0,0,0,0,0.0,0.0
+Kaleidoquery,pl,0,0,0,0,0.0,0.0
+KAIL,pl,0,0,0,0,0.0,0.0
+Juno,pl,0,0,0,0,0.0,0.0
+JSyn,pl,0,0,0,0,0.0,0.0
+JOSS II,pl,0,0,0,0,0.0,0.0
+JMSL,pl,0,0,0,0,0.0,0.0
+JFugue,pl,0,0,0,0,0.0,0.0
+jBC,pl,0,0,0,0,0.0,0.0
+JACAL,pl,0,0,0,0,0.0,0.0
+KRL-0,pl,0,0,0,0,0.0,0.0
+KRS,pl,0,0,0,0,0.0,0.0
+KRYPTON,pl,0,0,0,0,0.0,0.0
+Leopard,pl,0,0,0,0,0.0,0.0
+Logicon,pl,0,0,0,0,0.0,0.0
+LOCS,pl,0,0,0,0,0.0,0.0
+LISP A,pl,0,0,0,0,0.0,0.0
+LiSEB,pl,0,0,0,0,0.0,0.0
+Lingua Graphica,pl,0,0,0,0,0.0,0.0
+Lincoln Reckoner,pl,0,0,0,0,0.0,0.0
+Libra,pl,0,0,0,0,0.0,0.0
+LGDF,pl,0,0,0,0,0.0,0.0
+Leogo,pl,0,0,0,0,0.0,0.0
+Kvikkalkul,pl,0,0,0,0,0.0,0.0
+LEGOL,pl,0,0,0,0,0.0,0.0
+LDL1,pl,0,0,0,0,0.0,0.0
+LCL,pl,0,0,0,0,0.0,0.0
+LCF,pl,0,0,0,0,0.0,0.0
+LAURE,pl,0,0,0,0,0.0,0.0
+Larch,pl,0,0,0,0,0.0,0.0
+LABTRAN,pl,0,0,0,0,0.0,0.0
+Kylix,pl,0,0,0,0,0.0,0.0
+Actus,pl,0,0,0,0,0.0,0.0
+telefile-assembly,assembly,0,0,0,0,0.0,0.0
+Active Language I,pl,0,0,0,0,0.0,0.0
+BrouHaHa,pl,0,0,0,0,0.0,0.0
+Birkbeck Assembly,assembly,0,0,0,0,0.0,0.0
+BIGWIG,pl,0,0,0,0,0.0,0.0
+bigWig format,binaryDataFormat,0,0,0,0,0.0,0.0
+BIGMAC,pl,0,0,0,0,0.0,0.0
+Biferno,pl,0,0,0,0,0.0,0.0
+BETA Project,grammarLanguage,0,0,0,0,0.0,0.0
+Berkeley DB,library,0,0,0,0,0.0,0.0
+BEEF,pl,0,0,0,0,0.0,0.0
+BASEL,pl,0,0,0,0,0.0,0.0
+BASEBALL,pl,0,0,0,0,0.0,0.0
+Barrel,pl,0,0,0,0,0.0,0.0
+baltazar,pl,0,0,0,0,0.0,0.0
+BaLinda Lisp,pl,0,0,0,0,0.0,0.0
+BACK,pl,0,0,0,0,0.0,0.0
+B-LINE,pl,0,0,0,0,0.0,0.0
+AUTOmatic PROgramming of Machine Tools,pl,0,0,0,0,0.0,0.0
+Automator,pl,0,0,0,0,0.0,0.0
+AUTOLOFT,pl,0,0,0,0,0.0,0.0
+Aurora,pl,0,0,0,0,0.0,0.0
+BLAZE 2,pl,0,0,0,0,0.0,0.0
+C flat,pl,0,0,0,0,0.0,0.0
+Hadoop Distributed File System,filesystem,0,0,0,0,0.0,0.0
+CafeObj,pl,0,0,0,0,0.0,0.0
+CST,pl,0,0,0,0,0.0,0.0
+Consul,pl,0,0,0,0,0.0,0.0
+CONSTRAINTS,pl,0,0,0,0,0.0,0.0
+CONSIM,pl,0,0,0,0,0.0,0.0
+Connection Machine LISP,pl,0,0,0,0,0.0,0.0
+CONLAN,pl,0,0,0,0,0.0,0.0
+Concurrent Prolog,pl,0,0,0,0,0.0,0.0
+Concurrent C++,pl,0,0,0,0,0.0,0.0
+COMSKEE,pl,0,0,0,0,0.0,0.0
+COMPUTEST,pl,0,0,0,0,0.0,0.0
+COMFY,pl,0,0,0,0,0.0,0.0
+COL,pl,0,0,0,0,0.0,0.0
+Coherent Parallel C,pl,0,0,0,0,0.0,0.0
+CLEAR,pl,0,0,0,0,0.0,0.0
+ClassiC,pl,0,0,0,0,0.0,0.0
+CLANGER,pl,0,0,0,0,0.0,0.0
+CIRCAL,pl,0,0,0,0,0.0,0.0
+CCal,pl,0,0,0,0,0.0,0.0
+CAJOLE,pl,0,0,0,0,0.0,0.0
+Atomos,pl,0,0,0,0,0.0,0.0
+ASPOL,pl,0,0,0,0,0.0,0.0
+ASHMEDAI,pl,0,0,0,0,0.0,0.0
+ARTSPEAK,pl,0,0,0,0,0.0,0.0
+quexal,esolang,0,0,0,0,0.0,0.0
+PUFFT,pl,0,0,0,0,0.0,0.0
+PopAsm,pl,0,0,0,0,0.0,0.0
+Petr,pl,0,0,0,0,0.0,0.0
+Pascal-XSC,pl,0,0,0,0,0.0,0.0
+PACTOLUS,pl,0,0,0,0,0.0,0.0
+OOPS+,pl,0,0,0,0,0.0,0.0
+o2,pl,0,0,0,0,0.0,0.0
+NODAL,pl,0,0,0,0,0.0,0.0
+NAKL,pl,0,0,0,0,0.0,0.0
+MSL,pl,0,0,0,0,0.0,0.0
+MOOSE,pl,0,0,0,0,0.0,0.0
+MAPS,pl,0,0,0,0,0.0,0.0
+Lorel,pl,0,0,0,0,0.0,0.0
+LISP 1.5,pl,0,0,0,0,0.0,0.0
+L6,pl,0,0,0,0,0.0,0.0
+Knowledge Acquisition and Representation Language,pl,0,0,0,0,0.0,0.0
+IFO,pl,0,0,0,0,0.0,0.0
+IBEX,pl,0,0,0,0,0.0,0.0
+RATSNO,pl,0,0,0,0,0.0,0.0
+Rapid Development and Maintenance Language,pl,0,0,0,0,0.0,0.0
+rds-format,binaryDataFormat,0,0,0,0,0.0,0.0
+Water,template,0,0,0,0,0.0,0.0
+Arctic,pl,0,0,0,0,0.0,0.0
+APL/HP,pl,0,0,0,0,0.0,0.0
+APACHE,pl,0,0,0,0,0.0,0.0
+ALPAK,pl,0,0,0,0,0.0,0.0
+ADAM,pl,0,0,0,0,0.0,0.0
+ABLE,pl,0,0,0,0,0.0,0.0
+3D Logo,pl,0,0,0,0,0.0,0.0
+xs,pl,0,0,0,0,0.0,0.0
+Verse,pl,0,0,0,0,0.0,0.0
+Real-Time Concurrent C,pl,0,0,0,0,0.0,0.0
+SLANG,pl,0,0,0,0,0.0,0.0
+S-Snobol,pl,0,0,0,0,0.0,0.0
+Rosetta SMALLTALK,pl,0,0,0,0,0.0,0.0
+RPT,pl,0,0,0,0,0.0,0.0
+RPL,queryLanguage,0,0,0,0,0.0,0.0
+REGULUS,pl,0,0,0,0,0.0,0.0
+Regina,pl,0,0,0,0,0.0,0.0
+Real-Time Mentat,pl,0,0,0,0,0.0,0.0
+CUBE,pl,0,0,0,0,0.0,0.0
+CUPID,pl,0,0,0,0,0.0,0.0
+DAMN,pl,0,0,0,0,0.0,0.0
+Hancock,pl,0,0,0,0,0.0,0.0
+ISAC,pl,0,0,0,0,0.0,0.0
+INTERACTIVE,pl,0,0,0,0,0.0,0.0
+INSIGHT,pl,0,0,0,0,0.0,0.0
+INFOLOG,pl,0,0,0,0,0.0,0.0
+INC,pl,0,0,0,0,0.0,0.0
+Ina Jo,pl,0,0,0,0,0.0,0.0
+imf,textDataFormat,0,0,0,0,0.0,0.0
+IMAGE,pl,0,0,0,0,0.0,0.0
+ILX,pl,0,0,0,0,0.0,0.0
+ILU,pl,0,0,0,0,0.0,0.0
+ICML,xmlFormat,0,0,0,0,0.0,0.0
+Ibuki CL,pl,0,0,0,0,0.0,0.0
+HyCom,pl,0,0,0,0,0.0,0.0
+Hybrid,pl,0,0,0,0,0.0,0.0
+hoot-smalltalk,pl,0,0,0,0,0.0,0.0
+Holo,pl,0,0,0,0,0.0,0.0
+Hi-Visual,pl,0,0,0,0,0.0,0.0
+henk,pl,0,0,0,0,0.0,0.0
+HELPER,pl,0,0,0,0,0.0,0.0
+JavaML,pl,0,0,0,0,0.0,0.0
+JOSIE,pl,0,0,0,0,0.0,0.0
+Joyce,pl,0,0,0,0,0.0,0.0
+LAP,pl,0,0,0,0,0.0,0.0
+LO,pl,0,0,0,0,0.0,0.0
+LNF,pl,0,0,0,0,0.0,0.0
+Lisptalk,pl,0,0,0,0,0.0,0.0
+LG,pl,0,0,0,0,0.0,0.0
+Lemick,pl,0,0,0,0,0.0,0.0
+LDL,pl,0,0,0,0,0.0,0.0
+LASS,pl,0,0,0,0,0.0,0.0
+LARIS,pl,0,0,0,0,0.0,0.0
+Language for Class Description,pl,0,0,0,0,0.0,0.0
+JOYCE+,pl,0,0,0,0,0.0,0.0
+LAMINA,pl,0,0,0,0,0.0,0.0
+KRIS,pl,0,0,0,0,0.0,0.0
+Klaim,pl,0,0,0,0,0.0,0.0
+KL1,pl,0,0,0,0,0.0,0.0
+Keep It Short and Simple,pl,0,0,0,0,0.0,0.0
+KATE,pl,0,0,0,0,0.0,0.0
+JR,pl,0,0,0,0,0.0,0.0
+JPL,pl,0,0,0,0,0.0,0.0
+HARVEY,pl,0,0,0,0,0.0,0.0
+GROOVE,pl,0,0,0,0,0.0,0.0
+DEBL,pl,0,0,0,0,0.0,0.0
+Green,pl,0,0,0,0,0.0,0.0
+Eva,pl,0,0,0,0,0.0,0.0
+EMMA,pl,0,0,0,0,0.0,0.0
+ELLPACK,pl,0,0,0,0,0.0,0.0
+Elegant,pl,0,0,0,0,0.0,0.0
+Durra,pl,0,0,0,0,0.0,0.0
+DUAL,pl,0,0,0,0,0.0,0.0
+DOPL,pl,0,0,0,0,0.0,0.0
+$,pl,0,0,0,0,0.0,0.0
+DNA,pl,0,0,0,0,0.0,0.0
+DISPEL,pl,0,0,0,0,0.0,0.0
+DISC,pl,0,0,0,0,0.0,0.0
+Dipe-R,pl,0,0,0,0,0.0,0.0
+DIET,pl,0,0,0,0,0.0,0.0
+DICE,pl,0,0,0,0,0.0,0.0
+DIALOG,pl,0,0,0,0,0.0,0.0
+Delta Prolog,pl,0,0,0,0,0.0,0.0
+Delirium,pl,0,0,0,0,0.0,0.0
+DEL,pl,0,0,0,0,0.0,0.0
+DECLARE,pl,0,0,0,0,0.0,0.0
+EXEL,pl,0,0,0,0,0.0,0.0
+Extended Pascal,pl,0,0,0,0,0.0,0.0
+FLIC,pl,0,0,0,0,0.0,0.0
+Gerald,pl,0,0,0,0,0.0,0.0
+Grapheasy,pl,0,0,0,0,0.0,0.0
+GPSS/85,pl,0,0,0,0,0.0,0.0
+GPS,pl,0,0,0,0,0.0,0.0
+GOSPEL,pl,0,0,0,0,0.0,0.0
+GOQL,pl,0,0,0,0,0.0,0.0
+Golog,pl,0,0,0,0,0.0,0.0
+Glish,pl,0,0,0,0,0.0,0.0
+GERMINAL,pl,0,0,0,0,0.0,0.0
+GCC GENERIC,ir,0,0,0,0,0.0,0.0
+FlowNet,protocol,0,0,0,0,0.0,0.0
+GEM,pl,0,0,0,0,0.0,0.0
+GCLA II,pl,0,0,0,0,0.0,0.0
+Galileo,pl,0,0,0,0,0.0,0.0
+Fresco,pl,0,0,0,0,0.0,0.0
+Frenetic,pl,0,0,0,0,0.0,0.0
+FRANK,pl,0,0,0,0,0.0,0.0
+FORTRANSIT,pl,0,0,0,0,0.0,0.0
+FORK,pl,0,0,0,0,0.0,0.0
+Heron,pl,0,0,0,0,0.0,0.0
+Giotto,pl,0,0,0,0,0.0,0.0
+Actalk,pl,0,0,0,0,0.0,0.0
+FML,pl,0,0,0,0,0.0,0.0
+Darcs Advanced Revision Control System,application,0,0,0,0,0.0,0.0
+Emerald,pl,0,0,0,0,0.0,0.0
+QCL,pl,0,0,0,0,0.0,0.0
+sora,pl,0,0,0,0,0.0,0.0
+SubX,assembly,0,0,0,0,0.0,0.0
+webql,queryLanguage,0,0,0,0,0.0,0.0
+ColdFusion Components,xmlFormat,0,0,0,0,0.0,0.0
+Unified Diff,diffFormat,0,0,0,0,0.0,0.0
+Caché Basic,queryLanguage,0,0,0,0,0.0,0.0
+Large-scale Atomic/Molecular Massively Parallel Simulator Format,application,0,0,0,0,0.0,0.0
+xCard,xmlFormat,0,0,0,0,0.0,0.0
+Beatnik,esolang,0,0,0,0,0.0,0.0
+Context Diff,diffFormat,0,0,0,0,0.0,0.0
+mckeeman-form,grammarLanguage,0,0,0,0,0.0,0.0
+zephyr-asdl,grammarLanguage,0,0,0,0,0.0,0.0
+mmix,assembly,0,0,0,0,0.0,0.0
+Structured Control Language,pl,0,0,0,0,0.0,0.0
+Velato,esolang,0,0,0,0,0.0,0.0
+Bossam Rule Language,queryLanguage,0,0,0,0,0.0,0.0
+bioscript,pl,0,0,0,0,0.0,0.0
+Carpet,pl,0,0,0,0,0.0,0.0
+flowlog,pl,0,0,0,0,0.0,0.0
+Molfile,textDataFormat,0,0,0,0,0.0,0.0
+LOLA,pl,0,0,0,0,0.0,0.0
+Linux Kernel Module,application,0,0,0,0,0.0,0.0
+CBOR data definition language,idl,0,0,0,0,0.0,0.0
+hop,pl,0,0,0,0,0.0,0.0
+Joyfully Universal Language for (Inline) Assembly,pl,0,0,0,0,0.0,0.0
+ppm-format,textDataFormat,0,0,0,0,0.0,0.0
+Soy,template,0,0,0,0,0.0,0.0
+Finite State Language,pl,0,0,0,0,0.0,0.0
+Goal,pl,0,0,0,0,0.0,0.0
+HMMM,assembly,0,0,0,0,0.0,0.0
+GraphQL Schema Definition Language,idl,0,0,0,0,0.0,0.0
+Formatted Table,dataNotation,0,0,0,0,0.0,0.0
+specrtl,pl,0,0,0,0,0.0,0.0
+ddfql,queryLanguage,0,0,0,0,0.0,0.0
+I-expressions,dataNotation,0,0,0,0,0.0,0.0
+PLZ,pl,0,0,0,0,0.0,0.0
+dslx,pl,0,0,0,0,0.0,0.0
+turnstile,grammarLanguage,0,0,0,0,0.0,0.0
+snakemake,pl,0,0,0,0,0.0,0.0
+kivy-lang,pl,0,0,0,0,0.0,0.0
+phylip,textDataFormat,0,0,0,0,0.0,0.0
+Public Key File,application,0,0,0,0,0.0,0.0
+Rust HIR,ir,0,0,0,0,0.0,0.0
+WebAssembly Text Format,pl,0,0,0,0,0.0,0.0
+XML Query Language,queryLanguage,0,0,0,0,0.0,0.0
+xt3d,grammarLanguage,0,0,0,0,0.0,0.0
+LOGIN,pl,0,0,0,0,0.0,0.0
+axt-format,textDataFormat,0,0,0,0,0.0,0.0
+Browser Extensible Data Format,textDataFormat,0,0,0,0,0.0,0.0
+Interleaved Notation,pl,0,0,0,0,0.0,0.0
+RAISE Specification Language,pl,0,0,0,0,0.0,0.0
+System V ABI,binaryExecutable,0,0,0,0,0.0,0.0
+IT,pl,0,0,0,0,0.0,0.0
+SNOBOL4,pl,0,0,0,0,0.0,0.0
+Afnix,pl,0,0,0,0,0.0,0.0
+CCS,pl,0,0,0,0,0.0,0.0
+HScript,pl,0,0,0,0,0.0,0.0
+Lorel,queryLanguage,0,0,0,0,0.0,0.0
+Relational Data File,queryLanguage,0,0,0,0,0.0,0.0
+Ruri,pl,0,0,0,0,0.0,0.0
+Statement List,assembly,0,0,0,0,0.0,0.0
+Wikitax,wikiMarkup,0,0,0,0,0.0,0.0
+strudel,textDataFormat,0,0,0,0,0.0,0.0
+Seq,pl,0,0,0,0,0.0,0.0
+rbscript,pl,0,0,0,0,0.0,0.0
+g-expressions,pl,0,0,0,0,0.0,0.0
+ASCII Armor,textEncodingFormat,0,0,0,0,0.0,0.0
+Homespring,pl,0,0,0,0,0.0,0.0
+Post-X,grammarLanguage,0,0,0,0,0.0,0.0
+prompter,pl,0,0,0,0,0.0,0.0
+ssl-lang,pl,0,0,0,0,0.0,0.0
+Bayer Expressions,dataNotation,0,0,0,0,0.0,0.0
+ed script,diffFormat,0,0,0,0,0.0,0.0
+Algae,pl,0,0,0,0,0.0,0.0
+Metaweb Query Language,queryLanguage,0,0,0,0,0.0,0.0
+Nelua,pl,0,0,0,0,0.0,0.0
+Push,pl,0,0,0,0,0.0,0.0
+rapidgen-rpl,pl,0,0,0,0,0.0,0.0
+xduce,pl,0,0,0,0,0.0,0.0
+EverParse3D,idl,0,0,0,0,0.0,0.0
+GRIN,pl,0,0,0,0,0.0,0.0
+guru,pl,0,0,0,0,0.0,0.0
+iikuse,esolang,0,0,0,0,0.0,0.0
+manticore,pl,0,0,0,0,0.0,0.0
+StruQL,queryLanguage,0,0,0,0,0.0,0.0
+Yedalog,queryLanguage,0,0,0,0,0.0,0.0
+CodeStudAssembler,assembly,0,0,0,0,0.0,0.0
+Portable Bit Map Format,textDataFormat,0,0,0,0,0.0,0.0
+SCROLL,pl,0,0,0,0,0.0,0.0
+ROS Message,idl,0,0,0,0,0.0,0.0
+Prolog Pack,packageManager,0,0,0,0,0.0,0.0
+Pluk,pl,0,0,0,0,0.0,0.0
+chain-format,textDataFormat,0,0,0,0,0.0,0.0
+Patchwork,pl,0,0,0,0,0.0,0.0
+nML,pl,0,0,0,0,0.0,0.0
+MENDEL,pl,0,0,0,0,0.0,0.0
+MADCAP VI,pl,0,0,0,0,0.0,0.0
+Lisp Object-Oriented Programming System,pl,0,0,0,0,0.0,0.0
+Lighttpd configuration file,configFormat,0,0,0,0,0.0,0.0
+Fortran 90,pl,0,0,0,0,0.0,0.0
+KB,pl,0,0,0,0,0.0,0.0
+JACL,pl,0,0,0,0,0.0,0.0
+Netpbm grayscale image format,textDataFormat,0,0,0,0,0.0,0.0
+ARM Templates,jsonFormat,0,0,0,0,0.0,0.0
+Generic Expression Language,textMarkup,0,0,0,0,0.0,0.0
+Friendly Enough Expression Language,queryLanguage,0,0,0,0,0.0,0.0
+v8torque,pl,0,0,0,0,0.0,0.0
+sh,pl,0,0,0,0,0.0,0.0
+Tick C,pl,0,0,0,0,0.0,0.0
+Tiki Wiki Markup,wikiMarkup,0,0,0,0,0.0,0.0
+CDL++,pl,0,0,0,0,0.0,0.0
+FAR,pl,0,0,0,0,0.0,0.0
+FORTRAN assembly program,assembly,0,0,0,0,0.0,0.0
+EXPLOR,pl,0,0,0,0,0.0,0.0
+EXPLAN,pl,0,0,0,0,0.0,0.0
+TypeScript Type Declarations,headerLang,0,0,0,0,0.0,0.0
+cooC,pl,0,0,0,0,0.0,0.0
+COMMEN,pl,0,0,0,0,0.0,0.0
+CMIX,pl,0,0,0,0,0.0,0.0
+BIRD,pl,0,0,0,0,0.0,0.0
+torchscript,pl,0,0,0,0,0.0,0.0
+Binary Equation,equation,0,0,0,0,0.0,0.0
+bawk,pl,0,0,0,0,0.0,0.0
+Arc Assembly,assembly,0,0,0,0,0.0,0.0
+aQasm,assembly,0,0,0,0,0.0,0.0
+APL-GPSS,pl,0,0,0,0,0.0,0.0
+ANNA,pl,0,0,0,0,0.0,0.0
+AMTRAN,pl,0,0,0,0,0.0,0.0
+Tutorial D,queryLanguage,0,0,0,0,0.0,0.0
+ETC,pl,0,0,0,0,0.0,0.0
+IRC chat logs,application,0,0,0,0,0.0,0.0
+BALGOL,pl,0,0,0,0,0.0,0.0
+DDF,dataNotation,0,0,0,0,0.0,0.0
+bml,dataNotation,0,0,0,0,0.0,0.0
+Make,application,0,0,0,0,0.0,0.0
+WHIRL,pl,0,0,0,0,0.0,0.0
+Y,pl,0,0,0,0,0.0,0.0
+Linker Script,application,0,0,0,0,0.0,0.0
+Data Communications ALGOL,pl,0,0,0,0,0.0,0.0
+jplace,jsonFormat,0,0,0,0,0.0,0.0
+jcard,jsonFormat,0,0,0,0,0.0,0.0
+xTAO Modeling Language,xmlFormat,0,0,0,0,0.0,0.0
+tremor-query,queryLanguage,0,0,0,0,0.0,0.0
+Reactive Plan Language,pl,0,0,0,0,0.0,0.0
+Filterscript,pl,0,0,0,0,0.0,0.0
+><>,esolang,0,0,0,0,0.0,0.0
+Ion Schema Language,grammarLanguage,0,0,0,0,0.0,0.0
+Robots.txt,configFormat,0,0,0,0,0.0,0.0
+Manchester syntax,dataNotation,0,0,0,0,0.0,0.0
+Explorer,visual,0,0,0,0,0.0,0.0
+JSL,pl,0,0,0,0,0.0,0.0
+net-format,textDataFormat,0,0,0,0,0.0,0.0
+praxis-lang,pl,0,0,0,0,0.0,0.0
+gnu-rtl,ir,0,0,0,0,0.0,0.0
+INQUIRE,queryLanguage,0,0,0,0,0.0,0.0
+Cish,pl,0,0,0,0,0.0,0.0
+Combined Log Format,textDataFormat,0,0,0,0,0.0,0.0
+BridgeTalk,pl,0,0,0,0,0.0,0.0
+BABEL,pl,0,0,0,0,0.0,0.0
+FORTRAN 77,pl,0,0,0,0,0.0,0.0
+CDL,pl,0,0,0,0,0.0,0.0
+Vienna Definition Language,pl,0,0,0,0,0.0,0.0
+SNOBOL3,pl,0,0,0,0,0.0,0.0
+Zeta,pl,0,0,0,0,0.0,0.0
+XQL,queryLanguage,0,0,0,0,0.0,0.0
+McLeyvier Command Language,pl,0,0,0,0,0.0,0.0
+WebGPU Shading Language,pl,0,0,0,0,0.0,0.0
+SNQL: A Social Network Query and Transformation Language,queryLanguage,0,0,0,0,0.0,0.0
+Sapphire,pl,0,0,0,0,0.0,0.0
+rbs,headerLang,0,0,0,0,0.0,0.0
+2-pak,pl,0,0,0,0,0.0,0.0
+Perfectscript,pl,0,0,0,0,0.0,0.0
+order,pl,0,0,0,0,0.0,0.0
+Modified Integration Digital Analog Simulator,pl,0,0,0,0,0.0,0.0
+LOGAL,pl,0,0,0,0,0.0,0.0
+LOGLISP,pl,0,0,0,0,0.0,0.0
+LOGOL,pl,0,0,0,0,0.0,0.0
+STAPLE,pl,0,0,0,0,0.0,0.0
+STAGE2,pl,0,0,0,0,0.0,0.0
+SQURL,pl,0,0,0,0,0.0,0.0
+sqlar-format,binaryDataFormat,0,0,0,0,0.0,0.0
+Symbolic Programming System,pl,0,0,0,0,0.0,0.0
+SPLAW,pl,0,0,0,0,0.0,0.0
+spir-v,ir,0,0,0,0,0.0,0.0
+SPIL,pl,0,0,0,0,0.0,0.0
+SPECOL,pl,0,0,0,0,0.0,0.0
+SPECL,pl,0,0,0,0,0.0,0.0
+SORCA,pl,0,0,0,0,0.0,0.0
+SOLMAR,pl,0,0,0,0,0.0,0.0
+Soar Markup Language,xmlFormat,0,0,0,0,0.0,0.0
+SNOBAT,pl,0,0,0,0,0.0,0.0
+SMoLCS,pl,0,0,0,0,0.0,0.0
+SmallVDM,pl,0,0,0,0,0.0,0.0
+Smalltalk-80,pl,0,0,0,0,0.0,0.0
+Smalltalk-76,pl,0,0,0,0,0.0,0.0
+SMALL-X,pl,0,0,0,0,0.0,0.0
+Small Euclid,pl,0,0,0,0,0.0,0.0
+Standard Lisp,pl,0,0,0,0,0.0,0.0
+*Prolog,pl,0,0,0,0,0.0,0.0
+LogoWriter,pl,0,0,0,0,0.0,0.0
+status-quo-script,pl,0,0,0,0,0.0,0.0
+TDFL,pl,0,0,0,0,0.0,0.0
+TCSP,pl,0,0,0,0,0.0,0.0
+TCOZ,pl,0,0,0,0,0.0,0.0
+tcc,pl,0,0,0,0,0.0,0.0
+Taxis,pl,0,0,0,0,0.0,0.0
+Tarmac,pl,0,0,0,0,0.0,0.0
+TAC,pl,0,0,0,0,0.0,0.0
+TABTRAN,pl,0,0,0,0,0.0,0.0
+TABSOL,pl,0,0,0,0,0.0,0.0
+TABLOG,pl,0,0,0,0,0.0,0.0
+SYNTOL,pl,0,0,0,0,0.0,0.0
+SYNPROC,pl,0,0,0,0,0.0,0.0
+SYNGLISH,pl,0,0,0,0,0.0,0.0
+SW2,pl,0,0,0,0,0.0,0.0
+STRUDL,pl,0,0,0,0,0.0,0.0
+STRESS,pl,0,0,0,0,0.0,0.0
+STREMA,pl,0,0,0,0,0.0,0.0
+STRCMACS,pl,0,0,0,0,0.0,0.0
+StoneCutter,grammarLanguage,0,0,0,0,0.0,0.0
+SMALGOL,pl,0,0,0,0,0.0,0.0
+SLPL,pl,0,0,0,0,0.0,0.0
+SLEUTH,assembly,0,0,0,0,0.0,0.0
+SLAM II,pl,0,0,0,0,0.0,0.0
+SESPATH,pl,0,0,0,0,0.0,0.0
+Sequential Pascal,pl,0,0,0,0,0.0,0.0
+SEQUEL 2,pl,0,0,0,0,0.0,0.0
+Seque,pl,0,0,0,0,0.0,0.0
+SEMANOL,pl,0,0,0,0,0.0,0.0
+SEGRAS,pl,0,0,0,0,0.0,0.0
+SectorC,compiler,0,0,0,0,0.0,0.0
+SDMS,pl,0,0,0,0,0.0,0.0
+ScriptX,pl,0,0,0,0,0.0,0.0
+Scrimshaw,pl,0,0,0,0,0.0,0.0
+SCREAMER,pl,0,0,0,0,0.0,0.0
+Scratchpad II,pl,0,0,0,0,0.0,0.0
+Sclipting,esolang,0,0,0,0,0.0,0.0
+SCAT,assembly,0,0,0,0,0.0,0.0
+SAP HANA,database,0,0,0,0,0.0,0.0
+IBM Programming Language/Advanced Systems,pl,0,0,0,0,0.0,0.0
+PGen,grammarLanguage,0,0,0,0,0.0,0.0
+Pearson correlation coefficient equation,equation,0,0,0,0,0.0,0.0
+PCLOS,pl,0,0,0,0,0.0,0.0
+SESPOOL,pl,0,0,0,0,0.0,0.0
+SetLog,pl,0,0,0,0,0.0,0.0
+SEVAL,pl,0,0,0,0,0.0,0.0
+SIMFACTORY,pl,0,0,0,0,0.0,0.0
+SL5,pl,0,0,0,0,0.0,0.0
+Sketchpad III,pl,0,0,0,0,0.0,0.0
+SIMULA 67,pl,0,0,0,0,0.0,0.0
+SIMUL,pl,0,0,0,0,0.0,0.0
+SimpleScript,pl,0,0,0,0,0.0,0.0
+SIMPAS,pl,0,0,0,0,0.0,0.0
+SIMNET,pl,0,0,0,0,0.0,0.0
+SIML/I,pl,0,0,0,0,0.0,0.0
+SIMDIS,pl,0,0,0,0,0.0,0.0
+Seymour,pl,0,0,0,0,0.0,0.0
+SIMCAL,pl,0,0,0,0,0.0,0.0
+SIMAN IV,pl,0,0,0,0,0.0,0.0
+SIGMA 76,pl,0,0,0,0,0.0,0.0
+SIDOPS+,pl,0,0,0,0,0.0,0.0
+SI Library,pl,0,0,0,0,0.0,0.0
+SheerPower 4GL,pl,0,0,0,0,0.0,0.0
+Shared Prolog,pl,0,0,0,0,0.0,0.0
+ShapeUp,pl,0,0,0,0,0.0,0.0
+TDMS,pl,0,0,0,0,0.0,0.0
+TELSIM,pl,0,0,0,0,0.0,0.0
+Templar,pl,0,0,0,0,0.0,0.0
+Viron,pl,0,0,0,0,0.0,0.0
+XPOP,pl,0,0,0,0,0.0,0.0
+The Algebra,grammarLanguage,0,0,0,0,0.0,0.0
+XML-GL,queryLanguage,0,0,0,0,0.0,0.0
+XCY,pl,0,0,0,0,0.0,0.0
+xADL,pl,0,0,0,0,0.0,0.0
+X11-Basic,pl,0,0,0,0,0.0,0.0
+X-KLAIM,pl,0,0,0,0,0.0,0.0
+WYLBUR,pl,0,0,0,0,0.0,0.0
+WRITEACOURSE,pl,0,0,0,0,0.0,0.0
+Whirlwind,pl,0,0,0,0,0.0,0.0
+WebL,pl,0,0,0,0,0.0,0.0
+WCL,pl,0,0,0,0,0.0,0.0
+VULCAN,pl,0,0,0,0,0.0,0.0
+VSPL,pl,0,0,0,0,0.0,0.0
+VPL,pl,0,0,0,0,0.0,0.0
+viz,pl,0,0,0,0,0.0,0.0
+VIVA,pl,0,0,0,0,0.0,0.0
+Visual Occam,pl,0,0,0,0,0.0,0.0
+Visual Eiffel,pl,0,0,0,0,0.0,0.0
+XSIM,pl,0,0,0,0,0.0,0.0
+XTRAN,pl,0,0,0,0,0.0,0.0
+YugabyteDB,database,0,0,0,0,0.0,0.0
+ABC++,pl,0,0,0,0,0.0,0.0
+ACT ONE,pl,0,0,0,0,0.0,0.0
+ACSL,pl,0,0,0,0,0.0,0.0
+ACOS,pl,0,0,0,0,0.0,0.0
+ACORN,pl,0,0,0,0,0.0,0.0
+Acore,pl,0,0,0,0,0.0,0.0
+ACL,pl,0,0,0,0,0.0,0.0
+AC Toolbox,pl,0,0,0,0,0.0,0.0
+Abstracto,pl,0,0,0,0,0.0,0.0
+ABCL/f,pl,0,0,0,0,0.0,0.0
+ZCCS,pl,0,0,0,0,0.0,0.0
+ABCL/c+,pl,0,0,0,0,0.0,0.0
+ABAL,pl,0,0,0,0,0.0,0.0
+3RIP,pl,0,0,0,0,0.0,0.0
+3DComposer,pl,0,0,0,0,0.0,0.0
+3-LISP,pl,0,0,0,0,0.0,0.0
+2OBJ,pl,0,0,0,0,0.0,0.0
+1.pak,pl,0,0,0,0,0.0,0.0
+ZGRASS,pl,0,0,0,0,0.0,0.0
+VisaVis,pl,0,0,0,0,0.0,0.0
+VIPTRAN,pl,0,0,0,0,0.0,0.0
+Temporal Prolog,pl,0,0,0,0,0.0,0.0
+Vienna Fortran,pl,0,0,0,0,0.0,0.0
+TSL,pl,0,0,0,0,0.0,0.0
+triroff,pl,0,0,0,0,0.0,0.0
+TREET,pl,0,0,0,0,0.0,0.0
+Transforma,pl,0,0,0,0,0.0,0.0
+TRANQUIL,pl,0,0,0,0,0.0,0.0
+TRAMP,pl,0,0,0,0,0.0,0.0
+Traits,pl,0,0,0,0,0.0,0.0
+Trafola-H,pl,0,0,0,0,0.0,0.0
+TPDL*,pl,0,0,0,0,0.0,0.0
+TOOLBUS,pl,0,0,0,0,0.0,0.0
+Tinkertoy,pl,0,0,0,0,0.0,0.0
+Timed CSP,pl,0,0,0,0,0.0,0.0
+TiDB,database,0,0,0,0,0.0,0.0
+TICS,pl,0,0,0,0,0.0,0.0
+THREADED LISTS,pl,0,0,0,0,0.0,0.0
+The Message System,pl,0,0,0,0,0.0,0.0
+TFL,pl,0,0,0,0,0.0,0.0
+Teradata,database,0,0,0,0,0.0,0.0
+Teradata Aster,database,0,0,0,0,0.0,0.0
+TSQL2,pl,0,0,0,0,0.0,0.0
+Turing Plus,pl,0,0,0,0,0.0,0.0
+turnstile-plus,grammarLanguage,0,0,0,0,0.0,0.0
+UNISIM,pl,0,0,0,0,0.0,0.0
+VENUS,pl,0,0,0,0,0.0,0.0
+Vector PASCAL,pl,0,0,0,0,0.0,0.0
+VARLIST,pl,0,0,0,0,0.0,0.0
+VAL II,pl,0,0,0,0,0.0,0.0
+V-Promela,pl,0,0,0,0,0.0,0.0
+Utopia 84,pl,0,0,0,0,0.0,0.0
+USSA,pl,0,0,0,0,0.0,0.0
+UNRAVEL,pl,0,0,0,0,0.0,0.0
+UNICORN,pl,0,0,0,0,0.0,0.0
+Tyco,pl,0,0,0,0,0.0,0.0
+UMTA,pl,0,0,0,0,0.0,0.0
+UFO,pl,0,0,0,0,0.0,0.0
+UFL,pl,0,0,0,0,0.0,0.0
+Ubik,pl,0,0,0,0,0.0,0.0
+UberScript,pl,0,0,0,0,0.0,0.0
+UAN,pl,0,0,0,0,0.0,0.0
+U-Datalog,pl,0,0,0,0,0.0,0.0
+TyRuBa,pl,0,0,0,0,0.0,0.0
+OrientDB,database,0,0,0,0,0.0,0.0
+Oracle,database,0,0,0,0,0.0,0.0
+oniguruma,queryLanguage,0,0,0,0,0.0,0.0
+PACT IA,pl,0,0,0,0,0.0,0.0
+proto-GNOSIS,pl,0,0,0,0,0.0,0.0
+PROPHET,pl,0,0,0,0,0.0,0.0
+Progol,pl,0,0,0,0,0.0,0.0
+ProFIT,pl,0,0,0,0,0.0,0.0
+PRIZ,pl,0,0,0,0,0.0,0.0
+POSE,pl,0,0,0,0,0.0,0.0
+PLACA,pl,0,0,0,0,0.0,0.0
+PL4,pl,0,0,0,0,0.0,0.0
+PL/LL,pl,0,0,0,0,0.0,0.0
+PL/I-FORMAC,pl,0,0,0,0,0.0,0.0
+PIXIN,pl,0,0,0,0,0.0,0.0
+PIT,pl,0,0,0,0,0.0,0.0
+PIN,pl,0,0,0,0,0.0,0.0
+PIE,pl,0,0,0,0,0.0,0.0
+PICASSO,pl,0,0,0,0,0.0,0.0
+PHOCUS,pl,0,0,0,0,0.0,0.0
+Pascal-S,pl,0,0,0,0,0.0,0.0
+PASCAL-I,pl,0,0,0,0,0.0,0.0
+Pascal-FC,pl,0,0,0,0,0.0,0.0
+ProVerif,pl,0,0,0,0,0.0,0.0
+Proxy,pl,0,0,0,0,0.0,0.0
+Py,pl,0,0,0,0,0.0,0.0
+Rebus,pl,0,0,0,0,0.0,0.0
+RUNCIBLE,pl,0,0,0,0,0.0,0.0
+ROSCOE,pl,0,0,0,0,0.0,0.0
+RoboTalk,pl,0,0,0,0,0.0,0.0
+Reuse Description Language,pl,0,0,0,0,0.0,0.0
+Relix,pl,0,0,0,0,0.0,0.0
+REL,pl,0,0,0,0,0.0,0.0
+REL English,pl,0,0,0,0,0.0,0.0
+Refined C,pl,0,0,0,0,0.0,0.0
+Real-Time Euclid,pl,0,0,0,0,0.0,0.0
+python-cl-compiler,compiler,0,0,0,0,0.0,0.0
+rdata-format,binaryDataFormat,0,0,0,0,0.0,0.0
+RC++,pl,0,0,0,0,0.0,0.0
+RACK,pl,0,0,0,0,0.0,0.0
+QUILT,pl,0,0,0,0,0.0,0.0
+Quick Macros,pl,0,0,0,0,0.0,0.0
+Quanta,pl,0,0,0,0,0.0,0.0
+QUADRIL,pl,0,0,0,0,0.0,0.0
+QAS,pl,0,0,0,0,0.0,0.0
+Paragon,pl,0,0,0,0,0.0,0.0
+P/CL,pl,0,0,0,0,0.0,0.0
+RUTH,pl,0,0,0,0,0.0,0.0
+Object-oriented Structured Query Language,queryLanguage,0,0,0,0,0.0,0.0
+Morphe,pl,0,0,0,0,0.0,0.0
+Modula-3*,pl,0,0,0,0,0.0,0.0
+Modula-2+,pl,0,0,0,0,0.0,0.0
+Microsoft Equation Editor,application,0,0,0,0,0.0,0.0
+MetaH,pl,0,0,0,0,0.0,0.0
+META/PLUS,pl,0,0,0,0,0.0,0.0
+MELD,pl,0,0,0,0,0.0,0.0
+MAVIS,pl,0,0,0,0,0.0,0.0
+MARSYAS,pl,0,0,0,0,0.0,0.0
+MAPQUERY,pl,0,0,0,0,0.0,0.0
+Magic Paper,pl,0,0,0,0,0.0,0.0
+MADS,pl,0,0,0,0,0.0,0.0
+MADCAP,pl,0,0,0,0,0.0,0.0
+MIT Algebraic Compiler,pl,0,0,0,0,0.0,0.0
+Lygon,pl,0,0,0,0,0.0,0.0
+Lucid representations,pl,0,0,0,0,0.0,0.0
+LORE,pl,0,0,0,0,0.0,0.0
+LOOPN++,pl,0,0,0,0,0.0,0.0
+LOL,queryLanguage,0,0,0,0,0.0,0.0
+MPSX,pl,0,0,0,0,0.0,0.0
+MUSYS,pl,0,0,0,0,0.0,0.0
+N-Prolog,pl,0,0,0,0,0.0,0.0
+OLDAS,pl,0,0,0,0,0.0,0.0
+Orient84/K,pl,0,0,0,0,0.0,0.0
+OpenAda,pl,0,0,0,0,0.0,0.0
+OOPS,pl,0,0,0,0,0.0,0.0
+OOLP,pl,0,0,0,0,0.0,0.0
+One-man-language,pl,0,0,0,0,0.0,0.0
+OMAR,pl,0,0,0,0,0.0,0.0
+olog,pl,0,0,0,0,0.0,0.0
+OLIVER,pl,0,0,0,0,0.0,0.0
+OFL,pl,0,0,0,0,0.0,0.0
+Nail,pl,0,0,0,0,0.0,0.0
+O,pl,0,0,0,0,0.0,0.0
+NUT,pl,0,0,0,0,0.0,0.0
+NUA-Prolog,pl,0,0,0,0,0.0,0.0
+NSL,pl,0,0,0,0,0.0,0.0
+npy,binaryDataFormat,0,0,0,0,0.0,0.0
+NIL,pl,0,0,0,0,0.0,0.0
+Netscript,pl,0,0,0,0,0.0,0.0
+NetBasic,pl,0,0,0,0,0.0,0.0
+RUSSELL,pl,0,0,0,0,0.0,0.0
+SA,pl,0,0,0,0,0.0,0.0
+Neo4j,database,0,0,0,0,0.0,0.0
+Amazon RDS,database,0,0,0,0,0.0,0.0
+Decision Model & Notation,notation,0,0,0,0,0.0,0.0
+Cymbal,pl,0,0,0,0,0.0,0.0
+Couchbase,database,0,0,0,0,0.0,0.0
+Couchbase Mobile,database,0,0,0,0,0.0,0.0
+ConCurr,pl,0,0,0,0,0.0,0.0
+concept-script,notation,0,0,0,0,0.0,0.0
+COGO,pl,0,0,0,0,0.0,0.0
+Cigale,pl,0,0,0,0,0.0,0.0
+Celsius WebScript,pl,0,0,0,0,0.0,0.0
+BullFrog,esolang,0,0,0,0,0.0,0.0
+BER,pl,0,0,0,0,0.0,0.0
+BeeBasic,pl,0,0,0,0,0.0,0.0
+BEAM Bytecode,bytecode,0,0,0,0,0.0,0.0
+AUTOCODER II,assembly,0,0,0,0,0.0,0.0
+ARTA,pl,0,0,0,0,0.0,0.0
+ArangoDB,database,0,0,0,0,0.0,0.0
+APLO,pl,0,0,0,0,0.0,0.0
+Apache Phoenix,database,0,0,0,0,0.0,0.0
+Apache Derby,database,0,0,0,0,0.0,0.0
+DinnerBell,pl,0,0,0,0,0.0,0.0
+EqL,pl,0,0,0,0,0.0,0.0
+EXAPT,pl,0,0,0,0,0.0,0.0
+MariaDB ColumnStore,database,0,0,0,0,0.0,0.0
+NEBULA,pl,0,0,0,0,0.0,0.0
+Mushroom,pl,0,0,0,0,0.0,0.0
+MODEL-K,pl,0,0,0,0,0.0,0.0
+Microsoft SQL Server,database,0,0,0,0,0.0,0.0
+Microsoft Azure Cosmos DB,database,0,0,0,0,0.0,0.0
+Microsoft Access,database,0,0,0,0,0.0,0.0
+Memcached,database,0,0,0,0,0.0,0.0
+MarkLogic,database,0,0,0,0,0.0,0.0
+kernel-e,pl,0,0,0,0,0.0,0.0
+Firebase Realtime Database,database,0,0,0,0,0.0,0.0
+ji,pl,0,0,0,0,0.0,0.0
+JavaScriptCore,vm,0,0,0,0,0.0,0.0
+InterSystems Caché,database,0,0,0,0,0.0,0.0
+InterBase,database,0,0,0,0,0.0,0.0
+InfluxDB,database,0,0,0,0,0.0,0.0
+IBM DB2,database,0,0,0,0,0.0,0.0
+Greenplum,database,0,0,0,0,0.0,0.0
+Google Cloud SQL,database,0,0,0,0,0.0,0.0
+AMTRAN 70,pl,0,0,0,0,0.0,0.0
+Amazon DynamoDB,database,0,0,0,0,0.0,0.0
+SALEM,pl,0,0,0,0,0.0,0.0
+amalthea,pl,0,0,0,0,0.0,0.0
+2lisp,pl,0,0,0,0,0.0,0.0
+uscript2,notation,0,0,0,0,0.0,0.0
+uscript,notation,0,0,0,0,0.0,0.0
+synergist,pl,0,0,0,0,0.0,0.0
+Socrata Query Language,queryLanguage,0,0,0,0,0.0,0.0
+Siri,pl,0,0,0,0,0.0,0.0
+sourcelair-editor,editor,0,0,0,0,0.0,0.0
+Schrödinger's Equation,equation,0,0,0,0,0.0,0.0
+codelite-editor,editor,0,0,0,0,0.0,0.0
+code-blocks-editor,editor,0,0,0,0,0.0,0.0
+clion-editor,editor,0,0,0,0,0.0,0.0
+brackets-editor,editor,0,0,0,0,0.0,0.0
+appcode-editor,editor,0,0,0,0,0.0,0.0
+Virt,pl,0,0,0,0,0.0,0.0
+Unicode,pl,0,0,0,0,0.0,0.0
+ca65 Assembly,assembly,0,0,0,0,0.0,0.0
+SquidConf,configFormat,0,0,0,0,0.0,0.0
+Scenic,pl,0,0,0,0,0.0,0.0
+Sampletalk,pl,0,0,0,0,0.0,0.0
+arbortext-command-language,pl,0,0,0,0,0.0,0.0
+Argon,pl,0,0,0,0,0.0,0.0
+chappe-code,notation,0,0,0,0,0.0,0.0
+sqlite-storage-format,binaryDataFormat,0,0,0,0,0.0,0.0
+Altibase,database,0,0,0,0,0.0,0.0
+ALJABR,pl,0,0,0,0,0.0,0.0
+ALGOL 68-RT,pl,0,0,0,0,0.0,0.0
+ALEPH,pl,0,0,0,0,0.0,0.0
+adam-standard,standard,0,0,0,0,0.0,0.0
+ACSI-Matic,pl,0,0,0,0,0.0,0.0
+TeaSharp,pl,0,0,0,0,0.0,0.0
+sugarj,grammarLanguage,0,0,0,0,0.0,0.0
+Simple Stackless Lisp,pl,0,0,0,0,0.0,0.0
+concordance,pl,0,0,0,0,0.0,0.0
+shiv,pl,0,0,0,0,0.0,0.0
+runescript,pl,0,0,0,0,0.0,0.0
+pycharm-editor,editor,0,0,0,0,0.0,0.0
+komodo-editor,editor,0,0,0,0,0.0,0.0
+intellijidea-editor,editor,0,0,0,0,0.0,0.0
+Imaginary Number Equation,equation,0,0,0,0,0.0,0.0
+gedit-editor,editor,0,0,0,0,0.0,0.0
+CSV++,dataNotation,0,0,0,0,0.0,0.0
+XQL,queryLanguage,0,0,0,0,0.0,0.0
