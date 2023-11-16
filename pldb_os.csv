@@ -1,0 +1,11 @@
+Nombre,Tipo,Cantidad de libros,Cantidad de artículos,Cantidad de usuarios,Cantidad de proyectos,Cantidad de repositorios,Total
+Linux,os,2,0,3229009,32007,0.0,3261018.0
+Android,os,2,0,975958,9263,0.0,985223.0
+iOS,os,9,0,535588,5010,0.0,540607.0
+Unix,os,0,0,12105,0,0.0,12105.0
+Solaris,os,0,0,6095,0,0.0,6095.0
+FreeBSD,os,0,0,4445,0,0.0,4445.0
+NixOS,os,0,0,800,0,0.0,800.0
+Pick operating system,os,0,0,595,0,0.0,595.0
+Apple ProDOS,os,0,0,235,0,0.0,235.0
+Sprite Operating System,os,0,0,20,0,0.0,20.0
