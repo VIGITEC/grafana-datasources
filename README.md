@@ -1,1 +1,1 @@
-*Los directorios contienen los datos extraídos de GitHub, PLDB, PYPL y TIOBE respectivamente.*
+*Los directorios contienen los datos extraídos de Bigquery, GitHub, PLDB, PYPL y TIOBE respectivamente.*
