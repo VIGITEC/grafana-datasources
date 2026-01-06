@@ -1,0 +1,11 @@
+Nombre,Tipo,Cantidad de libros,Cantidad de artículos,Cantidad de usuarios,Cantidad de proyectos,Cantidad de repositorios,Total
+Vim,editor,0,0,152267,0,0.0,152267.0
+Emacs,editor,0,0,64338,0,0.0,64338.0
+gogs-editor,editor,0,0,55191,0,0.0,55191.0
+Ace Editor,editor,0,0,40169,0,0.0,40169.0
+Monaco Editor,editor,0,0,38687,0,0.0,38687.0
+micro-editor,editor,0,0,22815,0,0.0,22815.0
+gridstudio-editor,editor,0,0,13295,0,0.0,13295.0
+Visual Studio,editor,0,0,10800,0,0.0,10800.0
+Kakoune,editor,0,0,10514,0,0.0,10514.0
+Eclipse,editor,0,0,9480,0,0.0,9480.0

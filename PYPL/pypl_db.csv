@@ -1,0 +1,33 @@
+Posición,Cambio,DB,Calificación(%),Cambio respecto a 1 año atrás(%)
+1,,Oracle,31.49,+3.0 %
+2,,MySQL,13.2,-3.1 %
+3,,SQL Server,10.06,-1.4 %
+4,,PostgreSQL,7.04,-0.1 %
+5,↑↑,Firebase,6.06,+1.1 %
+6,↓,MongoDB,5.44,-0.5 %
+7,↓,Microsoft Access,5.43,-0.2 %
+8,,Redis,3.67,+0.1 %
+9,,Splunk,2.69,-0.0 %
+10,↑↑↑↑↑,Supabase,2.59,+1.5 %
+11,↓,SQLite,2.05,+0.1 %
+12,↓,Elasticsearch,1.56,-0.2 %
+13,↓,MariaDB,1.37,-0.0 %
+14,↓,SAP HANA,1.28,+0.1 %
+15,↑,DB2,1.06,+0.0 %
+16,↓↓,DynamoDB,0.97,-0.1 %
+17,↑,Neo4j,0.69,+0.1 %
+18,↓,Apache Hive,0.47,-0.3 %
+19,↑↑,FileMaker,0.47,+0.0 %
+20,↓,Teradata,0.42,-0.1 %
+21,↓,Solr,0.4,-0.1 %
+22,↑,Ingres,0.29,+0.0 %
+23,↓,Firebird,0.27,+0.0 %
+24,,Sybase,0.22,-0.0 %
+25,,CouchBase,0.16,+0.0 %
+26,↑↑,Riak,0.14,+0.0 %
+27,,Memcached,0.13,-0.0 %
+28,↓↓,Hbase,0.11,-0.0 %
+29,,Informix,0.11,-0.0 %
+30,,CouchDB,0.06,-0.0 %
+31,,dBase,0.05,+0.0 %
+32,,Netezza,0.04,-0.0 %
